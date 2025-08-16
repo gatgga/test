@@ -66,7 +66,7 @@
     "socialGroupId": "ch2525",
     "socialGroupName": "ニコニコニュース",
     "startTime": 1755365400000,
-    "endTime": 1755408600000,
+    "endTime": 1755405000000,
     "showTime": "2025-08-16 17:30:00",
     "onAirTime": "2025-08-16 17:30:00",
     "isCasItem": true
@@ -115,7 +115,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2649833.jpg?1751948842",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2649833",
     "socialGroupName": "うたごえはミルフィーユ",
@@ -133,7 +133,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch912.jpg?1722932186",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch912",
     "socialGroupName": "ホラー百物語チャンネル",
@@ -141,6 +141,24 @@
     "endTime": 1755460800000,
     "showTime": "2025-08-16 20:00:00",
     "onAirTime": "2025-08-16 19:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348491720",
+    "title": "ニコニコニュース実況",
+    "description": "\n\n\n\n本放送枠『ニコニコニュース実況』について\n\n本放送は、メンテナンスなどを除いて、24時間途切れることなく放送を続ける枠です。\nネットで話題のニュースを運...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "onair",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1755374400000,
+    "endTime": 1755734399000,
+    "showTime": "2025-08-16 20:00:00",
+    "onAirTime": "2025-08-16 20:00:00",
     "isCasItem": true
   },
   {
@@ -843,24 +861,6 @@
     "endTime": 1755453600000,
     "showTime": "2025-08-14 00:00:00",
     "onAirTime": "2025-08-14 00:00:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv348460239",
-    "title": "ニコニコニュース実況",
-    "description": "\n\n\n\n本放送枠『ニコニコニュース実況』について\n\n本放送は、メンテナンスなどを除いて、24時間途切れることなく放送を続ける枠です。\nネットで話題のニュースを運...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1755043200000,
-    "endTime": 1755388799000,
-    "showTime": "2025-08-13 00:00:00",
-    "onAirTime": "2025-08-13 00:00:00",
     "isCasItem": true
   }
 ]
