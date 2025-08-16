@@ -1,23 +1,5 @@
 [
   {
-    "id": "lv348188621",
-    "title": "【ポケモンWCS2025】ポケモンワールドチャンピオンシップス2025 カードゲーム部門1日目",
-    "description": "8月15日（金）～17日（日）（現地時間）にアメリカ・アナハイムで行われる、\nポケモンバトルの世界大会「ポケモンワールドチャンピオンシップス2025」\nを現地か...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2637890",
-    "socialGroupName": "【公式】ニコニコゲーム",
-    "startTime": 1755304200000,
-    "endTime": 1755346200000,
-    "showTime": "2025-08-16T00:30:00+09:0032400000",
-    "onAirTime": "2025-08-16T00:15:00+09:0032400000",
-    "isCasItem": true
-  },
-  {
     "id": "lv348196548",
     "title": "【馬房定点】今日のシュシュブリーズ一家",
     "description": "ニコニコユーザーみんなで競走馬を育成！レースデビューを目指します！\n\n『リアルダービースタリオン』\n\nみんなの母馬、シュシュブリーズの一家を馬房から毎日生放送！...",
@@ -31,8 +13,8 @@
     "socialGroupName": "リアルダービースタリオン",
     "startTime": 1755338400000,
     "endTime": 1755422400000,
-    "showTime": "2025-08-16T10:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T09:50:00+09:0032400000",
+    "showTime": "2025-08-1610:00:00",
+    "onAirTime": "2025-08-1609:50:00",
     "isCasItem": true
   },
   {
@@ -49,8 +31,8 @@
     "socialGroupName": "ニコニコニュース",
     "startTime": 1755340200000,
     "endTime": 1755360000000,
-    "showTime": "2025-08-16T10:30:00+09:0032400000",
-    "onAirTime": "2025-08-16T10:20:00+09:0032400000",
+    "showTime": "2025-08-1610:30:00",
+    "onAirTime": "2025-08-1610:20:00",
     "isCasItem": true
   },
   {
@@ -67,8 +49,8 @@
     "socialGroupName": "音楽・アーティストのニコ生まとめ",
     "startTime": 1755345600000,
     "endTime": 1755356400000,
-    "showTime": "2025-08-16T12:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T11:30:00+09:0032400000",
+    "showTime": "2025-08-1612:00:00",
+    "onAirTime": "2025-08-1611:30:00",
     "isCasItem": true
   },
   {
@@ -85,8 +67,8 @@
     "socialGroupName": "ニコニコ競馬チャンネル",
     "startTime": 1755349200000,
     "endTime": 1755378600000,
-    "showTime": "2025-08-16T13:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T12:50:00+09:0032400000",
+    "showTime": "2025-08-1613:00:00",
+    "onAirTime": "2025-08-1612:50:00",
     "isCasItem": true
   },
   {
@@ -103,8 +85,8 @@
     "socialGroupName": "ニコニコ競馬チャンネル",
     "startTime": 1755349200000,
     "endTime": 1755378000000,
-    "showTime": "2025-08-16T13:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T12:50:00+09:0032400000",
+    "showTime": "2025-08-1613:00:00",
+    "onAirTime": "2025-08-1612:50:00",
     "isCasItem": true
   },
   {
@@ -121,8 +103,8 @@
     "socialGroupName": "ニコニコニュース",
     "startTime": 1755365400000,
     "endTime": 1755408600000,
-    "showTime": "2025-08-16T17:30:00+09:0032400000",
-    "onAirTime": "2025-08-16T17:30:00+09:0032400000",
+    "showTime": "2025-08-1617:30:00",
+    "onAirTime": "2025-08-1617:30:00",
     "isCasItem": true
   },
   {
@@ -139,8 +121,8 @@
     "socialGroupName": "バラエティ企画チャンネルBoxTV",
     "startTime": 1755367200000,
     "endTime": 1755381600000,
-    "showTime": "2025-08-16T18:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T17:50:00+09:0032400000",
+    "showTime": "2025-08-1618:00:00",
+    "onAirTime": "2025-08-1617:50:00",
     "isCasItem": true
   },
   {
@@ -157,8 +139,8 @@
     "socialGroupName": "ロックアーティストのニコ生まとめ",
     "startTime": 1755370800000,
     "endTime": 1755378000000,
-    "showTime": "2025-08-16T19:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T18:50:00+09:0032400000",
+    "showTime": "2025-08-1619:00:00",
+    "onAirTime": "2025-08-1618:50:00",
     "isCasItem": true
   },
   {
@@ -175,8 +157,8 @@
     "socialGroupName": "うたごえはミルフィーユ",
     "startTime": 1755373800000,
     "endTime": 1755381000000,
-    "showTime": "2025-08-16T19:50:00+09:0032400000",
-    "onAirTime": "2025-08-16T19:40:00+09:0032400000",
+    "showTime": "2025-08-1619:50:00",
+    "onAirTime": "2025-08-1619:40:00",
     "isCasItem": true
   },
   {
@@ -193,8 +175,8 @@
     "socialGroupName": "ホラー百物語チャンネル",
     "startTime": 1755374400000,
     "endTime": 1755460800000,
-    "showTime": "2025-08-16T20:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T19:50:00+09:0032400000",
+    "showTime": "2025-08-1620:00:00",
+    "onAirTime": "2025-08-1619:50:00",
     "isCasItem": true
   },
   {
@@ -211,8 +193,8 @@
     "socialGroupName": "強くてニューサーガ",
     "startTime": 1755379800000,
     "endTime": 1755381600000,
-    "showTime": "2025-08-16T21:30:00+09:0032400000",
-    "onAirTime": "2025-08-16T21:20:00+09:0032400000",
+    "showTime": "2025-08-1621:30:00",
+    "onAirTime": "2025-08-1621:20:00",
     "isCasItem": true
   },
   {
@@ -229,8 +211,8 @@
     "socialGroupName": "ホラー百物語チャンネル",
     "startTime": 1755381600000,
     "endTime": 1755403200000,
-    "showTime": "2025-08-16T22:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T21:50:00+09:0032400000",
+    "showTime": "2025-08-1622:00:00",
+    "onAirTime": "2025-08-1621:50:00",
     "isCasItem": true
   },
   {
@@ -247,8 +229,8 @@
     "socialGroupName": "ブサメンガチファイター",
     "startTime": 1755381600000,
     "endTime": 1755383400000,
-    "showTime": "2025-08-16T22:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T21:50:00+09:0032400000",
+    "showTime": "2025-08-1622:00:00",
+    "onAirTime": "2025-08-1621:50:00",
     "isCasItem": true
   },
   {
@@ -265,8 +247,8 @@
     "socialGroupName": "彼女、お借りします Season4",
     "startTime": 1755381600000,
     "endTime": 1755390600000,
-    "showTime": "2025-08-16T22:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T21:50:00+09:0032400000",
+    "showTime": "2025-08-1622:00:00",
+    "onAirTime": "2025-08-1621:50:00",
     "isCasItem": true
   },
   {
@@ -283,8 +265,8 @@
     "socialGroupName": "9-nine- Ruler&#x27;s Crown",
     "startTime": 1755383400000,
     "endTime": 1755385200000,
-    "showTime": "2025-08-16T22:30:00+09:0032400000",
-    "onAirTime": "2025-08-16T22:20:00+09:0032400000",
+    "showTime": "2025-08-1622:30:00",
+    "onAirTime": "2025-08-1622:20:00",
     "isCasItem": true
   },
   {
@@ -301,8 +283,8 @@
     "socialGroupName": "フードコートで、また明日。",
     "startTime": 1755385200000,
     "endTime": 1755387000000,
-    "showTime": "2025-08-16T23:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T22:50:00+09:0032400000",
+    "showTime": "2025-08-1623:00:00",
+    "onAirTime": "2025-08-1622:50:00",
     "isCasItem": true
   },
   {
@@ -319,8 +301,8 @@
     "socialGroupName": "アイドルマスター SideMラジオ",
     "startTime": 1755385200000,
     "endTime": 1755387000000,
-    "showTime": "2025-08-16T23:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T22:50:00+09:0032400000",
+    "showTime": "2025-08-1623:00:00",
+    "onAirTime": "2025-08-1622:50:00",
     "isCasItem": true
   },
   {
@@ -337,8 +319,8 @@
     "socialGroupName": "怪獣８号 第２期",
     "startTime": 1755387000000,
     "endTime": 1755388800000,
-    "showTime": "2025-08-16T23:30:00+09:0032400000",
-    "onAirTime": "2025-08-16T23:20:00+09:0032400000",
+    "showTime": "2025-08-1623:30:00",
+    "onAirTime": "2025-08-1623:20:00",
     "isCasItem": true
   },
   {
@@ -355,8 +337,8 @@
     "socialGroupName": "おそ松さん第4期",
     "startTime": 1755388800000,
     "endTime": 1755390600000,
-    "showTime": "2025-08-17T00:00:00+09:0032400000",
-    "onAirTime": "2025-08-16T23:50:00+09:0032400000",
+    "showTime": "2025-08-1700:00:00",
+    "onAirTime": "2025-08-1623:50:00",
     "isCasItem": true
   },
   {
@@ -373,8 +355,8 @@
     "socialGroupName": "ばっどがーる",
     "startTime": 1755390600000,
     "endTime": 1755392400000,
-    "showTime": "2025-08-17T00:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T00:20:00+09:0032400000",
+    "showTime": "2025-08-1700:30:00",
+    "onAirTime": "2025-08-1700:20:00",
     "isCasItem": true
   },
   {
@@ -389,64 +371,10 @@
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2637890",
     "socialGroupName": "【公式】ニコニコゲーム",
-    "startTime": 1755390600000,
+    "startTime": 1755391500000,
     "endTime": 1755427800000,
-    "showTime": "2025-08-17T00:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T00:15:00+09:0032400000",
-    "isCasItem": true
-  },
-  {
-    "id": "lv348188763",
-    "title": "【ポケモンWCS2025】ポケモンワールドチャンピオンシップス2025 『ポケモンユナイト』部門2日目",
-    "description": "8月15日（金）～17日（日）（現地時間）にアメリカ・アナハイムで行われる、\nポケモンバトルの世界大会「ポケモンワールドチャンピオンシップス2025」\nを現地か...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "released",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2637890",
-    "socialGroupName": "【公式】ニコニコゲーム",
-    "startTime": 1755390600000,
-    "endTime": 1755429300000,
-    "showTime": "2025-08-17T00:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T00:15:00+09:0032400000",
-    "isCasItem": true
-  },
-  {
-    "id": "lv348198022",
-    "title": "【ポケモンWCS2025】ポケモンワールドチャンピオンシップス2025 ゲーム部門2日目",
-    "description": "8月15日（金）～17日（日）（現地時間）にアメリカ・アナハイムで行われる、\nポケモンバトルの世界大会「ポケモンワールドチャンピオンシップス2025」\nを現地か...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "released",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2637890",
-    "socialGroupName": "【公式】ニコニコゲーム",
-    "startTime": 1755391500000,
-    "endTime": 1755423600000,
-    "showTime": "2025-08-17T00:45:00+09:0032400000",
-    "onAirTime": "2025-08-17T00:30:00+09:0032400000",
-    "isCasItem": true
-  },
-  {
-    "id": "lv348210342",
-    "title": "【ポケモンWCS2025】ポケモンワールドチャンピオンシップス2025 『ポケモン GO』部門2日目",
-    "description": "8月15日（金）～17日（日）（現地時間）にアメリカ・アナハイムで行われる、\nポケモンバトルの世界大会「ポケモンワールドチャンピオンシップス2025」\nを現地か...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "released",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2637890",
-    "socialGroupName": "【公式】ニコニコゲーム",
-    "startTime": 1755391500000,
-    "endTime": 1755429300000,
-    "showTime": "2025-08-17T00:45:00+09:0032400000",
-    "onAirTime": "2025-08-17T00:30:00+09:0032400000",
+    "showTime": "2025-08-1700:30:00",
+    "onAirTime": "2025-08-1700:15:00",
     "isCasItem": true
   },
   {
@@ -463,8 +391,62 @@
     "socialGroupName": "勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる この白魔導師が規格外すぎる",
     "startTime": 1755392400000,
     "endTime": 1755394200000,
-    "showTime": "2025-08-17T01:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T00:50:00+09:0032400000",
+    "showTime": "2025-08-1701:00:00",
+    "onAirTime": "2025-08-1700:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348188763",
+    "title": "【ポケモンWCS2025】ポケモンワールドチャンピオンシップス2025 『ポケモンユナイト』部門2日目",
+    "description": "8月15日（金）～17日（日）（現地時間）にアメリカ・アナハイムで行われる、\nポケモンバトルの世界大会「ポケモンワールドチャンピオンシップス2025」\nを現地か...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2637890",
+    "socialGroupName": "【公式】ニコニコゲーム",
+    "startTime": 1755392400000,
+    "endTime": 1755429300000,
+    "showTime": "2025-08-1701:00:00",
+    "onAirTime": "2025-08-1700:30:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348198022",
+    "title": "【ポケモンWCS2025】ポケモンワールドチャンピオンシップス2025 ゲーム部門2日目",
+    "description": "8月15日（金）～17日（日）（現地時間）にアメリカ・アナハイムで行われる、\nポケモンバトルの世界大会「ポケモンワールドチャンピオンシップス2025」\nを現地か...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2637890",
+    "socialGroupName": "【公式】ニコニコゲーム",
+    "startTime": 1755392400000,
+    "endTime": 1755423600000,
+    "showTime": "2025-08-1700:45:00",
+    "onAirTime": "2025-08-1700:30:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348210342",
+    "title": "【ポケモンWCS2025】ポケモンワールドチャンピオンシップス2025 『ポケモン GO』部門2日目",
+    "description": "8月15日（金）～17日（日）（現地時間）にアメリカ・アナハイムで行われる、\nポケモンバトルの世界大会「ポケモンワールドチャンピオンシップス2025」\nを現地か...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2637890",
+    "socialGroupName": "【公式】ニコニコゲーム",
+    "startTime": 1755392400000,
+    "endTime": 1755429300000,
+    "showTime": "2025-08-1700:45:00",
+    "onAirTime": "2025-08-1700:30:00",
     "isCasItem": true
   },
   {
@@ -481,8 +463,8 @@
     "socialGroupName": "人妻の唇は缶チューハイの味がして【オンエア版】",
     "startTime": 1755392400000,
     "endTime": 1755394200000,
-    "showTime": "2025-08-17T01:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T00:50:00+09:0032400000",
+    "showTime": "2025-08-1701:00:00",
+    "onAirTime": "2025-08-1700:50:00",
     "isCasItem": true
   },
   {
@@ -499,8 +481,8 @@
     "socialGroupName": "公女殿下の家庭教師",
     "startTime": 1755394200000,
     "endTime": 1755396000000,
-    "showTime": "2025-08-17T01:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T01:20:00+09:0032400000",
+    "showTime": "2025-08-1701:30:00",
+    "onAirTime": "2025-08-1701:20:00",
     "isCasItem": true
   },
   {
@@ -517,8 +499,8 @@
     "socialGroupName": "リアルダービースタリオン",
     "startTime": 1755424800000,
     "endTime": 1755508800000,
-    "showTime": "2025-08-17T10:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T09:50:00+09:0032400000",
+    "showTime": "2025-08-1710:00:00",
+    "onAirTime": "2025-08-1709:50:00",
     "isCasItem": true
   },
   {
@@ -535,8 +517,8 @@
     "socialGroupName": "ニコニコニュース",
     "startTime": 1755426600000,
     "endTime": 1755446400000,
-    "showTime": "2025-08-17T10:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T10:20:00+09:0032400000",
+    "showTime": "2025-08-1710:30:00",
+    "onAirTime": "2025-08-1710:20:00",
     "isCasItem": true
   },
   {
@@ -553,8 +535,8 @@
     "socialGroupName": "ニコニコ競馬チャンネル",
     "startTime": 1755428400000,
     "endTime": 1755453600000,
-    "showTime": "2025-08-17T11:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T10:50:00+09:0032400000",
+    "showTime": "2025-08-1711:00:00",
+    "onAirTime": "2025-08-1710:50:00",
     "isCasItem": true
   },
   {
@@ -571,8 +553,8 @@
     "socialGroupName": "ニコニコ競馬チャンネル",
     "startTime": 1755435600000,
     "endTime": 1755465000000,
-    "showTime": "2025-08-17T13:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T12:50:00+09:0032400000",
+    "showTime": "2025-08-1713:00:00",
+    "onAirTime": "2025-08-1712:50:00",
     "isCasItem": true
   },
   {
@@ -589,8 +571,8 @@
     "socialGroupName": "ニコニコ競馬チャンネル",
     "startTime": 1755435600000,
     "endTime": 1755464400000,
-    "showTime": "2025-08-17T13:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T12:50:00+09:0032400000",
+    "showTime": "2025-08-1713:00:00",
+    "onAirTime": "2025-08-1712:50:00",
     "isCasItem": true
   },
   {
@@ -607,8 +589,8 @@
     "socialGroupName": "ファンタシースターちゃんねる",
     "startTime": 1755442800000,
     "endTime": 1755453600000,
-    "showTime": "2025-08-17T15:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T14:50:00+09:0032400000",
+    "showTime": "2025-08-1715:00:00",
+    "onAirTime": "2025-08-1714:50:00",
     "isCasItem": true
   },
   {
@@ -625,8 +607,8 @@
     "socialGroupName": "「その着せ替え人形（ビスク・ドール）は恋をする」Season 2",
     "startTime": 1755455400000,
     "endTime": 1755464400000,
-    "showTime": "2025-08-17T18:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T18:20:00+09:0032400000",
+    "showTime": "2025-08-1718:30:00",
+    "onAirTime": "2025-08-1718:20:00",
     "isCasItem": true
   },
   {
@@ -643,8 +625,8 @@
     "socialGroupName": "薫る花は凛と咲く",
     "startTime": 1755457200000,
     "endTime": 1755459000000,
-    "showTime": "2025-08-17T19:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T18:50:00+09:0032400000",
+    "showTime": "2025-08-1719:00:00",
+    "onAirTime": "2025-08-1718:50:00",
     "isCasItem": true
   },
   {
@@ -661,8 +643,8 @@
     "socialGroupName": "『ぐらんぶる』Season 2",
     "startTime": 1755459000000,
     "endTime": 1755460800000,
-    "showTime": "2025-08-17T19:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T19:20:00+09:0032400000",
+    "showTime": "2025-08-1719:30:00",
+    "onAirTime": "2025-08-1719:20:00",
     "isCasItem": true
   },
   {
@@ -679,8 +661,8 @@
     "socialGroupName": "異世界転生したらドゲンジャーズだった件",
     "startTime": 1755460800000,
     "endTime": 1755462600000,
-    "showTime": "2025-08-17T20:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T19:50:00+09:0032400000",
+    "showTime": "2025-08-1720:00:00",
+    "onAirTime": "2025-08-1719:50:00",
     "isCasItem": true
   },
   {
@@ -697,8 +679,8 @@
     "socialGroupName": "ホラー百物語チャンネル",
     "startTime": 1755460800000,
     "endTime": 1755482400000,
-    "showTime": "2025-08-17T20:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T19:50:00+09:0032400000",
+    "showTime": "2025-08-1720:00:00",
+    "onAirTime": "2025-08-1719:50:00",
     "isCasItem": true
   },
   {
@@ -715,8 +697,8 @@
     "socialGroupName": "地縛少年花子くん２",
     "startTime": 1755462600000,
     "endTime": 1755464400000,
-    "showTime": "2025-08-17T20:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T20:20:00+09:0032400000",
+    "showTime": "2025-08-1720:30:00",
+    "onAirTime": "2025-08-1720:20:00",
     "isCasItem": true
   },
   {
@@ -733,8 +715,8 @@
     "socialGroupName": "プリンセッション・オーケストラ",
     "startTime": 1755464400000,
     "endTime": 1755466200000,
-    "showTime": "2025-08-17T21:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T20:50:00+09:0032400000",
+    "showTime": "2025-08-1721:00:00",
+    "onAirTime": "2025-08-1720:50:00",
     "isCasItem": true
   },
   {
@@ -751,8 +733,8 @@
     "socialGroupName": "地獄先生ぬーべー",
     "startTime": 1755464400000,
     "endTime": 1755473400000,
-    "showTime": "2025-08-17T21:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T20:50:00+09:0032400000",
+    "showTime": "2025-08-1721:00:00",
+    "onAirTime": "2025-08-1720:50:00",
     "isCasItem": true
   },
   {
@@ -769,8 +751,8 @@
     "socialGroupName": "ウィッチウォッチ",
     "startTime": 1755466200000,
     "endTime": 1755468000000,
-    "showTime": "2025-08-17T21:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T21:20:00+09:0032400000",
+    "showTime": "2025-08-1721:30:00",
+    "onAirTime": "2025-08-1721:20:00",
     "isCasItem": true
   },
   {
@@ -787,8 +769,8 @@
     "socialGroupName": "カラオケ行こ！",
     "startTime": 1755468000000,
     "endTime": 1755469800000,
-    "showTime": "2025-08-17T22:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T21:50:00+09:0032400000",
+    "showTime": "2025-08-1722:00:00",
+    "onAirTime": "2025-08-1721:50:00",
     "isCasItem": true
   },
   {
@@ -805,8 +787,8 @@
     "socialGroupName": "傷だらけ聖女より報復をこめて",
     "startTime": 1755469800000,
     "endTime": 1755471600000,
-    "showTime": "2025-08-17T22:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T22:20:00+09:0032400000",
+    "showTime": "2025-08-1722:30:00",
+    "onAirTime": "2025-08-1722:20:00",
     "isCasItem": true
   },
   {
@@ -823,8 +805,8 @@
     "socialGroupName": "ぷにるはかわいいスライム 第2期",
     "startTime": 1755471600000,
     "endTime": 1755473400000,
-    "showTime": "2025-08-17T23:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T22:50:00+09:0032400000",
+    "showTime": "2025-08-1723:00:00",
+    "onAirTime": "2025-08-1722:50:00",
     "isCasItem": true
   },
   {
@@ -841,8 +823,8 @@
     "socialGroupName": "アイドルマスター SideMラジオ",
     "startTime": 1755471600000,
     "endTime": 1755473400000,
-    "showTime": "2025-08-17T23:00:00+09:0032400000",
-    "onAirTime": "2025-08-17T22:50:00+09:0032400000",
+    "showTime": "2025-08-1723:00:00",
+    "onAirTime": "2025-08-1722:50:00",
     "isCasItem": true
   },
   {
@@ -859,8 +841,8 @@
     "socialGroupName": "地獄先生ぬーべー",
     "startTime": 1755473400000,
     "endTime": 1755475200000,
-    "showTime": "2025-08-17T23:30:00+09:0032400000",
-    "onAirTime": "2025-08-17T23:20:00+09:0032400000",
+    "showTime": "2025-08-1723:30:00",
+    "onAirTime": "2025-08-1723:20:00",
     "isCasItem": true
   },
   {
@@ -877,8 +859,8 @@
     "socialGroupName": "ニコニコニュース",
     "startTime": 1755291600000,
     "endTime": 1755464400000,
-    "showTime": "2025-08-15T21:00:00+09:0032400000",
-    "onAirTime": "2025-08-15T20:50:00+09:0032400000",
+    "showTime": "2025-08-1521:00:00",
+    "onAirTime": "2025-08-1520:50:00",
     "isCasItem": true
   },
   {
@@ -895,8 +877,8 @@
     "socialGroupName": "ニコニコニュース",
     "startTime": 1755129600000,
     "endTime": 1755453600000,
-    "showTime": "2025-08-14T00:00:00+09:0032400000",
-    "onAirTime": "2025-08-14T00:00:00+09:0032400000",
+    "showTime": "2025-08-1400:00:00",
+    "onAirTime": "2025-08-1400:00:00",
     "isCasItem": true
   },
   {
@@ -913,8 +895,8 @@
     "socialGroupName": "ニコニコニュース",
     "startTime": 1755043200000,
     "endTime": 1755388799000,
-    "showTime": "2025-08-13T00:00:00+09:0032400000",
-    "onAirTime": "2025-08-13T00:00:00+09:0032400000",
+    "showTime": "2025-08-1300:00:00",
+    "onAirTime": "2025-08-1300:00:00",
     "isCasItem": true
   }
 ]
