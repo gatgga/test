@@ -72,24 +72,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv348257464",
-    "title": "【競馬実況】浦和競馬 8月18日 【生放送】",
-    "description": "※開演時間が変更となりました※\n本日の競馬実況は12時30分より放送いたします。\n\n\n\n\nニコニコ生放送で\n浦和競馬場のレースを生中継いたします!\n\n\n本日のレ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621731.jpg?1669950003",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2621731",
-    "socialGroupName": "ニコニコ競馬チャンネル",
-    "startTime": 1755520200000,
-    "endTime": 1755536400000,
-    "showTime": "2025-08-18 12:30:00",
-    "onAirTime": "2025-08-18 12:20:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv348195275",
     "title": "【競馬実況】ばんえい競馬 8月18日",
     "description": "\n世界に一つだけの曳き馬競馬「ばんえい競馬」のレースを生放送\n帯広競馬場よりレースを生放送いたします。\n\n本日のレース情報\n\n\n\n\nSPAT4のサイトにジャンプ...",
@@ -414,24 +396,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv348257481",
-    "title": "【競馬実況】浦和競馬 8月19日 【生放送】",
-    "description": "\nニコニコ生放送で\n浦和競馬場のレースを生中継いたします!\n\n\n本日のレース情報\n\n\n\n\n\n\n\nSPAT4のサイトにジャンプします。馬券の購入にはSPAT4のご...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621731.jpg?1669950003",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "released",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2621731",
-    "socialGroupName": "ニコニコ競馬チャンネル",
-    "startTime": 1755603000000,
-    "endTime": 1755622800000,
-    "showTime": "2025-08-19 11:30:00",
-    "onAirTime": "2025-08-19 11:20:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv348345479",
     "title": "【競走馬セリ】サマーセール 2日目",
     "description": "サラブレッド競り市場2025「サマーセール」2日目の模様を生中継\n\n\n\n\n\n\n　関連サイト　\n　JBISサーチ 公式WEB\n　└インターネットオークションサイト...",
@@ -447,6 +411,24 @@
     "endTime": 1755630000000,
     "showTime": "2025-08-19 11:30:00",
     "onAirTime": "2025-08-19 11:20:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348257481",
+    "title": "【競馬実況】浦和競馬 8月19日 【生放送】",
+    "description": "※開演時間が変更となりました※\n本日の競馬実況は12時30分より放送いたします。\n\n\n\nニコニコ生放送で\n浦和競馬場のレースを生中継いたします!\n\n\n本日のレー...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621731.jpg?1669950003",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2621731",
+    "socialGroupName": "ニコニコ競馬チャンネル",
+    "startTime": 1755606600000,
+    "endTime": 1755622800000,
+    "showTime": "2025-08-19 12:30:00",
+    "onAirTime": "2025-08-19 12:20:00",
     "isCasItem": true
   },
   {
