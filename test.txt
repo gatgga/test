@@ -11,6 +11,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv348594612",
+    "title": "ただただ、だらだらする枠",
+    "providerId": "18902361",
+    "providerName": "かびよん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-08-30T03:13:56.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1890/18902361.jpg?1704107546",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348594610",
+    "title": "ウマ娘　周回",
+    "providerId": "21703106",
+    "providerName": "さんさん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-08-30T03:12:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2170/21703106.jpg?1519928117",
+    "category": "live"
+  },
+  {
     "lvId": "lv348594609",
     "title": "レトロシューティング",
     "providerId": "67443680",
@@ -198,28 +220,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348594545",
-    "title": "ラグナロクオンライン",
-    "providerId": "2102212",
-    "providerName": "パイ助",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-08-30T02:54:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/210/2102212.jpg?1596472094",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348594519",
-    "title": "【VOICEROID】作業枠",
-    "providerId": "82378345",
-    "providerName": "東北じゃがいも",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-08-30T02:53:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8237/82378345.jpg?1541571192",
-    "category": "live"
-  },
-  {
     "lvId": "lv348594602",
     "title": "ギター　演奏してみた",
     "providerId": "26185760",
@@ -240,6 +240,28 @@
     "beginAt": "2025-08-30T03:02:26.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2040/20403554.jpg?1412403868",
     "category": "try"
+  },
+  {
+    "lvId": "lv348594614",
+    "title": "おしゃべりしよ",
+    "providerId": "138096196",
+    "providerName": "丁寧",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-08-30T03:14:03.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13809/138096196.jpg?1737044223",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348594613",
+    "title": "【ルーキー】イエミツの雑談配信",
+    "providerId": "61613564",
+    "providerName": "イエミツ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-08-30T03:13:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv348594608",
@@ -316,17 +338,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-08-30T03:06:56.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2510/25103780.jpg?1525329205",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348594582",
-    "title": "@",
-    "providerId": "138096196",
-    "providerName": "丁寧",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-08-30T03:06:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13809/138096196.jpg?1737044223",
     "category": "common"
   },
   {
@@ -568,28 +579,6 @@
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-08-30T02:56:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348594544",
-    "title": "夜中のおまｎこフィスティバル開催中",
-    "providerId": "14427973",
-    "providerName": "島田",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-08-30T02:55:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348594542",
-    "title": "【ルーキー】酒飲み炭酸水のうたうたう",
-    "providerId": "120986615",
-    "providerName": "炭酸水",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-08-30T02:53:41.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
