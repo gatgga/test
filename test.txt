@@ -1,5 +1,38 @@
 [
   {
+    "lvId": "lv348639274",
+    "title": "適当に",
+    "providerId": "45195145",
+    "providerName": "T2",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:58:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348639262",
+    "title": "アズレン",
+    "providerId": "29380681",
+    "providerName": "ふろむ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:56:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2938/29380681.jpg?1612859649",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348639255",
+    "title": "【FF14】のんびりやってます！",
+    "providerId": "26408991",
+    "providerName": "TAKE",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:55:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2640/26408991.jpg?1458575576",
+    "category": "live"
+  },
+  {
     "lvId": "lv348639258",
     "title": "宝くじのPlayStation4ゲーム生放送",
     "providerId": "30221600",
@@ -242,39 +275,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348626479",
-    "title": "DQ10～7.5来たし日課とかストーリー(7.4から)とか～お酒をそえて",
-    "providerId": "12256870",
-    "providerName": "おいもにゅうむ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:40:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1225/12256870.jpg?1713795666",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348639162",
-    "title": "道に迷いつづけるキングスフィールド２ 初見プレイ　07",
-    "providerId": "1734707",
-    "providerName": "きゃらお",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:39:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/173/1734707.jpg?1747194499",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348639153",
-    "title": "こんにちは、グラードン",
-    "providerId": "14738418",
-    "providerName": "かい＠リザードン厨",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:39:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1473/14738418.jpg?1267208732",
-    "category": "live"
-  },
-  {
     "lvId": "lv348639259",
     "title": "らくがき帳",
     "providerId": "15828144",
@@ -295,6 +295,83 @@
     "beginAt": "2025-09-05T00:52:18.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1905/19056153.jpg?1382602218",
     "category": "try"
+  },
+  {
+    "lvId": "lv348588589",
+    "title": "【ちさと配信！】",
+    "providerId": null,
+    "providerName": "インフィニア株式会社",
+    "communityId": "ch2644731",
+    "communityName": "あっとほぉーむカフェ",
+    "beginAt": "2025-09-05T01:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2644731.jpg?1700103604",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348639275",
+    "title": "『誠実放送』配信時間は運命の恋んトスで決まる！",
+    "providerId": "127581841",
+    "providerName": "ひぐちゃん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:59:26.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12758/127581841.jpg?1677852598",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348639271",
+    "title": "🀄️夜のアレ🀄️",
+    "providerId": "7888228",
+    "providerName": "ぴかてふ先生⚡⚡",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:58:59.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/788/7888228.jpg?1660644886",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348639272",
+    "title": "【初配信】ゲストの雑談配信",
+    "providerId": "141530426",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:58:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348639270",
+    "title": "９月最初の大好きください",
+    "providerId": "69066129",
+    "providerName": "自 悠翔",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:58:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6906/69066129.jpg?1715475154",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348639273",
+    "title": "ストーカーに質問",
+    "providerId": "141466168",
+    "providerName": "集団ストーカー被害者",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:58:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14146/141466168.jpg?1756983452",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348639268",
+    "title": "眠りゆく中年　　　（╹◡╹）1178",
+    "providerId": "13665272",
+    "providerName": "禄syou-k",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T00:57:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1366/13665272.jpg?1482235891",
+    "category": "common"
   },
   {
     "lvId": "lv348639266",
@@ -561,17 +638,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv348639213",
-    "title": "【初配信】ゲストの雑談配信",
-    "providerId": "141363095",
-    "providerName": "ゲスト",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:47:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
     "lvId": "lv348639214",
     "title": "友達0です",
     "providerId": "16498470",
@@ -672,7 +738,7 @@
   },
   {
     "lvId": "lv348639196",
-    "title": "ギフト対応版つりっくま  ૮(˶ᵔ ᵕ ᵔ˶)ა    スコア上げのためギフトください 参加歓迎",
+    "title": "ギフト対応版つりっくま  スコア上げのためギフトください 参加歓迎",
     "providerId": "128186057",
     "providerName": "うんてんちゃん⋈*.。",
     "communityId": "co0",
@@ -745,138 +811,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-05T00:40:37.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/216/2169655.jpg?1743503355",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639173",
-    "title": "米フロリダ州すべてのワクチン義務廃止　拍手喝采",
-    "providerId": "2504611",
-    "providerName": "日本神話古事記朗読カイフ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:40:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/250/2504611.jpg?1702548901",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639172",
-    "title": "うぃー",
-    "providerId": "132597906",
-    "providerName": "なめくぢ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:39:58.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13259/132597906.jpg?1712070046",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639170",
-    "title": "1日中いいことなかった",
-    "providerId": "140513750",
-    "providerName": "みうさん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:39:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14051/140513750.jpg?1751604078",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639168",
-    "title": "カーリング道場　野田本部道場",
-    "providerId": "141487775",
-    "providerName": "道場門下生",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:39:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639154",
-    "title": "もう手が痛みだしてきた；；　今年はイレギュラーが多すぎるが頑張る",
-    "providerId": "6015929",
-    "providerName": "かれお",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:39:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/601/6015929.jpg?1710474631",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639164",
-    "title": "【あんスタMusic】ボイプラ見ながら　Ra*bits ☆5友也イベント歩く(﹡ˆ﹀ˆ﹡)♡",
-    "providerId": "120838497",
-    "providerName": "ななし",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:39:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12083/120838497.jpg?1726837013",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639163",
-    "title": "よお、ぽめーら元気してゆ？",
-    "providerId": "93554441",
-    "providerName": "777",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:38:58.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9355/93554441.jpg?1757000304",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639161",
-    "title": "トランぺッター二キに会いたい【5日目】",
-    "providerId": "35841430",
-    "providerName": "セイクリッドマッケンジー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:38:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3584/35841430.jpg?1436874408",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639150",
-    "title": "ラッキーストライク〈ちょい酒〉",
-    "providerId": "127593860",
-    "providerName": "かすみ(掌底＠あばれる君)",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:38:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12759/127593860.jpg?1732185874",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639155",
-    "title": "適当のみ雑",
-    "providerId": "28177405",
-    "providerName": "かいぶつちゃん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:38:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639151",
-    "title": "【ルーキー】みぃの雑談配信　右脳出血で左半身マヒ中　孤独",
-    "providerId": "139186425",
-    "providerName": "ゲストみぃ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:37:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13918/139186425.jpg?1750924614",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348639127",
-    "title": "合言葉【２５B４】PS版orSTEAM版参加自由！",
-    "providerId": "138852691",
-    "providerName": "B4",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T00:37:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13885/138852691.jpg?1755066522",
     "category": "common"
   }
 ]
