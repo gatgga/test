@@ -44,6 +44,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv348640146",
+    "title": "[ﾀﾞｸｿ3] 普通にダクソ @ 腐女子会",
+    "providerId": "9320712",
+    "providerName": "腐女子",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:07:13.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/932/9320712.jpg?1504916974",
+    "category": "live"
+  },
+  {
     "lvId": "lv348640119",
     "title": "垂れ流すゲーム配信#1444（放置配信　垂れ流すサミタ）ゴールデンカムイと鬼浜",
     "providerId": "176792",
@@ -176,26 +187,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv348640104",
-    "title": "a",
-    "providerId": "129608826",
-    "providerName": "ゲスト",
+    "lvId": "lv348640140",
+    "title": "にっこにこ。",
+    "providerId": "129577763",
+    "providerName": "たるるん。",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T05:49:20.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348640098",
-    "title": "【ポケモンSV】飲酒ポケモンバトル！！！！！！【無我の境地型エムリット】",
-    "providerId": "1787875",
-    "providerName": "すこーる（れヴぉす）",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T05:46:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/178/1787875.jpg?1269332680",
-    "category": "live"
+    "beginAt": "2025-09-05T06:06:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12957/129577763.jpg?1687050931",
+    "category": "try"
   },
   {
     "lvId": "lv348640130",
@@ -218,6 +218,83 @@
     "beginAt": "2025-09-05T06:00:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv348640121",
+    "title": "【初見歓迎】 雑談放送：その6127 【ゲスト：ヤスさん】",
+    "providerId": "21198410",
+    "providerName": "イトウ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:07:33.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2119/21198410.jpg?1349090427",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348640147",
+    "title": "社畜の神",
+    "providerId": "135109347",
+    "providerName": "ち　ょ　び",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:07:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13510/135109347.jpg?1756894121",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348640143",
+    "title": "おはようお仕事",
+    "providerId": "140918002",
+    "providerName": "( ˊ̱˂˃ˋ̱ )",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:06:42.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348640142",
+    "title": "雑談配信",
+    "providerId": "135481075",
+    "providerName": "γオクト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:06:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13548/135481075.jpg?1725373715",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348640140",
+    "title": "にっこにこ。",
+    "providerId": "129577763",
+    "providerName": "たるるん。",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:06:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12957/129577763.jpg?1687050931",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348640141",
+    "title": "ソロ",
+    "providerId": "136522196",
+    "providerName": "れもん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:06:05.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348640139",
+    "title": "ジストニアFX　たまに雀魂",
+    "providerId": "70486443",
+    "providerName": "スコール",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-05T06:05:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7048/70486443.jpg?1583243518",
+    "category": "common"
   },
   {
     "lvId": "lv348640138",
@@ -415,50 +492,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-05T05:51:28.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3301/33011779.jpg?1364965427",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348640103",
-    "title": "バイオハザード再び2ndカジテツの朝は早い",
-    "providerId": "41762479",
-    "providerName": "りんたま。",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T05:49:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4176/41762479.jpg?1674137208",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348640101",
-    "title": "徘徊車載",
-    "providerId": "32856291",
-    "providerName": "さむ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T05:48:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3285/32856291.jpg?1740837675",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348640100",
-    "title": "寝配信#399（リスナー様雑談枠）",
-    "providerId": "121605976",
-    "providerName": "ジロー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T05:47:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12160/121605976.jpg?1733474485",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348640099",
-    "title": "飲み疲れた男",
-    "providerId": "79367059",
-    "providerName": "無し男",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-05T05:47:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7936/79367059.jpg?1738347042",
     "category": "common"
   }
 ]
