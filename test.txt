@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv348701841",
+    "title": "ビデオゲーム",
+    "providerId": "124793066",
+    "providerName": "お風呂黄色いとりさん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-13T05:50:26.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12479/124793066.jpg?1722868318",
+    "category": "live"
+  },
+  {
     "lvId": "lv348701831",
     "title": "バイオハザード　リベレーションズひたすらレイド&スト6　マスターザンギの修行道",
     "providerId": "3163799",
@@ -88,28 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348701786",
-    "title": "【神姫】おそめのそくてーおつかれさまでした( ˘ω˘ )",
-    "providerId": "1856336",
-    "providerName": "るし（大蒜玉葱）",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-13T05:31:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/185/1856336.jpg?1546380825",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348701785",
-    "title": "今日もチュートリアル",
-    "providerId": "15933231",
-    "providerName": "暗黒マスター",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-13T05:31:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1593/15933231.jpg?1722836645",
-    "category": "live"
-  },
-  {
     "lvId": "lv348701822",
     "title": "昨日は喋ってたのしかた。キャプ翼",
     "providerId": "95713165",
@@ -119,6 +108,28 @@
     "beginAt": "2025-09-13T05:41:22.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9571/95713165.jpg?1618586491",
     "category": "try"
+  },
+  {
+    "lvId": "lv348701842",
+    "title": "ビットコイン　たまに雀魂",
+    "providerId": "70486443",
+    "providerName": "スコール",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-13T05:51:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7048/70486443.jpg?1583243518",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348701839",
+    "title": "/ぽちゃdbメンヘラ雑談",
+    "providerId": "138492161",
+    "providerName": "ゆれるⒸ(脳イキ系女子)",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-13T05:51:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13849/138492161.jpg?1756225655",
+    "category": "common"
   },
   {
     "lvId": "lv348701840",
@@ -349,50 +360,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-13T05:34:30.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3126/31266678.jpg?1757588606",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348701795",
-    "title": "おはよ",
-    "providerId": "137876293",
-    "providerName": "このメガネお気に入り",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-13T05:33:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13787/137876293.jpg?1754558680",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348701787",
-    "title": "【雑談】おはようからおやすみまで",
-    "providerId": "1225459",
-    "providerName": "桜良ぱぴこ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-13T05:33:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/122/1225459.jpg?1748271041",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348701792",
-    "title": "【貼られたらニコゲー】5時間目 晩酌のお時間。",
-    "providerId": "25999225",
-    "providerName": "ちびノリダー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-13T05:33:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2599/25999225.jpg?1337407532",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348701789",
-    "title": "ざうるすの配信",
-    "providerId": "133108066",
-    "providerName": "ざうるす",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-13T05:32:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13310/133108066.jpg?1754461492",
     "category": "common"
   }
 ]
