@@ -143,17 +143,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348734146",
-    "title": "30分   ミソどうぞ",
-    "providerId": "90022948",
-    "providerName": "びーぷら",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-17T02:06:20.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9002/90022948.jpg?1746387998",
-    "category": "live"
-  },
-  {
     "lvId": "lv348734181",
     "title": "深夜のお仕事",
     "providerId": "44093703",
@@ -163,6 +152,17 @@
     "beginAt": "2025-09-17T02:16:59.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4409/44093703.jpg?1725512764",
     "category": "try"
+  },
+  {
+    "lvId": "lv348734201",
+    "title": "ドラクエ5",
+    "providerId": "18025264",
+    "providerName": "popopo",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-17T02:24:33.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1802/18025264.jpg?1318019479",
+    "category": "common"
   },
   {
     "lvId": "lv348734197",
@@ -371,17 +371,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-17T02:07:25.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348734145",
-    "title": "秋の今宵",
-    "providerId": "134019721",
-    "providerName": "脂身かびごん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-17T02:05:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13401/134019721.jpg?1754296383",
     "category": "common"
   }
 ]
