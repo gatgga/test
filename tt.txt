@@ -36,24 +36,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv348419948",
-    "title": "【競馬実況】名古屋競馬 9月18日 秋の鞍",
-    "description": "\nニコニコ生放送で\n名古屋競馬場のレースを生中継いたします!\n\n\n本日のレース情報\n\n\n\n　　　  　SPAT4\n　\n\nSPAT4のサイトにジャンプします。馬券...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621731.jpg?1669950003",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2621731",
-    "socialGroupName": "ニコニコ競馬チャンネル",
-    "startTime": 1758195000,
-    "endTime": 1758231000,
-    "showTime": "2025-09-18 11:30:00",
-    "onAirTime": "2025-09-18 11:20:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv348505419",
     "title": "【競馬実況】大井競馬 9月18日",
     "description": "\r\nニコニコ生放送で大井競馬場のレースを生中継いたします!\r\n\r\n\r\n本日のレース情報\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSPAT4のサイトにジャンプします。馬券の...",
@@ -115,7 +97,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2525",
     "socialGroupName": "ニコニコニュース",
@@ -357,6 +339,24 @@
     "endTime": 1758360000,
     "showTime": "2025-09-19 10:00:00",
     "onAirTime": "2025-09-19 09:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348745290",
+    "title": "「オンラインカジノ規制、IR構想、ギャンブル依存症について」Gambling with Lives ＆ギャンブル依存症問題を考える会が記者会見 生中継　主催：日本外国特派員協会",
+    "description": "■会見者\nリズ・リッチー（ギャンブリング ウィズ ライブス 共同創設者 兼 家族支援部門理事）\nチャールズ・リッチー（ギャンブリング ウィズ ライブス 共同創設...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1758279600,
+    "endTime": 1758286800,
+    "showTime": "2025-09-19 11:00:00",
+    "onAirTime": "2025-09-19 10:50:00",
     "isCasItem": true
   },
   {
