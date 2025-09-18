@@ -97,7 +97,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2649794.jpg?1751510877",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2649794",
     "socialGroupName": "転生宗主の覇道譚　 すべてを呑み込むサカナと這い上がる",
@@ -411,6 +411,24 @@
     "endTime": 1758315600,
     "showTime": "2025-09-19 13:45:00",
     "onAirTime": "2025-09-19 13:35:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348736942",
+    "title": "【自民党総裁選2025】高市早苗氏 出馬会見 生中継",
+    "description": "石破首相の後任を選ぶ自由民主党総裁選挙（2025年9月22日告示、10月4日開票）に向けて、高市早苗氏が出馬表明。\nニコニコでは、出馬会見を生中継でお届けいたし...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1758292200,
+    "endTime": 1758301200,
+    "showTime": "2025-09-19 14:30:00",
+    "onAirTime": "2025-09-19 14:20:00",
     "isCasItem": true
   },
   {
