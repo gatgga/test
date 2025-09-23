@@ -110,7 +110,7 @@
   {
     "id": "lv348605969",
     "title": "STARRZ TOKYO 2025 ニコ生独占生中継",
-    "description": "都合により、イベント開場・開演時間が大幅に遅れております。\nお待たせして申し訳ございません。12時45分頃番組スタートいたします。  \n\n\n    【お知らせ】...",
+    "description": "\n\n    【お知らせ】\n都合により、17:00ごろ予定の「[MODEL STAGE]SPINNS×私立恵比寿中学」の配信が無しとなりました。\n突然のご案内とな...",
     "providerType": "official",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2642540.jpg?1682058594",
     "isPayProgram": false,
@@ -391,6 +391,24 @@
     "socialGroupName": "ひみつのアイプリ リング編",
     "startTime": 1758663000,
     "endTime": 1758664800,
+    "showTime": "2025-09-23 21:30:00",
+    "onAirTime": "2025-09-23 21:20:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348784596",
+    "title": "国連総会 一般討論演説 生中継｜トランプ大統領･石破総理ら登壇 \"戦後80年の節目\"",
+    "description": "2025年の国連総会は、国連創設80周年の節目にあたります。\n各国の首脳がニューヨークに集結。日本時間の9月23日夜10時頃から一般討論演説が始まり、\n初日はア...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1758663000,
+    "endTime": 1758708000,
     "showTime": "2025-09-23 21:30:00",
     "onAirTime": "2025-09-23 21:20:00",
     "isCasItem": true
