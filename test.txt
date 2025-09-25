@@ -1,5 +1,27 @@
 [
   {
+    "lvId": "lv348803744",
+    "title": "てきとう",
+    "providerId": "59230650",
+    "providerName": "最強さん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-26T02:07:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5923/59230650.jpg?1538390196",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348803738",
+    "title": "ソロ",
+    "providerId": "141746553",
+    "providerName": "Addiction Cast",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-26T02:05:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv348803689",
     "title": "ドラクエ極10",
     "providerId": "21853312",
@@ -19,17 +41,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-26T02:04:23.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348803731",
-    "title": "pc立ち上げるのめんどい",
-    "providerId": "81644616",
-    "providerName": "受賞",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T02:02:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8164/81644616.jpg?1726588327",
     "category": "live"
   },
   {
@@ -220,37 +231,70 @@
     "category": "live"
   },
   {
-    "lvId": "lv348803680",
-    "title": "【縁日射的 #149】85000点以上獲るまでやる",
-    "providerId": "37696957",
-    "providerName": "といろ",
+    "lvId": "lv348803741",
+    "title": "【ルーキー】ゲストの政治配信",
+    "providerId": "141760833",
+    "providerName": "ゲスト",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:47:51.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3769/37696957.jpg?1743603960",
-    "category": "live"
+    "beginAt": "2025-09-26T02:07:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
-    "lvId": "lv348803685",
-    "title": "RAKUGAKI",
-    "providerId": "1562138",
-    "providerName": "肉まんうめぇｗ",
+    "lvId": "lv348803745",
+    "title": "やはり憂鬱",
+    "providerId": "62805812",
+    "providerName": "まっすん",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:49:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1562138.jpg?1371400811",
-    "category": "try"
+    "beginAt": "2025-09-26T02:07:32.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6280/62805812.jpg?1600878140",
+    "category": "common"
   },
   {
-    "lvId": "lv348803677",
-    "title": "BLACK SABBATH",
-    "providerId": "138409256",
-    "providerName": "ねこすけと暮らしている人",
+    "lvId": "lv348803742",
+    "title": "ツイッチで外人が日本系の外人が日本の料理作ってはります",
+    "providerId": "31266678",
+    "providerName": "玄奘",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:46:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13840/138409256.jpg?1738871088",
-    "category": "try"
+    "beginAt": "2025-09-26T02:06:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3126/31266678.jpg?1758378816",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348803743",
+    "title": "作業しながら少しだけ",
+    "providerId": "11847779",
+    "providerName": "マルＭＥＮ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-26T02:06:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1184/11847779.jpg?1688285346",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348803740",
+    "title": "カラオケで歌うだけ明日も仕事の民",
+    "providerId": "132646651",
+    "providerName": "凹型",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-26T02:05:38.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13264/132646651.jpg?1724067678",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348803739",
+    "title": "誰でも大好き",
+    "providerId": "118138381",
+    "providerName": "一ノ川彩美",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-26T02:05:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1722845986",
+    "category": "common"
   },
   {
     "lvId": "lv348803733",
@@ -294,17 +338,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-26T02:02:49.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/42/421727.jpg?1326513350",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803713",
-    "title": "【初配信】ゲストの雑談配信",
-    "providerId": "141760833",
-    "providerName": "ゲスト",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T02:01:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -451,17 +484,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv348803692",
-    "title": "リクエスト誰ですか？顔出しましょうか？💦",
-    "providerId": "141295912",
-    "providerName": "せんざいマン",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:52:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14129/141295912.jpg?1758740140",
-    "category": "common"
-  },
-  {
     "lvId": "lv348803690",
     "title": "ドリフトゲー：PC落ちるかも@猫、耐久テストorゲーム",
     "providerId": "121466456",
@@ -481,83 +503,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-26T01:50:39.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/573/5730681.jpg?1414516994",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803685",
-    "title": "RAKUGAKI",
-    "providerId": "1562138",
-    "providerName": "肉まんうめぇｗ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:49:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1562138.jpg?1371400811",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803684",
-    "title": "寝　イカ",
-    "providerId": "128078900",
-    "providerName": "ぷしゅぷしゅおばばなみえ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:48:58.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12807/128078900.jpg?1739243988",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803681",
-    "title": "友達0です",
-    "providerId": "16498470",
-    "providerName": "よっちゃんイカ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:48:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803682",
-    "title": "ねむねむタワー",
-    "providerId": "9026332",
-    "providerName": "たくぼん           ☆",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:48:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/902/9026332.jpg?1632924330",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803678",
-    "title": "ゆいと飲もう！",
-    "providerId": "137369885",
-    "providerName": "ゆい",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:47:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803677",
-    "title": "BLACK SABBATH",
-    "providerId": "138409256",
-    "providerName": "ねこすけと暮らしている人",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:46:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13840/138409256.jpg?1738871088",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348803676",
-    "title": "からあげとか",
-    "providerId": "73134655",
-    "providerName": "むげきん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-26T01:46:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7313/73134655.jpg?1703604897",
     "category": "common"
   }
 ]
