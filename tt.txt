@@ -43,7 +43,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2649841.jpg?1751509231",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2649841",
     "socialGroupName": "神椿市建設中。《オンエア版》",
@@ -663,24 +663,6 @@
     "endTime": 1759017599,
     "showTime": "2025-09-24 10:30:00",
     "onAirTime": "2025-09-24 10:30:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv348385204",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1758499200,
-    "endTime": 1758823200,
-    "showTime": "2025-09-22 00:00:00",
-    "onAirTime": "2025-09-22 00:00:00",
     "isCasItem": true
   }
 ]
