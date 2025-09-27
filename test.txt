@@ -1,5 +1,93 @@
 [
   {
+    "lvId": "lv348820364",
+    "title": "VOCALOID Nsen",
+    "providerId": "77252482",
+    "providerName": "VOCALOID Nsen",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:00:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7725/77252482.jpg?1519624983",
+    "category": "req"
+  },
+  {
+    "lvId": "lv348820363",
+    "title": "生放送クルーズ",
+    "providerId": "70969122",
+    "providerName": "生放送クルーズ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:00:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7096/70969122.jpg?1548912728",
+    "category": "req"
+  },
+  {
+    "lvId": "lv348820362",
+    "title": "東方 Nsen",
+    "providerId": "77252622",
+    "providerName": "東方 Nsen",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:00:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7725/77252622.jpg?1519625286",
+    "category": "req"
+  },
+  {
+    "lvId": "lv348820368",
+    "title": "FEトラキア",
+    "providerId": "31739402",
+    "providerName": "ざにゃあ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:01:48.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3173/31739402.jpg?1565873880",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348820367",
+    "title": "あさおふね",
+    "providerId": "44024525",
+    "providerName": "太間　雷角斎",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:01:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4402/44024525.jpg?1678050113",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348820360",
+    "title": "urbane-space38のPlayStation4ゲーム生放送",
+    "providerId": "138496104",
+    "providerName": "urbane-space38",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:00:04.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348820359",
+    "title": "【スパロボY/EXPERT】ＣＨＡＰＴＥＲ０４～",
+    "providerId": "780882",
+    "providerName": "kaima",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T05:59:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/78/780882.jpg?1522153194",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348820358",
+    "title": "適当ゲーム",
+    "providerId": "21216645",
+    "providerName": "エージ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T05:59:25.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2121/21216645.jpg?1582607568",
+    "category": "live"
+  },
+  {
     "lvId": "lv348820357",
     "title": "【Diablo4】S10やっていこうか",
     "providerId": "5559023",
@@ -77,15 +165,37 @@
     "category": "live"
   },
   {
-    "lvId": "lv348820322",
-    "title": "艦これ 任務する",
-    "providerId": "1291199",
-    "providerName": "タイガース",
+    "lvId": "lv348820366",
+    "title": "【初配信】 ゲストの雑談配信",
+    "providerId": "141310132",
+    "providerName": "ゲスト",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-28T05:41:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/129/1291199.jpg?1473077693",
-    "category": "live"
+    "beginAt": "2025-09-28T06:00:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348820365",
+    "title": "モクモク作業部屋",
+    "providerId": "9110348",
+    "providerName": "まっつん♂",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:00:32.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348820361",
+    "title": "天気もいいのでアメリカの道をドライブとかしよう配信",
+    "providerId": "121806477",
+    "providerName": "主任",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-28T06:00:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12180/121806477.jpg?1637340031",
+    "category": "common"
   },
   {
     "lvId": "lv348820356",
@@ -283,50 +393,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-28T05:43:28.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3259/32598423.jpg?1689280623",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348820326",
-    "title": "カーリング番外地　朝のアレ",
-    "providerId": "1585732",
-    "providerName": "rustrazor",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-28T05:42:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/158/1585732.jpg?1618192105",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348820325",
-    "title": "いいの？",
-    "providerId": "118138381",
-    "providerName": "一ノ川彩美",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-28T05:42:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1722845986",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348820324",
-    "title": "ニコゲー",
-    "providerId": "125119070",
-    "providerName": "ゲスト",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-28T05:42:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12511/125119070.jpg?1714826502",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348820321",
-    "title": "四川省",
-    "providerId": "129722190",
-    "providerName": "かもめ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-28T05:40:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12972/129722190.jpg?1728546519",
     "category": "common"
   }
 ]
