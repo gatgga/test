@@ -36,24 +36,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv348535192",
-    "title": "ハピネットゲームフェス！ステージ生放送",
-    "description": "東京ゲームショウ2025　ハピネットのメインブースで実施するステージイベントをLIVE配信！\nステージは9/27(土)、9/28(日)の２日間開催します。\n\n▶...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2637890.jpg?1724302388",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2637890",
-    "socialGroupName": "【公式】ニコニコゲーム",
-    "startTime": 1758974400,
-    "endTime": 1758988800,
-    "showTime": "2025-09-27 12:00:00",
-    "onAirTime": "2025-09-27 11:50:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv348421892",
     "title": "【競馬実況】佐賀競馬 9月27日【生放送】",
     "description": "\nニコニコ生放送で\n佐賀競馬場のレースを生中継いたします!\n\n\n本日のレース情報\n\n\n\n　　　  　SPAT4\n　　\n\n※本番組の著作権は権利者に帰属致します。...",
@@ -108,42 +90,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv348302806",
-    "title": "【フットサル】Ｆリーグ2025-26 第13節 湘南 vs すみだ",
-    "description": "＊＊放送予定試合の変更について＊＊\n\nニコニコ生放送では、メットライフ生命Ｆリーグ 2025-26 ディビジョン第13節（9月27日）の放送予定を当初「バサジィ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2640322.jpg?1605068729",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2640322",
-    "socialGroupName": "ニコニコエンタメチャンネル",
-    "startTime": 1758981600,
-    "endTime": 1758990600,
-    "showTime": "2025-09-27 14:00:00",
-    "onAirTime": "2025-09-27 13:50:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv348799095",
-    "title": "「#財務省解体デモ」東京･霞が関の外務省前から生中継（2025年9月27日）",
-    "description": "ニコニコニュースの二次創作ガイドラインについて\n「ニコニコニュース」は、視聴者やファンの皆さまによる二次創作を応援しております。\nそこで、皆さまが安心して二次創...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1758981600,
-    "endTime": 1758988800,
-    "showTime": "2025-09-27 14:00:00",
-    "onAirTime": "2025-09-27 13:50:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv348420056",
     "title": "【競馬実況】高知競馬 9月27日",
     "description": "開演時間が変更となりました※\n本日の競馬実況は14時35分より放送いたします。\n\n\n\nニコニコ生放送で\n高知競馬場のレースを生中継いたします!\n\n\n本日のレース...",
@@ -159,6 +105,24 @@
     "endTime": 1759007400,
     "showTime": "2025-09-27 14:35:00",
     "onAirTime": "2025-09-27 14:25:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv348814775",
+    "title": "ニコニコニュース実況",
+    "description": "\n\n\n\n本放送枠『ニコニコニュース実況』について\n\n本放送は、メンテナンスなどを除いて、24時間途切れることなく放送を続ける枠です。\nネットで話題のニュースを運...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "onair",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1758990000,
+    "endTime": 1759363199,
+    "showTime": "2025-09-27 16:20:00",
+    "onAirTime": "2025-09-27 16:20:00",
     "isCasItem": true
   },
   {
@@ -933,24 +897,6 @@
     "endTime": 1759168800,
     "showTime": "2025-09-26 00:00:00",
     "onAirTime": "2025-09-26 00:00:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv348790902",
-    "title": "ニコニコニュース実況",
-    "description": "\n\n\n\n本放送枠『ニコニコニュース実況』について\n\n本放送は、メンテナンスなどを除いて、24時間途切れることなく放送を続ける枠です。\nネットで話題のニュースを運...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1758709800,
-    "endTime": 1759017599,
-    "showTime": "2025-09-24 10:30:00",
-    "onAirTime": "2025-09-24 10:30:00",
     "isCasItem": true
   }
 ]
