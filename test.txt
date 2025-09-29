@@ -22,6 +22,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv348835743",
+    "title": "ドラクエウォーク＆雑談配信",
+    "providerId": "130656270",
+    "providerName": "日比谷幸助（小説出版予定3月）",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-30T07:06:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13065/130656270.jpg?1729381395",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348835740",
+    "title": "ウマ娘　朝のてきとー育成",
+    "providerId": "22665779",
+    "providerName": "きゅーべい",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-30T07:06:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2266/22665779.jpg?1748167071",
+    "category": "live"
+  },
+  {
     "lvId": "lv348835734",
     "title": "朝かつ",
     "providerId": "2612288",
@@ -165,37 +187,81 @@
     "category": "live"
   },
   {
-    "lvId": "lv348835689",
-    "title": "夜明けのフォールガイズ",
-    "providerId": "99240237",
-    "providerName": "空爽余",
+    "lvId": "lv348835745",
+    "title": "早朝にひっそりやる　生存者が自分しかいない島でいろいろ終わってる地味がーむ（クソ重ラグの中ヤツラを徘徊しつつ叩いてアイテム収集がもはや日課並）。１時間位。適当",
+    "providerId": "150170",
+    "providerName": "まずふら",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:48:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9924/99240237.jpg?1754406411",
-    "category": "live"
+    "beginAt": "2025-09-30T07:07:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/15/150170.jpg?1566880122",
+    "category": "common"
   },
   {
-    "lvId": "lv348835683",
-    "title": "たっぴのGAME陣屋",
-    "providerId": "20297203",
-    "providerName": "たっぴ",
+    "lvId": "lv348835746",
+    "title": "あさラジ",
+    "providerId": "14801629",
+    "providerName": "櫻井(ゆち)",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:46:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2029/20297203.jpg?1543377471",
-    "category": "live"
+    "beginAt": "2025-09-30T07:07:06.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1480/14801629.jpg?1322933731",
+    "category": "common"
   },
   {
-    "lvId": "lv348835685",
-    "title": "【イベント参加中】本日２回目の腹筋でもしちゃう❓💦応援コメよろしくお願い致します📣",
-    "providerId": "1878034",
-    "providerName": "*ringo*",
+    "lvId": "lv348835744",
+    "title": "大公式過疎放送 ~配信歴24年！寿命3年！涙の出勤放送",
+    "providerId": "550993",
+    "providerName": "〇山×男",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:47:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/187/1878034.jpg?1738914484",
-    "category": "try"
+    "beginAt": "2025-09-30T07:06:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/55/550993.jpg?1738578830",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348835742",
+    "title": "おっさんベトナムホーチミン市。",
+    "providerId": "20618388",
+    "providerName": "yorozuyanet",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-30T07:06:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2061/20618388.jpg?1753591743",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348835739",
+    "title": "あぁ",
+    "providerId": "141599337",
+    "providerName": "ときわ2025",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-30T07:06:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14159/141599337.jpg?1758064786",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348835738",
+    "title": "垂れ流し配信",
+    "providerId": "141208727",
+    "providerName": "ぶどうじゅーす",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-30T07:05:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141208727.jpg?1756596187",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348835737",
+    "title": "ジストニアFX　今週301万から　たまに雀魂",
+    "providerId": "70486443",
+    "providerName": "スコール",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-09-30T07:05:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7048/70486443.jpg?1583243518",
+    "category": "common"
   },
   {
     "lvId": "lv348835731",
@@ -437,61 +503,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-09-30T06:49:27.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11990/119902483.jpg?1633593623",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348835691",
-    "title": "社畜の朝☀️٩( 'ω' )وおはよ〜",
-    "providerId": "33293503",
-    "providerName": "ヒグラシ！？",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:49:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3329/33293503.jpg?1441986695",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348835686",
-    "title": "車移動。",
-    "providerId": "13281239",
-    "providerName": "どらご ふわら ぱずー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:47:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1328/13281239.jpg?1437701575",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348835685",
-    "title": "【イベント参加中】本日２回目の腹筋でもしちゃう❓💦応援コメよろしくお願い致します📣",
-    "providerId": "1878034",
-    "providerName": "*ringo*",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:47:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/187/1878034.jpg?1738914484",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348835682",
-    "title": "[車載]仕事行くで",
-    "providerId": "1447787",
-    "providerName": "さじ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:47:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/144/1447787.jpg?1724580611",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348835678",
-    "title": "おきたからな",
-    "providerId": "140500609",
-    "providerName": "あとむたん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-09-30T06:46:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14050/140500609.jpg?1757857980",
     "category": "common"
   }
 ]
