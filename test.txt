@@ -1,14 +1,25 @@
 [
   {
-    "lvId": "lv348849188",
-    "title": "ゲー音生放送",
-    "providerId": "1804902",
-    "providerName": "猪八戒",
+    "lvId": "lv348849283",
+    "title": "料理動画鑑賞会【2025/10/2】",
+    "providerId": "9325110",
+    "providerName": "tm2",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:14:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/180/1804902.jpg?1256904001",
+    "beginAt": "2025-10-02T00:33:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/932/9325110.jpg?1597065801",
     "category": "req"
+  },
+  {
+    "lvId": "lv348849284",
+    "title": "【APEX】のんびり深夜ぺクス",
+    "providerId": "66882063",
+    "providerName": "といふに",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:34:10.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6688/66882063.jpg?1724310906",
+    "category": "live"
   },
   {
     "lvId": "lv348849268",
@@ -121,17 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348849245",
-    "title": "何かやろう課（ズバロボ版）",
-    "providerId": "50409",
-    "providerName": "深夜レイジ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:25:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5/50409.jpg?1538855522",
-    "category": "live"
-  },
-  {
     "lvId": "lv348849239",
     "title": "千年城ぐらストRPGX ～サイクロン目指して～",
     "providerId": "1395446",
@@ -231,59 +231,26 @@
     "category": "live"
   },
   {
-    "lvId": "lv348849198",
-    "title": "HuソードマンのPSO2NGS ship5 part 679 放送総合part 8366",
-    "providerId": "2491615",
-    "providerName": "クレイン",
+    "lvId": "lv348849287",
+    "title": "夜のお絵描き",
+    "providerId": "366682",
+    "providerName": "はちなな",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:15:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/249/2491615.jpg?1528047290",
-    "category": "live"
+    "beginAt": "2025-10-02T00:33:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/36/366682.jpg?1667247534",
+    "category": "try"
   },
   {
-    "lvId": "lv348849197",
-    "title": "魔道士🧙‍♂️少し",
-    "providerId": "134092387",
-    "providerName": "にーーーーーーーーーーーーー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:15:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13409/134092387.jpg?1757302463",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348849193",
-    "title": "30分",
-    "providerId": "54585890",
-    "providerName": "いろはす大好き",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:14:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5458/54585890.jpg?1612168456",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348849181",
-    "title": "少し聖剣伝説2を楽しもう(ゆかりねっと実況)",
-    "providerId": "1242638",
-    "providerName": "OMC",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:14:51.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/124/1242638.jpg?1758008838",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348849180",
-    "title": "【モンハンワイルズ】オメガやるぜ！誰でも参加OK（概要必読）",
-    "providerId": "1954892",
-    "providerName": "はちまん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:13:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/195/1954892.jpg?1612850814",
-    "category": "live"
+    "lvId": "lv348849271",
+    "title": "ピアノ弾き語り生配信「たろらじ」＃３９０",
+    "providerId": null,
+    "providerName": "たろう16bit",
+    "communityId": "ch2590033",
+    "communityName": "たろらじ Hi-Fi",
+    "beginAt": "2025-10-02T00:33:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2590033.jpg?1693489821",
+    "category": "try"
   },
   {
     "lvId": "lv348849238",
@@ -352,15 +319,125 @@
     "category": "try"
   },
   {
-    "lvId": "lv348849199",
-    "title": "軽音楽をを前らに!!",
-    "providerId": "6764341",
-    "providerName": "ぐーぴーぐーぴー",
+    "lvId": "lv348849297",
+    "title": "エビチリ作る",
+    "providerId": "4995275",
+    "providerName": "りーちゃん",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:16:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/676/6764341.jpg?1399540549",
-    "category": "try"
+    "beginAt": "2025-10-02T00:34:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/499/4995275.jpg?1601718012",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849292",
+    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読みっくす)",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:34:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849285",
+    "title": "5千円でかすおを買おうとした輩に天誅下す",
+    "providerId": "127593860",
+    "providerName": "かすみ(掌底＠あばれる君)",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:34:26.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12759/127593860.jpg?1732185874",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849290",
+    "title": "赤貧 メルペイ支払いがキツいんや",
+    "providerId": "90960131",
+    "providerName": "グノーシス松島",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:33:55.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9096/90960131.jpg?1688484147",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849287",
+    "title": "夜のお絵描き",
+    "providerId": "366682",
+    "providerName": "はちなな",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:33:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/36/366682.jpg?1667247534",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849286",
+    "title": "南無阿弥陀仏帰命尽十方無碍光如来",
+    "providerId": "125018656",
+    "providerName": "南無阿弥陀仏帰命尽十方無碍光如来",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:33:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12501/125018656.jpg?1757328418",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849273",
+    "title": "おしり掻きすぎて身がでた",
+    "providerId": "132139464",
+    "providerName": "マンタ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:33:38.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13213/132139464.jpg?1729257801",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849288",
+    "title": "37歳の編みあみ雑談",
+    "providerId": "2419937",
+    "providerName": "ギリギリ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:33:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/241/2419937.jpg?1411566291",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849271",
+    "title": "ピアノ弾き語り生配信「たろらじ」＃３９０",
+    "providerId": null,
+    "providerName": "たろう16bit",
+    "communityId": "ch2590033",
+    "communityName": "たろらじ Hi-Fi",
+    "beginAt": "2025-10-02T00:33:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2590033.jpg?1693489821",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849282",
+    "title": "無理 もう行けない あんな仲睦まじい姿を毎回見せ付けられるとか 拷問以外の何物でもない 耐えられない 息苦しい 生きることなど不可能としか思えない 終末感しかない 無理ゲー",
+    "providerId": "54058175",
+    "providerName": "へっぷ⏅",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:32:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5405/54058175.jpg?1710921024",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348849281",
+    "title": "こんばんは",
+    "providerId": "139648480",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-02T00:32:26.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv348849238",
@@ -778,61 +855,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-02T00:16:38.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1605/16058829.jpg?1515879890",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348849199",
-    "title": "軽音楽をを前らに!!",
-    "providerId": "6764341",
-    "providerName": "ぐーぴーぐーぴー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:16:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/676/6764341.jpg?1399540549",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348849195",
-    "title": "ちょびっと",
-    "providerId": "17948839",
-    "providerName": "asutonbira",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:15:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1794/17948839.jpg?1649288849",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348849196",
-    "title": "あーん♡",
-    "providerId": "137613509",
-    "providerName": "ちゅん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:15:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13761/137613509.jpg?1741170850",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348849179",
-    "title": "【PS5】まったりすすめる復讐生活#1【ゴースト オブ ヨーテイ】",
-    "providerId": "8923481",
-    "providerName": "アニリス",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:14:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/892/8923481.jpg?1425269904",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348849191",
-    "title": "メンヘラのざつのだん。はなそー。",
-    "providerId": "134797909",
-    "providerName": "中途覚醒姐さん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-02T00:14:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13479/134797909.jpg?1732095798",
     "category": "common"
   }
 ]
