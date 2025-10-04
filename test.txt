@@ -1,14 +1,25 @@
 [
   {
-    "lvId": "lv348872591",
-    "title": "ニコニコ動画流します　音楽・コメント募集してます",
-    "providerId": "130702731",
-    "providerName": "ｐｐ（ぴっぴ）",
+    "lvId": "lv348872646",
+    "title": "日々 なうなおチャンネル[カラオケ]",
+    "providerId": "1136735",
+    "providerName": "なうなお",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-05T03:37:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13070/130702731.jpg?1745873368",
-    "category": "req"
+    "beginAt": "2025-10-05T03:58:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/113/1136735.jpg?1663072067",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348872644",
+    "title": "雀魂　雀聖2　毎日コツコツ",
+    "providerId": "456792",
+    "providerName": "クロ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-05T03:57:16.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/45/456792.jpg?1673868916",
+    "category": "live"
   },
   {
     "lvId": "lv348872637",
@@ -220,15 +231,158 @@
     "category": "live"
   },
   {
-    "lvId": "lv348872598",
-    "title": "あくありうむ。　体験版　一般配信なので３０分毎に枠の切り替えがあります(^.^)　癒されに来ました>^_^<",
-    "providerId": "128803344",
-    "providerName": "タクマ",
+    "lvId": "lv348872579",
+    "title": "深夜の配信ワク(*´ω｀*)デス枠＠なるみ",
+    "providerId": "91165533",
+    "providerName": "＠なるみ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-05T03:39:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12880/128803344.jpg?1704637298",
-    "category": "live"
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9116/91165533.jpg?1747043721",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819336",
+    "title": "BS11【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646846",
+    "communityName": "BS11（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646846.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819334",
+    "title": "NHK BS【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2647992",
+    "communityName": "NHK BS（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2647992.jpg?1724304000",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819333",
+    "title": "TOKYO MX【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646485",
+    "communityName": "TOKYO MX（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646485.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819332",
+    "title": "フジテレビ【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646442",
+    "communityName": "フジテレビ（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646442.jpg?1700103629",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819331",
+    "title": "テレビ東京【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646441",
+    "communityName": "テレビ東京（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646441.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819329",
+    "title": "TBSテレビ【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646440",
+    "communityName": "TBSテレビ（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646440.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819328",
+    "title": "テレビ朝日【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646439",
+    "communityName": "テレビ朝日（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646439.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819326",
+    "title": "日本テレビ【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646438",
+    "communityName": "日本テレビ（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646438.jpg?1700103629",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819325",
+    "title": "NHK Eテレ【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646437",
+    "communityName": "NHK Eテレ（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646437.jpg?1700103631",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348819324",
+    "title": "NHK総合【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646436",
+    "communityName": "NHK総合（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646436.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348647043",
+    "title": "サンテレビ【ニコニコ実況】2025年10月05日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2649860",
+    "communityName": "サンテレビ（ニコニコ実況）",
+    "beginAt": "2025-10-05T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2649860.jpg?1749009170",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348872648",
+    "title": "石",
+    "providerId": "45093100",
+    "providerName": "atoz",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-05T03:59:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4509/45093100.jpg?1733166761",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348872649",
+    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読みっくす)",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-05T03:59:18.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv348872640",
@@ -250,17 +404,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-05T03:55:45.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14185/141857868.jpg?1759603938",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348872642",
-    "title": "夢を見た",
-    "providerId": "3489077",
-    "providerName": "スマッシュ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-05T03:55:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/348/3489077.jpg?1328783339",
     "category": "common"
   },
   {
@@ -459,50 +602,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-05T03:40:27.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/902/9026332.jpg?1632924330",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348872601",
-    "title": "孤高の放浪詩人。ともぞうの雑談配信",
-    "providerId": "35598436",
-    "providerName": "孤高の放浪詩人。ともぞう",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-05T03:40:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3559/35598436.jpg?1520224916",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348872595",
-    "title": "わかる！",
-    "providerId": "33873101",
-    "providerName": "オレ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-05T03:38:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3387/33873101.jpg?1448010101",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348872596",
-    "title": "目標一日3千P支援　ペイペイ支援ID⇉pay_okinawa_pay とラインQRコード⇔https://line.me/ti/p/c9cFZCncVpだ。50万貸して",
-    "providerId": "141842425",
-    "providerName": "ゲスト",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-05T03:38:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348872593",
-    "title": "あっぱれ迷探偵　設定5　1～3枠目　ST機部門　爆裂機王",
-    "providerId": "39750893",
-    "providerName": "亡骸",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-05T03:37:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3975/39750893.jpg?1594419953",
     "category": "common"
   }
 ]
