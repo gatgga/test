@@ -1,14 +1,36 @@
 [
   {
-    "lvId": "lv348882813",
-    "title": "色々動画見る",
-    "providerId": "119203298",
-    "providerName": "レラー",
+    "lvId": "lv348882875",
+    "title": "[PS]ドラゴンクエストIV",
+    "providerId": "65319699",
+    "providerName": "シン",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-06T16:17:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11920/119203298.jpg?1758680847",
-    "category": "req"
+    "beginAt": "2025-10-06T16:37:16.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348882874",
+    "title": "ちょっとだけ",
+    "providerId": "136410135",
+    "providerName": "みやよい",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:37:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13641/136410135.jpg?1741167231",
+    "category": "live"
+  },
+  {
+    "lvId": "lv348882853",
+    "title": "仮想世界に漂うネコ【VRC】",
+    "providerId": "135467954",
+    "providerName": "音狐",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:35:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13546/135467954.jpg?1725349199",
+    "category": "live"
   },
   {
     "lvId": "lv348882856",
@@ -165,17 +187,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348882793",
-    "title": "【GAME】ゲームを楽しむための配信【】",
-    "providerId": "2290123",
-    "providerName": "meru",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-06T16:17:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/229/2290123.jpg?1490861962",
-    "category": "live"
-  },
-  {
     "lvId": "lv348882854",
     "title": "ひとり歌い倒す枠。",
     "providerId": "131202482",
@@ -209,15 +220,81 @@
     "category": "try"
   },
   {
-    "lvId": "lv348882809",
-    "title": "ギター弾き語りテスト",
-    "providerId": "139537291",
-    "providerName": "ティー(低音調理)",
+    "lvId": "lv348882876",
+    "title": "50歳無職　FXスイストルコの行方",
+    "providerId": "139209674",
+    "providerName": "50歳無職まー　サブ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-06T16:16:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13953/139537291.jpg?1755938300",
-    "category": "try"
+    "beginAt": "2025-10-06T16:37:22.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348882873",
+    "title": "♡イベ♡ねてた",
+    "providerId": "28364593",
+    "providerName": "ぶったん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:37:12.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2836/28364593.jpg?1741699659",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348882871",
+    "title": "らりりの雑談配信",
+    "providerId": "140934373",
+    "providerName": "らりり",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:36:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14093/140934373.jpg?1757400922",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348882870",
+    "title": "まじゃっす",
+    "providerId": "139947221",
+    "providerName": "じゃじゃ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:35:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13994/139947221.jpg?1759086065",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348882869",
+    "title": "【定点】北のお天気ライブ",
+    "providerId": "13174420",
+    "providerName": "アモ男",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:35:38.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1317/13174420.jpg?1565594460",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348882866",
+    "title": "まいど！",
+    "providerId": "124555160",
+    "providerName": "たかよし",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:34:56.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12455/124555160.jpg?1665913814",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348882865",
+    "title": "どうして人が多い所に行くと不安感が増して首を絞められているように息苦しくなるのか(-＿-；)　匂いの多い場所でもそう。ピカデリーに入ったらポップコーンの匂いで朦朧とした。普通の人なら食欲が湧くのでしょ",
+    "providerId": "54058175",
+    "providerName": "へっぷ⏅",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-06T16:34:48.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5405/54058175.jpg?1710921024",
+    "category": "common"
   },
   {
     "lvId": "lv348882864",
@@ -294,17 +371,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-06T16:32:37.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3601/36017500.jpg?1466618133",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348882851",
-    "title": "タバコ吸いたいけど我慢",
-    "providerId": "138193056",
-    "providerName": "♡ちゃん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-06T16:32:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13819/138193056.jpg?1757077217",
     "category": "common"
   },
   {
@@ -481,39 +547,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-06T16:20:49.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/519/5196362.jpg?1710716896",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348882818",
-    "title": "1999年7の月　地球は滅ぶ",
-    "providerId": "141795179",
-    "providerName": "五島勉２　　　　　　　　　　　／",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-06T16:18:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14179/141795179.jpg?1759095086",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348882809",
-    "title": "ギター弾き語りテスト",
-    "providerId": "139537291",
-    "providerName": "ティー(低音調理)",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-06T16:16:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13953/139537291.jpg?1755938300",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348882810",
-    "title": "テストがてら三保から",
-    "providerId": "141119410",
-    "providerName": "ジェニファー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-06T16:16:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14111/141119410.jpg?1759270205",
     "category": "common"
   }
 ]
