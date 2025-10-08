@@ -36,24 +36,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv348735715",
-    "title": "アイドルマスターシンデレラガールズPARTY! #569",
-    "description": "水曜22時からはニコニコで「アイマス」尽くしの１時間！\n22:00～　CINDERELLA PARTY!\n22:30～　THE IDOLM@STER MUSIC...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2599508.jpg?1700055002",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "released",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2599508",
-    "socialGroupName": "CINDERELLA PARTY!",
-    "startTime": 1759960800,
-    "endTime": 1759962600,
-    "showTime": "2025-10-08 22:00:00",
-    "onAirTime": "2025-10-08 21:50:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv348743386",
     "title": "THE IDOLM@STER MUSIC ON THE RADIO #365",
     "description": "水曜22時からはニコニコで「アイマス」尽くしの１時間！\n22:00～　CINDERELLA PARTY!\n22:30～　THE IDOLM@STER MUSIC...",
@@ -61,7 +43,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2599796.jpg?1727272642",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2599796",
     "socialGroupName": "THE IDOLM@STER MUSIC ON THE RADIO",
@@ -271,8 +253,8 @@
   },
   {
     "id": "lv348881560",
-    "title": "北朝鮮から亡命した元外交官が北朝鮮体制を暴露 記者会見 生中継　主催：日本外国特派員協会",
-    "description": "北朝鮮は、10/10に朝鮮労働党創建80周年を記念して、大規模な軍事パレードを実施するとみられています。\nその前日、外国特派員協会では、亡命した北朝鮮の元外交官...",
+    "title": "北朝鮮から亡命した元外交官が金正恩体制を暴露 李日奎（リ・イルギュ、리일규）氏 記者会見生中継　主催：日本外国特派員協会",
+    "description": "北朝鮮は、朝鮮労働党創建80周年を記念して、大規模な軍事パレードを実施するとみられています。\n日本外国特派員協会では、北朝鮮から韓国に亡命した元外交官を招いて、...",
     "providerType": "official",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
     "isPayProgram": false,
@@ -282,7 +264,7 @@
     "socialGroupId": "ch2525",
     "socialGroupName": "ニコニコニュース",
     "startTime": 1760018400,
-    "endTime": 1760022000,
+    "endTime": 1760025600,
     "showTime": "2025-10-09 14:00:00",
     "onAirTime": "2025-10-09 13:50:00",
     "isCasItem": true
