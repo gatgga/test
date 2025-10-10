@@ -61,7 +61,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621731.jpg?1669950003",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2621731",
     "socialGroupName": "ニコニコ競馬チャンネル",
@@ -72,9 +72,9 @@
     "isCasItem": true
   },
   {
-    "id": "lv348859150",
-    "title": "林芳正 官房長官 記者会見 生中継（2025年10月10日午後）",
-    "description": "林芳正（はやし よしまさ）内閣官房長官による記者会見\nの模様を、首相官邸から生中継いたします。\n　※官房長官の会見スケジュールに合わせ、時間変更の可能性がありま...",
+    "id": "lv348904590",
+    "title": "【戦後80年メッセージを発表】石破茂 内閣総理大臣 記者会見 生中継",
+    "description": "内閣総理大臣の会見スケジュールに合わせ、時間変更の可能性があります。\n\n10月10日（金）17時30分より、\n石破茂 内閣総理大臣による記者会見\nの模様を、生中...",
     "providerType": "official",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
     "isPayProgram": false,
@@ -83,10 +83,10 @@
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2525",
     "socialGroupName": "ニコニコニュース",
-    "startTime": 1760112000,
-    "endTime": 1760115600,
-    "showTime": "2025-10-10 16:00:00",
-    "onAirTime": "2025-10-10 15:50:00",
+    "startTime": 1760117400,
+    "endTime": 1760122800,
+    "showTime": "2025-10-10 17:30:00",
+    "onAirTime": "2025-10-10 17:00:00",
     "isCasItem": true
   },
   {
