@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv348925628",
+    "title": "早朝新",
+    "providerId": "141771603",
+    "providerName": "新田真剣佑",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-12T03:22:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14177/141771603.jpg?1758910500",
+    "category": "live"
+  },
+  {
     "lvId": "lv348925619",
     "title": "【Dogs Organized Neatly】限られた空間に犬をはめる",
     "providerId": "4368927",
@@ -8,17 +19,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-12T03:19:41.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/436/4368927.jpg?1553452390",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348925614",
-    "title": "ゲームセンターＧＣＫ生放送",
-    "providerId": "129050070",
-    "providerName": "メイド喫茶MokuMoku放送局",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-12T03:18:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12905/129050070.jpg?1759514773",
     "category": "live"
   },
   {
@@ -121,17 +121,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348925569",
-    "title": "LOL",
-    "providerId": "43302432",
-    "providerName": "ハイランダー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-12T03:02:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4330/43302432.jpg?1662460368",
-    "category": "live"
-  },
-  {
     "lvId": "lv348925590",
     "title": "RAKUGAKI",
     "providerId": "1562138",
@@ -152,6 +141,39 @@
     "beginAt": "2025-10-12T03:09:17.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14188/141885178.jpg?1760092347",
     "category": "try"
+  },
+  {
+    "lvId": "lv348925626",
+    "title": "【ルーキー】エドヴィナス・マルティンケナスの雑談配信",
+    "providerId": "141921371",
+    "providerName": "エドヴィナス・マルティンケナス",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-12T03:20:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348925625",
+    "title": "ラブ襲３１万超え！ビルボ５０万狙い！",
+    "providerId": "118138381",
+    "providerName": "一ノ川彩美",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-12T03:20:25.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1722845986",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348925623",
+    "title": "出勤前のひととき　〜生涯学習〜",
+    "providerId": "50151337",
+    "providerName": "はぐれぬっくん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-12T03:20:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5015/50151337.jpg?1747204286",
+    "category": "common"
   },
   {
     "lvId": "lv348925618",
@@ -209,17 +231,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv348925603",
-    "title": "一緒に、パンクバンド組みませんか?",
-    "providerId": "130596900",
-    "providerName": "ののワ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-12T03:15:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13059/130596900.jpg?1695896337",
-    "category": "common"
-  },
-  {
     "lvId": "lv348925600",
     "title": "【出戻り】ラリラリ配信",
     "providerId": "141517067",
@@ -228,17 +239,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-12T03:15:19.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14151/141517067.jpg?1758325619",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348925559",
-    "title": "僕は君を愛してる！",
-    "providerId": "4932154",
-    "providerName": "ネコジタｚ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-12T03:14:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -397,7 +397,7 @@
   },
   {
     "lvId": "lv348925583",
-    "title": "顔出し？",
+    "title": "雑談",
     "providerId": "141310132",
     "providerName": "ゲスト",
     "communityId": "co0",
@@ -437,39 +437,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-12T03:05:07.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5253/52539248.jpg?1758473055",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348925571",
-    "title": "酒処『上州』❤乾杯❤",
-    "providerId": "127508987",
-    "providerName": "店長",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-12T03:04:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12750/127508987.jpg?1711158002",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348925565",
-    "title": "ひっそりカラオケ…",
-    "providerId": "118582031",
-    "providerName": "スケルトン/スケネット",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-12T03:02:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11858/118582031.jpg?1680446795",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348925566",
-    "title": "気軽にコメントしてね^_^メジコン",
-    "providerId": "139407889",
-    "providerName": "いりこちゃん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-12T03:01:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13940/139407889.jpg?1754272370",
     "category": "common"
   }
 ]
