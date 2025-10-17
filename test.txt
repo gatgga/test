@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv348965730",
+    "title": "VOCALOID周年曲 10/17",
+    "providerId": "9505752",
+    "providerName": "HiTo",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:05:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/950/9505752.jpg?1276181272",
+    "category": "req"
+  },
+  {
     "lvId": "lv348965715",
     "title": "VOCALOID Nsen",
     "providerId": "77252482",
@@ -42,6 +53,17 @@
     "beginAt": "2025-10-17T11:50:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1725/17251850.jpg?1377797384",
     "category": "req"
+  },
+  {
+    "lvId": "lv348965729",
+    "title": "【初見プレイ】Pokemon LEGENDS ZA【一応switch2版】",
+    "providerId": "29748658",
+    "providerName": "ムイムイ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:04:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2974/29748658.jpg?1530777628",
+    "category": "live"
   },
   {
     "lvId": "lv348965719",
@@ -264,28 +286,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348965652",
-    "title": "姫9　70から上へ",
-    "providerId": "140503182",
-    "providerName": "なぎり",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:46:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14050/140503182.jpg?1750051134",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348965644",
-    "title": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
-    "providerId": "562236",
-    "providerName": "ぼうらよ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:43:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/56/562236.jpg?1449357359",
-    "category": "live"
-  },
-  {
     "lvId": "lv348963614",
     "title": "【雑談】流行に乗る事。激痛。オタク年表【漫画家Vtuberかなしみちゃん生放送～第477回】",
     "providerId": "115819401",
@@ -328,6 +328,105 @@
     "beginAt": "2025-10-17T11:55:12.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1562138.jpg?1371400811",
     "category": "try"
+  },
+  {
+    "lvId": "lv348965737",
+    "title": "いいたいことを言ってるだけの配信",
+    "providerId": "140697502",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:04:31.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965736",
+    "title": "らりりの雑談配信",
+    "providerId": "140934373",
+    "providerName": "らりり",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:03:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14093/140934373.jpg?1757400922",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965728",
+    "title": "アル中デブスなおばさんの酒雑",
+    "providerId": "134120258",
+    "providerName": "りんご（偽）",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:02:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13412/134120258.jpg?1725512338",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965734",
+    "title": "【初配信】ゲストの雑談配信",
+    "providerId": "141743811",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:02:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965731",
+    "title": "【ルーキー】ひきこもりゲストの雑談配信",
+    "providerId": "141697282",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:02:32.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965733",
+    "title": "びらの雑談配信",
+    "providerId": "1067309",
+    "providerName": "びら",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:02:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/106/1067309.jpg?1282840546",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965732",
+    "title": "2025 /10/17 寝起き",
+    "providerId": "134019721",
+    "providerName": "脂身かびごん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:02:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13401/134019721.jpg?1754296383",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965717",
+    "title": "上田潤先生の悲痛な訴え。大学のアカデミズムは生き残れるのか？",
+    "providerId": "3799909",
+    "providerName": "森田 洋之",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:01:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/379/3799909.jpg?1653270000",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348965727",
+    "title": "カツドン",
+    "providerId": "130498995",
+    "providerName": "ぬめめ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-17T12:01:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13049/130498995.jpg?1727009488",
+    "category": "common"
   },
   {
     "lvId": "lv348965721",
@@ -503,17 +602,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-17T11:59:25.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9754/97544900.jpg?1592871677",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965701",
-    "title": "【ルーキー】ゲストの雑談配信",
-    "providerId": "141746788",
-    "providerName": "ゲスト",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:58:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -745,94 +833,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-17T11:47:23.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14137/141377827.jpg?1760661712",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965653",
-    "title": "おはよう",
-    "providerId": "136875297",
-    "providerName": "智慧",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:46:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13687/136875297.jpg?1730799879",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965650",
-    "title": "やほやほ",
-    "providerId": "141084268",
-    "providerName": "ちゃむ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:45:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14108/141084268.jpg?1756723105",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965649",
-    "title": "見当違いのタイミング",
-    "providerId": "135729063",
-    "providerName": "ネスコ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:45:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13572/135729063.jpg?1739776692",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348961957",
-    "title": "35歳無職、埼玉県西所沢駅から東京都拝島まで歩く",
-    "providerId": "128713375",
-    "providerName": "だぁナス",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:45:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12871/128713375.jpg?1756302058",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965647",
-    "title": "【#コンパス】コメントミッションどうぞ、ギフト頂けると嬉しいです【無言】",
-    "providerId": "6473657",
-    "providerName": "らな",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:44:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/647/6473657.jpg?1417763979",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965646",
-    "title": "孤高の放浪詩人。ともぞうの雑談配信",
-    "providerId": "35598436",
-    "providerName": "孤高の放浪詩人。ともぞう",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:44:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3559/35598436.jpg?1520224916",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965648",
-    "title": "makuokuさんちのPC相談室　各種雑談も可",
-    "providerId": "15116894",
-    "providerName": "makuoku",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:44:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1511/15116894.jpg?1453471570",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348965645",
-    "title": "どうなる？高市トレード！",
-    "providerId": "40320713",
-    "providerName": "ステーキ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-17T11:43:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4032/40320713.jpg?1750069110",
     "category": "common"
   }
 ]
