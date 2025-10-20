@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv348965118",
+    "title": "TAITO LIVE@秋葉原「Hey」",
+    "providerId": null,
+    "providerName": "株式会社タイトー",
+    "communityId": "ch2611241",
+    "communityName": "秋葉原 Hey チャンネル",
+    "beginAt": "2025-10-20T09:50:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2611241.jpg?1700094604",
+    "category": "live"
+  },
+  {
     "lvId": "lv348990031",
     "title": "今日も明日も明後日もやるゲームが多すぎて安定しないビチクソ野郎です！",
     "providerId": "21311847",
@@ -88,105 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv348989979",
-    "title": "マフィア　初見プレイ＃10",
-    "providerId": "128277277",
-    "providerName": "くさぴー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:31:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12827/128277277.jpg?1742764106",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348989978",
-    "title": "まったりF1  23  アメリカGP",
-    "providerId": "24759807",
-    "providerName": "わたり～☆",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:30:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2475/24759807.jpg?1706158363",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348989977",
-    "title": "【コメント自由】コンパス配信イベント参加中！【マイクoff】ポケポケもやってるかも",
-    "providerId": "88852",
-    "providerName": "てるぼー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:30:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8/88852.jpg?1425778380",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348989976",
-    "title": "スーパーチャイニーズワールド　初見プレイ",
-    "providerId": "8349982",
-    "providerName": "モマメ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:30:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/834/8349982.jpg?1634987864",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348989954",
-    "title": "【雀魂】第35回 生主の引きの弱さをゲラゲラと笑う枠【三麻/玉の間】",
-    "providerId": "4241225",
-    "providerName": "GX@劉禅の大攻勢",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:30:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/424/4241225.jpg?1280336187",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348888136",
-    "title": "TAITO LIVE@秋葉原「Hey」4階",
-    "providerId": null,
-    "providerName": "株式会社タイトー",
-    "communityId": "ch2621685",
-    "communityName": "秋葉原 Hey チャンネル2",
-    "beginAt": "2025-10-20T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621685.jpg?1700094604",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348989972",
-    "title": "泥酔",
-    "providerId": "13858531",
-    "providerName": "ちょーぶん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:29:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1385/13858531.jpg?1357229133",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348989971",
-    "title": "【PC】Hades",
-    "providerId": "233920",
-    "providerName": "メルカトル鮎",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:29:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/23/233920.jpg?1571710502",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348989968",
-    "title": "【ポケモンレジェンズZ-A】有給なので一気に進めたいところ",
-    "providerId": "43767030",
-    "providerName": "ノーマ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:28:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4376/43767030.jpg?1444636026",
-    "category": "live"
-  },
-  {
     "lvId": "lv348990018",
     "title": "【ギターとベース】Rocksmithやる",
     "providerId": "1013230",
@@ -218,6 +130,72 @@
     "beginAt": "2025-10-20T09:32:10.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4409/44093703.jpg?1725512764",
     "category": "try"
+  },
+  {
+    "lvId": "lv348990035",
+    "title": "平和堂の抽選会に行きたい",
+    "providerId": "116899310",
+    "providerName": "しもの",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-20T09:49:12.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11689/116899310.jpg?1728040595",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348990038",
+    "title": "アル中デブスなおばさんの酒雑",
+    "providerId": "134120258",
+    "providerName": "りんご（偽）",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-20T09:48:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13412/134120258.jpg?1725512338",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348990036",
+    "title": "【pixel10pro】K2の配信です【au】",
+    "providerId": "26824664",
+    "providerName": "K2             ☆",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-20T09:48:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2682/26824664.jpg?1620741655",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348990025",
+    "title": "まったり　42歳",
+    "providerId": "42523164",
+    "providerName": "ヒロキング",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-20T09:48:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348990033",
+    "title": ".",
+    "providerId": "63498322",
+    "providerName": "タチミ。",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-20T09:47:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6349/63498322.jpg?1658844798",
+    "category": "common"
+  },
+  {
+    "lvId": "lv348989995",
+    "title": "朝作業",
+    "providerId": "91367470",
+    "providerName": "無名",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-20T09:47:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9136/91367470.jpg?1580151181",
+    "category": "common"
   },
   {
     "lvId": "lv348990029",
@@ -327,17 +305,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-20T09:41:47.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14169/141694489.jpg?1760745720",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348990009",
-    "title": "朝コロ仕事前に",
-    "providerId": "131019884",
-    "providerName": "コロコロ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:40:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -470,50 +437,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-20T09:31:51.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2767/27671781.jpg?1680734722",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348989980",
-    "title": "【吃音リハビリ朗読＆雑談&歌】※詳しくは番組詳細にて",
-    "providerId": "1127518",
-    "providerName": "KU＠筋トレetc",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:31:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/112/1127518.jpg?1506768626",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348989975",
-    "title": "ときたんとお散歩なう",
-    "providerId": "134175625",
-    "providerName": "なちゃん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:29:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13417/134175625.jpg?1724507686",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348989970",
-    "title": "電話回線？に詳しい方、こーゆー不思議な体験したことある方教えてくださいの20分くらい",
-    "providerId": "132600995",
-    "providerName": "すぬ  (があじゅ)",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:28:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13260/132600995.jpg?1754652026",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348989969",
-    "title": "一般会員の姫ぷ　40階からレンタル・初心者OK　30分ヾ(。゜▽゜)ノ",
-    "providerId": "1392167",
-    "providerName": "//////rain//////",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-20T09:28:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/139/1392167.jpg?1739258997",
     "category": "common"
   }
 ]
