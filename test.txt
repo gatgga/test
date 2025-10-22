@@ -11,6 +11,39 @@
     "category": "req"
   },
   {
+    "lvId": "lv349010102",
+    "title": "ガチャ待機勢",
+    "providerId": "60397871",
+    "providerName": "ねくすと",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-23T02:19:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349010101",
+    "title": "【FFXVI】クリスタルの真のクリスタルの戦士の物語",
+    "providerId": "219020",
+    "providerName": "suzakuXIII",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-23T02:19:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/21/219020.jpg?1487934259",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349010098",
+    "title": "初心者がfgoを楽しむ🐣奏章やる。",
+    "providerId": "28054172",
+    "providerName": "ごうやな",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-23T02:18:59.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2805/28054172.jpg?1760678025",
+    "category": "live"
+  },
+  {
     "lvId": "lv349010091",
     "title": "#1 初めて遊ぶゼルダの伝説　神々のトライフォース",
     "providerId": "2015756",
@@ -209,28 +242,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349010035",
-    "title": "【ディフェンスタワー】おさるのディフェンスタワーをちょっとだけ適当に遊ぶ【声なし】",
-    "providerId": "16134360",
-    "providerName": "kaidoku21",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T02:00:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1613/16134360.jpg?1359472554",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349009424",
-    "title": "【Minecraft】ウィザー1人で行けるなら何でも行けるのでは・・・？！【#やと鯖S1】",
-    "providerId": "130915703",
-    "providerName": "1017",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T02:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13091/130915703.jpg?1697537453",
-    "category": "live"
-  },
-  {
     "lvId": "lv349010077",
     "title": "骨折ニキの歌練　(懐メロ)　その２",
     "providerId": "52270399",
@@ -264,15 +275,59 @@
     "category": "try"
   },
   {
-    "lvId": "lv349010034",
-    "title": "ゲーム配信やっぱいいね。　でも寝れないんだわ。",
-    "providerId": "2080973",
-    "providerName": "プーテル",
+    "lvId": "lv349010100",
+    "title": "もどろの雑談配信",
+    "providerId": "141466304",
+    "providerName": "もどろ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T02:00:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/208/2080973.jpg?1759760392",
-    "category": "try"
+    "beginAt": "2025-10-23T02:19:02.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349010096",
+    "title": "バイオハザード１",
+    "providerId": "48978569",
+    "providerName": "損切2",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-23T02:18:18.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349010095",
+    "title": "17歳です　人生オワコンです",
+    "providerId": "140849772",
+    "providerName": "金ちゃん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-23T02:18:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14084/140849772.jpg?1756232626",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349010093",
+    "title": "２３日１６時から何する？",
+    "providerId": "61500716",
+    "providerName": "むーたん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-23T02:17:37.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6150/61500716.jpg?1745819915",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349010092",
+    "title": "PS5　おとげー",
+    "providerId": "844551",
+    "providerName": "yukiepon",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-23T02:17:26.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/84/844551.jpg?1471262709",
+    "category": "common"
   },
   {
     "lvId": "lv349010088",
@@ -481,61 +536,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-23T02:03:40.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/57/576176.jpg?1642765027",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349010036",
-    "title": "✩雑談しましょうか✩",
-    "providerId": "38478417",
-    "providerName": "紗夜",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T02:00:51.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3847/38478417.jpg?1600285351",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349010030",
-    "title": "魔女の泉R やってみる 24",
-    "providerId": "84047192",
-    "providerName": "なぞのそらみ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T02:00:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8404/84047192.jpg?1628980434",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349010034",
-    "title": "ゲーム配信やっぱいいね。　でも寝れないんだわ。",
-    "providerId": "2080973",
-    "providerName": "プーテル",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T02:00:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/208/2080973.jpg?1759760392",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349010032",
-    "title": "無職のお休みプープー物語",
-    "providerId": "90634617",
-    "providerName": "木漏れ日おじさん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T02:00:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9063/90634617.jpg?1755878695",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349010031",
-    "title": "まばたきの数だけフラれてきた男",
-    "providerId": "136753404",
-    "providerName": "あめ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-23T01:58:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13675/136753404.jpg?1758734638",
     "category": "common"
   }
 ]
