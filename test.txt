@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349005868",
+    "title": "TAITO LIVE@秋葉原「Hey」",
+    "providerId": null,
+    "providerName": "株式会社タイトー",
+    "communityId": "ch2611241",
+    "communityName": "秋葉原 Hey チャンネル",
+    "beginAt": "2025-10-25T09:50:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2611241.jpg?1700094604",
+    "category": "live"
+  },
+  {
     "lvId": "lv349025745",
     "title": "なにか",
     "providerId": "64959897",
@@ -275,105 +286,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349025664",
-    "title": "【RO】10時前から育成臨時【Urdr鯖】",
-    "providerId": "888870",
-    "providerName": "うらけんごはん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/88/888870.jpg?1678379258",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349025637",
-    "title": "【雀魂】第36回 生主の引きの弱さをゲラゲラと笑う枠【三麻/玉の間】",
-    "providerId": "4241225",
-    "providerName": "GX@劉禅の大攻勢",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/424/4241225.jpg?1280336187",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349025663",
-    "title": "東京ザナドゥeX+初見プレイ（マイク無し）",
-    "providerId": "18742012",
-    "providerName": "灯夜",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349025638",
-    "title": "【バ美肉おじさん】ELDEN RING【Vtuber】",
-    "providerId": "86561225",
-    "providerName": "かなめあおい",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8656/86561225.jpg?1701001972",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349025585",
-    "title": "【PS】金田一最終章！土方の推理をとくと見よ！【金田一少年の事件簿３ 青龍伝説殺人事件】",
-    "providerId": "2462677",
-    "providerName": "土方アーク",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/246/2462677.jpg?1426776879",
-    "category": "live"
-  },
-  {
-    "lvId": "lv348888770",
-    "title": "TAITO LIVE@秋葉原「Hey」4階",
-    "providerId": null,
-    "providerName": "株式会社タイトー",
-    "communityId": "ch2621685",
-    "communityName": "秋葉原 Hey チャンネル2",
-    "beginAt": "2025-10-25T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621685.jpg?1700094604",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349025659",
-    "title": "ひなの挑戦 #01　スーパードンキーコング【タジフ連合】",
-    "providerId": "127225605",
-    "providerName": "6409",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:29:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12722/127225605.jpg?1724197674",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349025651",
-    "title": "ポーカーチェイス",
-    "providerId": "3435007",
-    "providerName": "icewing@氷翼",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:29:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/343/3435007.jpg?1618736065",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349025656",
-    "title": "FC版　MOTHER1 遊んでいます。",
-    "providerId": "321968",
-    "providerName": "FF",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:28:48.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/32/321968.jpg?1288516021",
-    "category": "live"
-  },
-  {
     "lvId": "lv349025720",
     "title": "ちょいと",
     "providerId": "33481",
@@ -396,15 +308,48 @@
     "category": "try"
   },
   {
-    "lvId": "lv349025665",
-    "title": "カラオケ",
-    "providerId": "19206384",
-    "providerName": "みそ",
+    "lvId": "lv349025750",
+    "title": "ゼンレスゾーンゼロ",
+    "providerId": "82213571",
+    "providerName": "ないよん",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1920/19206384.jpg?1729443901",
-    "category": "try"
+    "beginAt": "2025-10-25T09:49:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8221/82213571.jpg?1758231556",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349025748",
+    "title": "博物館網走監獄に着くまで",
+    "providerId": "851355",
+    "providerName": "ぜふぁー",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-25T09:48:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/85/851355.jpg?1287227423",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349025747",
+    "title": "Skyrim 1.597 modding play test",
+    "providerId": "126248528",
+    "providerName": "uraBOSS",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-25T09:48:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12624/126248528.jpg?1714106441",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349025744",
+    "title": "匿名コメント希望。",
+    "providerId": "141911614",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-10-25T09:47:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv349025742",
@@ -682,17 +627,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349025692",
-    "title": "さむすんぎ",
-    "providerId": "135241177",
-    "providerName": "SSS",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:36:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13524/135241177.jpg?1756636569",
-    "category": "common"
-  },
-  {
     "lvId": "lv349025691",
     "title": "【吃音リハビリ朗読＆雑談&歌】※詳しくは番組詳細にて",
     "providerId": "1127518",
@@ -833,83 +767,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-10-25T09:31:30.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13965/139651088.jpg?1745517892",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349025668",
-    "title": "姫ぷタワー",
-    "providerId": "22075199",
-    "providerName": "屋敷",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:31:04.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2207/22075199.jpg?1757780612",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349025666",
-    "title": "さむ〜いしだる〜いしでしんどいです",
-    "providerId": "140697502",
-    "providerName": "ゲスト",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349025665",
-    "title": "カラオケ",
-    "providerId": "19206384",
-    "providerName": "みそ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1920/19206384.jpg?1729443901",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349025657",
-    "title": "必殺のダブルツタンシステムを炸裂させる　３０分だけ",
-    "providerId": "97416104",
-    "providerName": "オジャパめ〜ん﴾元・気合いの民﴿",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9741/97416104.jpg?1687656827",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349025636",
-    "title": "公園サッカー⚽️",
-    "providerId": "46329825",
-    "providerName": "ぺち",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4632/46329825.jpg?1750458149",
-    "category": "common"
-  },
-  {
-    "lvId": "lv348659360",
-    "title": "JLC680 津 SG「5日目」/蒲郡 一般「4日目」（9:30~21:00）",
-    "providerId": null,
-    "providerName": "株式会社　日本レジャーチャンネル",
-    "communityId": "ch381",
-    "communityName": "ニコニコ ＢＯＡＴ ＲＡＣＥ＠ＪＬＣ",
-    "beginAt": "2025-10-25T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch381.jpg?1700096404",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349025661",
-    "title": "幕('ω')",
-    "providerId": "708443",
-    "providerName": "みかん箱",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-10-25T09:29:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/70/708443.jpg?1759701294",
     "category": "common"
   }
 ]
