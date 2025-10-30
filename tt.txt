@@ -664,23 +664,5 @@
     "showTime": "2025-10-31 23:30:00",
     "onAirTime": "2025-10-31 23:20:00",
     "isCasItem": true
-  },
-  {
-    "id": "lv348647097",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1761523200,
-    "endTime": 1761847200,
-    "showTime": "2025-10-27 00:00:00",
-    "onAirTime": "2025-10-27 00:00:00",
-    "isCasItem": true
   }
 ]
