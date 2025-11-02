@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349091382",
+    "title": "いまさらR.E.P.O.で遊んでみる",
+    "providerId": "6625841",
+    "providerName": "衛姫(EIKI)",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-03T03:30:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/662/6625841.jpg?1314130599",
+    "category": "live"
+  },
+  {
     "lvId": "lv349091767",
     "title": "【龍が如く0】YAKUZA0 2",
     "providerId": "29192381",
@@ -198,17 +209,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349091730",
-    "title": "FF11",
-    "providerId": "46278698",
-    "providerName": "やまぼうず",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-03T03:13:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4627/46278698.jpg?1423914818",
-    "category": "live"
-  },
-  {
     "lvId": "lv349091760",
     "title": "深夜の弾き語り",
     "providerId": "13013239",
@@ -242,15 +242,48 @@
     "category": "try"
   },
   {
-    "lvId": "lv349091731",
-    "title": "RAKUGAKI",
-    "providerId": "1562138",
-    "providerName": "肉まんうめぇｗ",
+    "lvId": "lv349091773",
+    "title": "かなん確保kp",
+    "providerId": "142062182",
+    "providerName": "アミュ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-03T03:13:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1562138.jpg?1371400811",
-    "category": "try"
+    "beginAt": "2025-11-03T03:32:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349091771",
+    "title": "ふぉーるがいｚ",
+    "providerId": "49700574",
+    "providerName": "ゎぃ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-03T03:31:58.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4970/49700574.jpg?1742957206",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349091770",
+    "title": "昨日配信しなくてすびばせん",
+    "providerId": "127241892",
+    "providerName": "ヒヤマ【マジ】",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-03T03:30:49.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12724/127241892.jpg?1678019183",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349091769",
+    "title": "寝るまでちょと",
+    "providerId": "119951797",
+    "providerName": "Ri❤︎",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-03T03:30:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11995/119951797.jpg?1694178086",
+    "category": "common"
   },
   {
     "lvId": "lv349091765",
@@ -426,39 +459,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-03T03:15:44.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11639/116391969.jpg?1759349427",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349091731",
-    "title": "RAKUGAKI",
-    "providerId": "1562138",
-    "providerName": "肉まんうめぇｗ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-03T03:13:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1562138.jpg?1371400811",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349091729",
-    "title": "😓秋鬱&アル中🍺",
-    "providerId": "55439380",
-    "providerName": "北陸のサイコチキン",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-03T03:12:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5543/55439380.jpg?1753468525",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349091727",
-    "title": "乃木坂にパパ活してた子がいるんだって、さ～",
-    "providerId": "118138381",
-    "providerName": "一ノ川彩美",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-03T03:11:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1722845986",
     "category": "common"
   }
 ]
