@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349013082",
+    "title": "TAITO LIVE@秋葉原「Hey」",
+    "providerId": null,
+    "providerName": "株式会社タイトー",
+    "communityId": "ch2611241",
+    "communityName": "秋葉原 Hey チャンネル",
+    "beginAt": "2025-11-04T09:50:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2611241.jpg?1700094604",
+    "category": "live"
+  },
+  {
     "lvId": "lv349100095",
     "title": "[参加〇】深度5　朝活【エルデンリングナイトレイン】",
     "providerId": "29893011",
@@ -12,7 +23,7 @@
   },
   {
     "lvId": "lv349100091",
-    "title": "【#APEX】新年あけまして配信（もう２月だが？）【#参加型】",
+    "title": "【#APEX】久々にゲームします【#参加型】",
     "providerId": "96313533",
     "providerName": "かめづか",
     "communityId": "co0",
@@ -154,50 +165,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349097444",
-    "title": "ネタバレあり【DQ1&2 (Switch版)】サマルの王女に会いたくて 10【限界を越えろ】",
-    "providerId": "1833169",
-    "providerName": "ねむちゃい",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-04T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/183/1833169.jpg?1256849743",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349100052",
-    "title": "BESTIE DAYS",
-    "providerId": "141494734",
-    "providerName": "千駄亭 羅恩(せんだていらおん)",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-04T09:29:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14149/141494734.jpg?1758873141",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349100051",
-    "title": "【#ポケモンBDSP】寒いし、色違い出ないし、困っちまいまさ～ねぇ～「旅路色縛」 その342 厳選回数8601回目から【#デュエルリンクス】",
-    "providerId": "14614768",
-    "providerName": "Pappy Potter",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-04T09:29:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1461/14614768.jpg?1281183565",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349100053",
-    "title": "ポーカーチェイス",
-    "providerId": "3435007",
-    "providerName": "icewing@氷翼",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-04T09:29:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/343/3435007.jpg?1618736065",
-    "category": "live"
-  },
-  {
     "lvId": "lv349100079",
     "title": "(Ｔｏｆ)ノ禅師　キャンプ行くぉ！",
     "providerId": "141209633",
@@ -207,6 +174,50 @@
     "beginAt": "2025-11-04T09:41:44.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv349100101",
+    "title": "らりりの雑談配信",
+    "providerId": "140934373",
+    "providerName": "らりり",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-04T09:48:16.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14093/140934373.jpg?1757400922",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349100096",
+    "title": "誕生日過ぎたけどおめでとは？",
+    "providerId": "41717426",
+    "providerName": "〇○子○○",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-04T09:48:03.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4171/41717426.jpg?1678465246",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349100099",
+    "title": "すまんの雑談配信",
+    "providerId": "137335819",
+    "providerName": "すまん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-04T09:47:59.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13733/137335819.jpg?1741687946",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349100097",
+    "title": "月曜モーニング　朝から生電車令和デー",
+    "providerId": "133080017",
+    "providerName": "tsukikage 3rd",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-04T09:47:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13308/133080017.jpg?1716509352",
+    "category": "common"
   },
   {
     "lvId": "lv349100094",
@@ -404,28 +415,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-04T09:33:21.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2160/21603408.jpg?1320665612",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349100050",
-    "title": "家から打ちっぱなしへゴー",
-    "providerId": "137814833",
-    "providerName": "フグちゃん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-04T09:29:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13781/137814833.jpg?1738441845",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349100049",
-    "title": "【吃音リハビリ朗読＆雑談&歌】※詳しくは番組詳細にて",
-    "providerId": "1127518",
-    "providerName": "KU＠筋トレetc",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-04T09:28:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/112/1127518.jpg?1506768626",
     "category": "common"
   }
 ]
