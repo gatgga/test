@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349113462",
+    "title": "ニコ生ゲーム　貼り付け、リクエスト歓迎",
+    "providerId": "2162478",
+    "providerName": "のん。好物はびーると餃子",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T09:10:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/216/2162478.jpg?1638317375",
+    "category": "live"
+  },
+  {
     "lvId": "lv349113456",
     "title": "色々ゲームします　(*´∇｀*)",
     "providerId": "11168069",
@@ -154,17 +165,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349113410",
-    "title": "ネプテューヌリバース3",
-    "providerId": "130429985",
-    "providerName": "チャンフォンテュ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T08:49:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13042/130429985.jpg?1744604341",
-    "category": "live"
-  },
-  {
     "lvId": "lv349113450",
     "title": "作画配信",
     "providerId": "17045574",
@@ -196,6 +196,28 @@
     "beginAt": "2025-11-06T08:56:46.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/518/5180966.jpg?1322576575",
     "category": "try"
+  },
+  {
+    "lvId": "lv349113451",
+    "title": "おはようさん",
+    "providerId": "38282905",
+    "providerName": "ヒトシ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T09:08:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3828/38282905.jpg?1644202539",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349113459",
+    "title": "もごもごする",
+    "providerId": "135215417",
+    "providerName": "まのの宝石UR",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T09:08:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13521/135215417.jpg?1761697029",
+    "category": "common"
   },
   {
     "lvId": "lv349113457",
@@ -470,72 +492,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-06T08:52:25.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9608/96088569.jpg?1601176939",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349113416",
-    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読みっくす)",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T08:52:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349113414",
-    "title": "音楽配信 【歌謡曲、J-POP】",
-    "providerId": "138506269",
-    "providerName": "シカゴXXX",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T08:51:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13850/138506269.jpg?1758971620",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349113413",
-    "title": "イベント中( ᴖ ·̫ ᴖ )おはしごまえ",
-    "providerId": "28364593",
-    "providerName": "ぶったん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T08:51:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2836/28364593.jpg?1741699659",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349113402",
-    "title": "惰性",
-    "providerId": "124268326",
-    "providerName": "羨望",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T08:50:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12426/124268326.jpg?1760748871",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349113411",
-    "title": "明日全館18時開店のパチ屋に行くかどうか",
-    "providerId": "134020524",
-    "providerName": "トリケラ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T08:49:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349113409",
-    "title": "【出前館イベ】おはよ牛丼回収だよ〜",
-    "providerId": "38419472",
-    "providerName": "虚弱うみちゃん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T08:49:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3841/38419472.jpg?1756740627",
     "category": "common"
   }
 ]
