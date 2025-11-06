@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349115328",
+    "title": "初心者です！よろしくお願いします！",
+    "providerId": "142196094",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:08:49.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv349115327",
     "title": "MUGEN ランセレタッグサバイバル",
     "providerId": "51609344",
@@ -341,39 +352,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349115235",
-    "title": "ネプテューヌリバース3",
-    "providerId": "130429985",
-    "providerName": "チャンフォンテュ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:52:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13042/130429985.jpg?1744604341",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349115199",
-    "title": "PC版 Starfield",
-    "providerId": "27154450",
-    "providerName": "ラッド４５",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:50:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2715/27154450.jpg?1554192982",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349115225",
-    "title": "配信素人 ゲーム配信",
-    "providerId": "25734901",
-    "providerName": "クロズク",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:50:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2573/25734901.jpg?1644148428",
-    "category": "live"
-  },
-  {
     "lvId": "lv349115318",
     "title": "木曜日のお絵描き作業6",
     "providerId": "52273950",
@@ -386,7 +364,7 @@
   },
   {
     "lvId": "lv349115317",
-    "title": "目の前でおばちゃんが轢かれた",
+    "title": "絵描けるようになりたい",
     "providerId": "142112098",
     "providerName": "仙。",
     "communityId": "co0",
@@ -451,26 +429,103 @@
     "category": "try"
   },
   {
-    "lvId": "lv349115227",
-    "title": "同人3作目まずは250部売りたい男(男の娘同人)",
-    "providerId": "34952294",
-    "providerName": "マスグレス",
+    "lvId": "lv349115335",
+    "title": "やる気が起きない…（7、8日は配信お休み）",
+    "providerId": "131741807",
+    "providerName": "バトン（株の勉強中）",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:51:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3495/34952294.jpg?1713111537",
-    "category": "try"
+    "beginAt": "2025-11-06T17:11:31.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13174/131741807.jpg?1750914118",
+    "category": "common"
   },
   {
-    "lvId": "lv349115228",
-    "title": "【初見様大歓迎】独りカラオケ！",
-    "providerId": "45552494",
-    "providerName": "nae.",
+    "lvId": "lv349115338",
+    "title": "おっつー",
+    "providerId": "134123386",
+    "providerName": "なおたろう",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:50:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4555/45552494.jpg?1733950476",
-    "category": "try"
+    "beginAt": "2025-11-06T17:10:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13412/134123386.jpg?1761538973",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349115337",
+    "title": "笹食ってる場合じゃねえ！",
+    "providerId": "8780112",
+    "providerName": "いのうえ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:10:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/878/8780112.jpg?1477463192",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349115334",
+    "title": "暇だな〜",
+    "providerId": "141295912",
+    "providerName": "わじま",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:10:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14129/141295912.jpg?1759481606",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349115331",
+    "title": "【休憩ゲーム雑談】国会は楽しい",
+    "providerId": "90326780",
+    "providerName": "オツまみ・ダークサイド",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:10:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9032/90326780.jpg?1754666047",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349115333",
+    "title": "通退勤",
+    "providerId": "123462031",
+    "providerName": "トモくん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:10:04.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12346/123462031.jpg?1647037515",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349115289",
+    "title": "[車載]千葉帰宅[ニコ生の限界ニュータウン]",
+    "providerId": "62131712",
+    "providerName": "サンドウィッチのフラウボウ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:09:56.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6213/62131712.jpg?1712526245",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349115326",
+    "title": "✿·͜·ᰔ",
+    "providerId": "140500609",
+    "providerName": "あとむたん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:08:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14050/140500609.jpg?1757857980",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349115325",
+    "title": "ミッション",
+    "providerId": "126038053",
+    "providerName": "り_",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-06T17:08:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12603/126038053.jpg?1757912632",
+    "category": "common"
   },
   {
     "lvId": "lv349115323",
@@ -496,7 +551,7 @@
   },
   {
     "lvId": "lv349115317",
-    "title": "目の前でおばちゃんが轢かれた",
+    "title": "絵描けるようになりたい",
     "providerId": "142112098",
     "providerName": "仙。",
     "communityId": "co0",
@@ -825,17 +880,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349115277",
-    "title": "(生存確認((´・ω・`）仕事までのんびり～。",
-    "providerId": "22060503",
-    "providerName": "哀ちゃん。",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:59:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2206/22060503.jpg?1758868157",
-    "category": "common"
-  },
-  {
     "lvId": "lv349115267",
     "title": "どうぞごゆるりとざつだん☕️💭",
     "providerId": "134047310",
@@ -855,17 +899,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-06T16:57:39.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349115264",
-    "title": "暇だな〜",
-    "providerId": "141295912",
-    "providerName": "わじま",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:56:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14129/141295912.jpg?1759481606",
     "category": "common"
   },
   {
@@ -987,61 +1020,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-06T16:53:01.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1203/12030551.jpg?1660833233",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349115233",
-    "title": "歌ヘタ王女が逃げる歌ラインくれ→https://line.me/ti/p/NTyaE59em8　ペイ支援下さい→pay_okinawa_pay🐤",
-    "providerId": "142166910",
-    "providerName": "終了",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:51:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349115231",
-    "title": "名古屋 準備枠",
-    "providerId": "121419314",
-    "providerName": "ねむこ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:51:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12141/121419314.jpg?1716198497",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349115227",
-    "title": "同人3作目まずは250部売りたい男(男の娘同人)",
-    "providerId": "34952294",
-    "providerName": "マスグレス",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:51:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3495/34952294.jpg?1713111537",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349115229",
-    "title": "双極の午後",
-    "providerId": "123527711",
-    "providerName": "ユウ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:51:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12352/123527711.jpg?1722918656",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349115228",
-    "title": "【初見様大歓迎】独りカラオケ！",
-    "providerId": "45552494",
-    "providerName": "nae.",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-06T16:50:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4555/45552494.jpg?1733950476",
     "category": "common"
   }
 ]
