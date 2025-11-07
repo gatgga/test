@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349127486",
+    "title": "ふっきーの双子山部屋",
+    "providerId": "63991106",
+    "providerName": "ふっきー",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-08T05:49:10.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6399/63991106.jpg?1679022300",
+    "category": "live"
+  },
+  {
     "lvId": "lv349127452",
     "title": "やっぱりマリオ　vol.118",
     "providerId": "1936958",
@@ -121,39 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349127431",
-    "title": "ポケポケ【イベントマッチ】",
-    "providerId": "78861450",
-    "providerName": "はんたぁ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:31:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7886/78861450.jpg?1617512423",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349127367",
-    "title": "社会経験のないやつが知らない人達とR.E.P.Oをやるとどうなるか実験してみた",
-    "providerId": "49617298",
-    "providerName": "ぷにめいと＠pixiv",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4961/49617298.jpg?1496835676",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349127424",
-    "title": "イベント用。コメントご自由に",
-    "providerId": "6011166",
-    "providerName": "ワンポイントカピピ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:29:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/601/6011166.jpg?1664451778",
-    "category": "live"
-  },
-  {
     "lvId": "lv349127466",
     "title": "君にムチュウ",
     "providerId": "60928062",
@@ -174,6 +152,28 @@
     "beginAt": "2025-11-08T05:44:19.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1428/14282905.jpg?1757955551",
     "category": "try"
+  },
+  {
+    "lvId": "lv349127485",
+    "title": "【ルーキー】ひきこもりゲストの雑談配信",
+    "providerId": "141697282",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-08T05:49:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349127482",
+    "title": "おはよう稼働",
+    "providerId": "2851295",
+    "providerName": "きゃり～",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-08T05:48:26.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/285/2851295.jpg?1661609144",
+    "category": "common"
   },
   {
     "lvId": "lv349127472",
@@ -360,83 +360,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-08T05:32:27.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12935/129350099.jpg?1685179417",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349127433",
-    "title": "ハロウィンの六本木でこんな目に…💕",
-    "providerId": "122907090",
-    "providerName": "ゆーきゆん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:31:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349127430",
-    "title": "まったりする",
-    "providerId": "129308287",
-    "providerName": "戒斗。",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:30:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349127429",
-    "title": "ユルハムの雑談",
-    "providerId": "50890969",
-    "providerName": "ユルハム",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:30:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5089/50890969.jpg?1523221559",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349127427",
-    "title": "心霊配信するのにもう既に霊障で身体痛めてる、やばい",
-    "providerId": "32341631",
-    "providerName": "佐藤バカルディ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:30:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3234/32341631.jpg?1752154558",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349127426",
-    "title": "タ〇キ",
-    "providerId": "139751532",
-    "providerName": "魑魅魍魎",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:30:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349127422",
-    "title": "少しだけ摘む",
-    "providerId": "13289879",
-    "providerName": "鮭熊             ㅤ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:29:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1328/13289879.jpg?1746850218",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349127417",
-    "title": "会社見学決まった😲kickメインだから来いよ",
-    "providerId": "131620706",
-    "providerName": "虎舞竜・どこのかわいくん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-08T05:29:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13162/131620706.jpg?1703842617",
     "category": "common"
   }
 ]
