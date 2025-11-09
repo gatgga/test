@@ -44,6 +44,39 @@
     "category": "req"
   },
   {
+    "lvId": "lv349144747",
+    "title": "Suica (貯金箱) ニコ生ゲーム",
+    "providerId": "122331679",
+    "providerName": "聞き耳専門",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:11:18.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12233/122331679.jpg?1640880639",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349144738",
+    "title": "【#朝活vtuber 】11/10 銀河颯馬のEarlyMorning【毎朝6時10分から #地下アイドル の朝活配信 / #Vtuber / #銀河颯馬 】",
+    "providerId": "124968499",
+    "providerName": "銀河颯馬/VTuber",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:09:59.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12496/124968499.jpg?1711487158",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349144746",
+    "title": "[FINAL FANTASY XII]",
+    "providerId": "30212638",
+    "providerName": "ひじり",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:08:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3021/30212638.jpg?1670248880",
+    "category": "live"
+  },
+  {
     "lvId": "lv349144742",
     "title": "【ドラゴンクエストI＆II HD-2D版】初見プレイ",
     "providerId": "18599049",
@@ -176,28 +209,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349144688",
-    "title": "DJMAX RESPECT V",
-    "providerId": "24687786",
-    "providerName": "Dmax4832",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T05:51:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2468/24687786.jpg?1432041520",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349144689",
-    "title": "垂れ流すゲーム配信#1550（放置配信　垂れ流すサミタ）盾の勇者の成り上がり✕マジカルランプ",
-    "providerId": "176792",
-    "providerName": "ともも",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T05:50:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/17/176792.jpg?1688276513",
-    "category": "live"
-  },
-  {
     "lvId": "lv349144728",
     "title": "らくがき帳",
     "providerId": "15828144",
@@ -220,6 +231,61 @@
     "category": "try"
   },
   {
+    "lvId": "lv349144750",
+    "title": "まったり東方描き･･･？",
+    "providerId": "975939",
+    "providerName": "fant",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:10:53.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349144751",
+    "title": "【ザ☆車載】",
+    "providerId": "16752658",
+    "providerName": "世界のこっさん【AE86N2】",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:09:55.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1675/16752658.jpg?1760514802",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349144749",
+    "title": "無料ギフトでおみくじがひけるようになりました",
+    "providerId": "41979749",
+    "providerName": "ゴリアテ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:09:49.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4197/41979749.jpg?1724332902",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349144748",
+    "title": "おねむりーｯｯｯ",
+    "providerId": "130694755",
+    "providerName": "ごもく",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:09:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13069/130694755.jpg?1695541105",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349144745",
+    "title": "２ちゃんねる",
+    "providerId": "21511707",
+    "providerName": "樺太の人",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T06:08:33.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2151/21511707.jpg?1629030397",
+    "category": "common"
+  },
+  {
     "lvId": "lv349144741",
     "title": "エサやり配信",
     "providerId": "736477",
@@ -231,17 +297,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349144739",
-    "title": "ケニの雑談配信",
-    "providerId": "137762466",
-    "providerName": "ケニ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T06:04:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13776/137762466.jpg?1735314815",
-    "category": "common"
-  },
-  {
     "lvId": "lv349144737",
     "title": "遍照寺リモート朝勤行",
     "providerId": "16407391",
@@ -250,17 +305,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-10T06:03:53.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1640/16407391.jpg?1598098344",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349144734",
-    "title": "ｾﾞﾑの雑談配信",
-    "providerId": "140628149",
-    "providerName": "ｾﾞﾑ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T06:02:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14062/140628149.jpg?1762256728",
     "category": "common"
   },
   {
@@ -437,39 +481,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-10T05:52:40.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2430/24306413.jpg?1358105657",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349144709",
-    "title": "将棋ウォーズ9段の将棋ウォーズ",
-    "providerId": "137454261",
-    "providerName": "エルセム岡田",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T05:51:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13745/137454261.jpg?1757773583",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349144708",
-    "title": "メインはkick⁉️・・会社見学決まった⁉️kickに来いや⁉️わかってんの？女レイプしてぇおっぱいレイプしてぇ",
-    "providerId": "131620706",
-    "providerName": "虎舞竜・どこのかわいくん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T05:51:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13162/131620706.jpg?1703842617",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349144706",
-    "title": "徘徊車載",
-    "providerId": "32856291",
-    "providerName": "さむ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T05:49:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3285/32856291.jpg?1740837675",
     "category": "common"
   }
 ]
