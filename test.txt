@@ -44,6 +44,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349151858",
+    "title": "千家",
+    "providerId": "142110650",
+    "providerName": "千利休",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T06:09:05.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14211/142110650.jpg?1761588515",
+    "category": "live"
+  },
+  {
     "lvId": "lv349151854",
     "title": "徒然なるままに APEX;LEGENDS",
     "providerId": "11961859",
@@ -143,39 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349151822",
-    "title": "ガロスペ",
-    "providerId": "5051118",
-    "providerName": "片腹大激痛",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T05:51:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/505/5051118.jpg?1313246249",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349151825",
-    "title": "火曜",
-    "providerId": "30213698",
-    "providerName": "真神RAY",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T05:50:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349151809",
-    "title": "ボッチおっさんの無人島奮闘記",
-    "providerId": "2510568",
-    "providerName": "Tanker",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T05:49:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/251/2510568.jpg?1367387111",
-    "category": "live"
-  },
-  {
     "lvId": "lv349151853",
     "title": "朝からカラオケ集まれ40代〜50代のこどおじ＆こどおば",
     "providerId": "141736640",
@@ -185,6 +163,28 @@
     "beginAt": "2025-11-11T06:05:50.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14173/141736640.jpg?1762785912",
     "category": "try"
+  },
+  {
+    "lvId": "lv349151839",
+    "title": "202511110610 おは　腕立て30秒40回チャレンジ",
+    "providerId": "137814833",
+    "providerName": "フグちゃん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T06:10:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13781/137814833.jpg?1738441845",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349151857",
+    "title": "レジ袋のなかのおいも　まいくなし",
+    "providerId": "61861633",
+    "providerName": "おいも",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T06:09:02.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6186/61861633.jpg?1683004714",
+    "category": "common"
   },
   {
     "lvId": "lv349151856",
@@ -404,28 +404,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-11T05:53:36.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14215/142159583.jpg?1762760916",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349151827",
-    "title": "社会勉強の時間　（動画）",
-    "providerId": "79620382",
-    "providerName": "STRIKE 2　　　　　　　.",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T05:51:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7962/79620382.jpg?1633033245",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349151826",
-    "title": "pure",
-    "providerId": "32863923",
-    "providerName": "夏目",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T05:51:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3286/32863923.jpg?1612519134",
     "category": "common"
   }
 ]
