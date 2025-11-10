@@ -1,5 +1,38 @@
 [
   {
+    "lvId": "lv349146733",
+    "title": "テスト",
+    "providerId": "51926357",
+    "providerName": "よしのん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T16:04:22.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5192/51926357.jpg?1596783947",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349146727",
+    "title": "ゲームをSwitchライトで作る枠　枠主病み期",
+    "providerId": "117402539",
+    "providerName": "病み期のメイム",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T16:03:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11740/117402539.jpg?1755870913",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349146729",
+    "title": "ムービーの映像が入ると枠が止まります　マイク無しでやります",
+    "providerId": "20008094",
+    "providerName": "アミ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T16:02:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2000/20008094.jpg?1749130264",
+    "category": "live"
+  },
+  {
     "lvId": "lv349146720",
     "title": "【NIKKE】㊗3周年！！ハード39！！！酔っ払い指揮官1年と121日目41日【まやち】",
     "providerId": "234752",
@@ -275,28 +308,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349146638",
-    "title": "【夕方枠】HollowKnight　DuetNightAbys【2タイトル】",
-    "providerId": "9648183",
-    "providerName": "天陰結梨",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:44:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/964/9648183.jpg?1519570436",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349146636",
-    "title": "夕方のユーロビート・トランス(ソシャゲ枠)",
-    "providerId": "141946466",
-    "providerName": "録楼_INFP",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:44:04.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14194/141946466.jpg?1760330118",
-    "category": "live"
-  },
-  {
     "lvId": "lv349146708",
     "title": "りがくさんの家族ご飯　『ポークソーテー　カレー風味』",
     "providerId": "7815240",
@@ -363,15 +374,59 @@
     "category": "try"
   },
   {
-    "lvId": "lv349146634",
-    "title": "(Ｔｏｆ)ノ禅 師　今日のぉ仕事＼^(^o^)／ｵﾜﾀｯw！",
-    "providerId": "141209633",
-    "providerName": "(Ｔｏｆ)ノ",
+    "lvId": "lv349146734",
+    "title": "だいじんの雑談配信",
+    "providerId": "39775309",
+    "providerName": "だいじん",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:43:58.000Z",
+    "beginAt": "2025-11-10T16:04:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3977/39775309.jpg?1758239136",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349146730",
+    "title": "まったり酒雑談 　飲むぞー",
+    "providerId": "135253791",
+    "providerName": "のえさく",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T16:03:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13525/135253791.jpg?1754794418",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349146731",
+    "title": "他人の家はこんな感じ",
+    "providerId": "137744791",
+    "providerName": "シンディー",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T16:03:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13774/137744791.jpg?1735219711",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349146728",
+    "title": "秋田 →いわき 地獄の6時間運転配信",
+    "providerId": "140409265",
+    "providerName": "ともぞう",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T16:02:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14040/140409265.jpg?1759239562",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349146606",
+    "title": "4colorスパイダー 制限時間無し 放送枠2時間",
+    "providerId": "187221",
+    "providerName": "コッペ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-10T16:01:54.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "try"
+    "category": "common"
   },
   {
     "lvId": "lv349146725",
@@ -616,17 +671,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349146688",
-    "title": "賃貸不動産経営管理士　ガチガチに仕上げる",
-    "providerId": "13086412",
-    "providerName": "SALMAN",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:54:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1308/13086412.jpg?1699840498",
-    "category": "common"
-  },
-  {
     "lvId": "lv349146686",
     "title": "オムライスの雑談配信",
     "providerId": "139002920",
@@ -727,7 +771,7 @@
   },
   {
     "lvId": "lv349146661",
-    "title": "【歌枠白組】全てを取り返す！！【🆓ギフト詳細からお願いします🙇】",
+    "title": "【歌枠白組】なけなしの5万で全てを取り返す！！【🆓ギフト詳細からお願いします🙇】",
     "providerId": "13653",
     "providerName": "しわしわらくだ",
     "communityId": "co0",
@@ -789,72 +833,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-10T15:46:58.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4517/45173611.jpg?1656991522",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349146646",
-    "title": "いよも",
-    "providerId": "141518978",
-    "providerName": "yoshinao",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:46:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349146643",
-    "title": "抜糸しました、、",
-    "providerId": "142062182",
-    "providerName": "アミュ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:45:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349146634",
-    "title": "(Ｔｏｆ)ノ禅 師　今日のぉ仕事＼^(^o^)／ｵﾜﾀｯw！",
-    "providerId": "141209633",
-    "providerName": "(Ｔｏｆ)ノ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:43:58.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349146635",
-    "title": "【超過疎】夕方までぶらぶら過ごす",
-    "providerId": "73779061",
-    "providerName": "Cureだよ￥・￥",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:43:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7377/73779061.jpg?1745741405",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349146630",
-    "title": "【広島】嫁探し（条件あり）　ビジネスパートナー募集　フリーマーケット運営　映画関連グッズ🌹ATSVSHI🌹四面楚歌状態【映画好初心者】【広島】2025年10月21日",
-    "providerId": "49941985",
-    "providerName": "ココア【映画好初心者】広島",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:43:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4994/49941985.jpg?1618405641",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349146629",
-    "title": "歌枠出たいからギフトクレメンス",
-    "providerId": "141443134",
-    "providerName": "くちびるの匂いを嗅がせてやるよΩ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-10T15:43:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14144/141443134.jpg?1756445092",
     "category": "common"
   }
 ]
