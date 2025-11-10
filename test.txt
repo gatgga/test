@@ -11,15 +11,37 @@
     "category": "req"
   },
   {
-    "lvId": "lv349152167",
-    "title": "ニコ生ゲーム動画鑑賞会（３０分）【オリギフ公開中】",
-    "providerId": "19129547",
-    "providerName": "おむつランド長谷川",
+    "lvId": "lv349152245",
+    "title": "無言垂れ流し",
+    "providerId": "128025311",
+    "providerName": "冬川銀一",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:21:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1912/19129547.jpg?1726953452",
-    "category": "req"
+    "beginAt": "2025-11-11T08:39:25.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349152244",
+    "title": "【バイオ4】アタッシュ開く+商人+出入り+アシュウェイト+回復禁止 ノーコン",
+    "providerId": "124488462",
+    "providerName": "ぐれい",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T08:39:06.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12448/124488462.jpg?1652861670",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349152243",
+    "title": "＜アラド戦記＞",
+    "providerId": "27705467",
+    "providerName": "暇仁",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T08:38:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2770/27705467.jpg?1379008873",
+    "category": "live"
   },
   {
     "lvId": "lv349152240",
@@ -165,15 +187,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv349152186",
-    "title": "【イナイレV】イナズマイレブンミリしらおじさん",
-    "providerId": "137178160",
-    "providerName": "みん太郎",
+    "lvId": "lv349152036",
+    "title": "日本語ラップ練習",
+    "providerId": "2239901",
+    "providerName": "ましろ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:22:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13717/137178160.jpg?1754646535",
-    "category": "live"
+    "beginAt": "2025-11-11T08:40:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/223/2239901.jpg?1577551331",
+    "category": "try"
   },
   {
     "lvId": "lv349152227",
@@ -209,15 +231,59 @@
     "category": "try"
   },
   {
-    "lvId": "lv349152183",
-    "title": "線画作業",
-    "providerId": "126884953",
-    "providerName": "西城ink",
+    "lvId": "lv349152250",
+    "title": "おはよう",
+    "providerId": "64693185",
+    "providerName": "牛すじニコみ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:20:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12688/126884953.jpg?1761383996",
-    "category": "try"
+    "beginAt": "2025-11-11T08:41:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6469/64693185.jpg?1708653804",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349152036",
+    "title": "日本語ラップ練習",
+    "providerId": "2239901",
+    "providerName": "ましろ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T08:40:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/223/2239901.jpg?1577551331",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349152247",
+    "title": "決算特損S安くらうかも、株雑談。",
+    "providerId": "5604613",
+    "providerName": "高島(札幌東区北五十二条東二丁目",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T08:39:49.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/560/5604613.jpg?1439967081",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349152246",
+    "title": "豚まん",
+    "providerId": "141577632",
+    "providerName": "スタン",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T08:39:38.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14157/141577632.jpg?1758959425",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349152208",
+    "title": "調声なう",
+    "providerId": "1749797",
+    "providerName": "神北クドリャフカ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-11T08:39:06.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/174/1749797.jpg?1445907119",
+    "category": "common"
   },
   {
     "lvId": "lv349152242",
@@ -580,61 +646,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-11T08:23:24.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/933/9337389.jpg?1683092846",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349152181",
-    "title": "上官が風邪ひいたみたいなので今日釣り行きます。",
-    "providerId": "23441658",
-    "providerName": "pictogram",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:21:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2344/23441658.jpg?1455874570",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349152184",
-    "title": "ヤァ(ㆀ˘･з･˘)  おはよう",
-    "providerId": "37512332",
-    "providerName": "きき",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:21:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3751/37512332.jpg?1711723791",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349152183",
-    "title": "線画作業",
-    "providerId": "126884953",
-    "providerName": "西城ink",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:20:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12688/126884953.jpg?1761383996",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349152180",
-    "title": "メインはkick⁉️・・会社見学決まった⁉️kickに来いや⁉️わかってんの？カスども",
-    "providerId": "131620706",
-    "providerName": "虎舞竜・どこのかわいくん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:20:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13162/131620706.jpg?1703842617",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349152129",
-    "title": "あさ散歩するおとこ✌🏻",
-    "providerId": "142068702",
-    "providerName": "みふゆ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-11T08:20:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14206/142068702.jpg?1762222700",
     "category": "common"
   }
 ]
