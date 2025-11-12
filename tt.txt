@@ -115,7 +115,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2649914.jpg?1758886084",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2649914",
     "socialGroupName": "無職の英雄 -別にスキルなんか要らなかったんだが-",
@@ -231,6 +231,24 @@
     "endTime": 1762995600,
     "showTime": "2025-11-13 00:30:00",
     "onAirTime": "2025-11-13 00:20:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349163341",
+    "title": "【国会中継】参議院 予算委員会（2025年11月13日）",
+    "description": "参議院 予算委員会\n本番組は二次創作利用を禁止しています。\n\n09:00　予算委員会\n　会議に付する案件\n　　国政調査に関する件\n　質疑者 ※総括質疑方式（片道...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1763024400,
+    "endTime": 1763053200,
+    "showTime": "2025-11-13 09:00:00",
+    "onAirTime": "2025-11-13 08:50:00",
     "isCasItem": true
   },
   {
