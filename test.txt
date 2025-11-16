@@ -44,6 +44,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv349200360",
+    "title": "【#朝活vtuber 】11/17 銀河颯馬のEarlyMorning【毎朝6時10分から #地下アイドル の朝活配信 / #Vtuber / #銀河颯馬 】",
+    "providerId": "124968499",
+    "providerName": "銀河颯馬/VTuber",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-17T06:10:13.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12496/124968499.jpg?1711487158",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349200365",
+    "title": "①黄金の左手",
+    "providerId": "129902337",
+    "providerName": "たかた",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-17T06:08:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12990/129902337.jpg?1748384400",
+    "category": "live"
+  },
+  {
     "lvId": "lv349200359",
     "title": "ニコニ抗菌",
     "providerId": "87638142",
@@ -209,37 +231,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv349200302",
-    "title": "川のぬし釣り２ 京子編",
-    "providerId": "2390449",
-    "providerName": "グロリ",
+    "lvId": "lv349200363",
+    "title": "茨城県大洗町、あんこう祭りへ行ってきました　帰ります。現実へ",
+    "providerId": "59636439",
+    "providerName": "カテ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-17T05:51:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/239/2390449.jpg?1722846947",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349200308",
-    "title": "ボッチおっさんの無人島奮闘記",
-    "providerId": "2510568",
-    "providerName": "Tanker",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-17T05:50:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/251/2510568.jpg?1367387111",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349200305",
-    "title": "すこし！機動戦士ガンダム　ギレンの野望　ジオンの系譜　ジオン編",
-    "providerId": "58130045",
-    "providerName": "いすたっかー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-17T05:50:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5813/58130045.jpg?1722855913",
-    "category": "live"
+    "beginAt": "2025-11-17T06:08:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5963/59636439.jpg?1659104521",
+    "category": "try"
   },
   {
     "lvId": "lv349200312",
@@ -251,6 +251,61 @@
     "beginAt": "2025-11-17T05:53:44.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8977/89774497.jpg?1740401699",
     "category": "try"
+  },
+  {
+    "lvId": "lv349200368",
+    "title": "朝活",
+    "providerId": "72601601",
+    "providerName": "カズヤ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-17T06:09:44.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7260/72601601.jpg?1724063597",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349200367",
+    "title": "もくもくタイルマッチ、お絵描き四川省",
+    "providerId": "142258581",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-17T06:09:38.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349200364",
+    "title": "双極性障害",
+    "providerId": "123527711",
+    "providerName": "ユウ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-17T06:08:53.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12352/123527711.jpg?1722918656",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349200363",
+    "title": "茨城県大洗町、あんこう祭りへ行ってきました　帰ります。現実へ",
+    "providerId": "59636439",
+    "providerName": "カテ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-17T06:08:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5963/59636439.jpg?1659104521",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349200362",
+    "title": "【同配牌四川省】朝えもん 風邪を引かないように！【福岡県朝倉市10℃～】",
+    "providerId": "3320066",
+    "providerName": "きろえもん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-17T06:08:04.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/332/3320066.jpg?1746676942",
+    "category": "common"
   },
   {
     "lvId": "lv349200361",
@@ -470,17 +525,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-17T05:52:57.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4197/41979749.jpg?1724332902",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349200307",
-    "title": "音楽垂れ流し",
-    "providerId": "9627448",
-    "providerName": "レッパン",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-17T05:50:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/962/9627448.jpg?1682197898",
     "category": "common"
   }
 ]
