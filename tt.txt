@@ -1,23 +1,5 @@
 [
   {
-    "id": "lv349206185",
-    "title": "【国会中継】衆議院 安全保障委員会（2025年11月18日）",
-    "description": "衆議院 安全保障委員会\n本番組は二次創作利用を禁止しています。\n\n会議に付する案件\n　国の安全保障に関する件\n質疑者\n09:00-09:13 東国幹（自由民主党...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1763456400,
-    "endTime": 1763470800,
-    "showTime": "2025-11-18 09:00:00",
-    "onAirTime": "2025-11-18 08:50:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv348895343",
     "title": "【馬房定点】今日のシュシュブリーズ一家",
     "description": "ニコニコユーザーみんなで競走馬を育成！レースデビューを目指します！\n\n『リアルダービースタリオン』\n\nみんなの母馬、シュシュブリーズの一家を馬房から毎日生放送！...",
@@ -87,6 +69,24 @@
     "endTime": 1763488800,
     "showTime": "2025-11-18 11:00:00",
     "onAirTime": "2025-11-18 10:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349208498",
+    "title": "ニコニコニュース実況",
+    "description": "本放送枠『ニコニコニュース実況』について\n本放送は、メンテナンスなどを除いて、24時間途切れることなく放送を続ける枠です。\nネットで話題のニュースを運営コメント...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "onair",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1763467200,
+    "endTime": 1763769599,
+    "showTime": "2025-11-18 12:00:00",
+    "onAirTime": "2025-11-18 12:00:00",
     "isCasItem": true
   },
   {
