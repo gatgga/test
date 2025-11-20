@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349222999",
+    "title": "ライザのアトリエDX",
+    "providerId": "130429985",
+    "providerName": "チャンフォンテュ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-20T11:27:16.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13042/130429985.jpg?1744604341",
+    "category": "live"
+  },
+  {
     "lvId": "lv349222988",
     "title": "Intravenous 2【音声認識の誤変換注意】",
     "providerId": "18982396",
@@ -19,17 +30,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-20T11:24:07.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5787/57876067.jpg?1700190145",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349222986",
-    "title": "ソロ",
-    "providerId": "142298089",
-    "providerName": "Addiction Cast",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:23:38.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "live"
   },
   {
@@ -154,28 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349222943",
-    "title": "DARK SOULS™ II初見プレイするゾ",
-    "providerId": "119553310",
-    "providerName": "かわいいぼくでーすｗ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:10:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11955/119553310.jpg?1741102940",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349222938",
-    "title": "無言",
-    "providerId": "13858531",
-    "providerName": "ちょーぶん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:08:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1385/13858531.jpg?1357229133",
-    "category": "live"
-  },
-  {
     "lvId": "lv349222992",
     "title": "カラオケ",
     "providerId": "19206384",
@@ -209,6 +187,72 @@
     "category": "try"
   },
   {
+    "lvId": "lv349223001",
+    "title": "魔道士３軍練習場",
+    "providerId": "142157011",
+    "providerName": "見習い魔道士",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-20T11:28:03.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349223000",
+    "title": "青山学院大学　熱海キャンパス",
+    "providerId": "140893574",
+    "providerName": "ゲスト",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-20T11:27:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349222996",
+    "title": "のんびり((´・ω・`）れすた民～。",
+    "providerId": "22060503",
+    "providerName": "哀ちゃん。",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-20T11:26:42.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2206/22060503.jpg?1758868157",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349222993",
+    "title": "大作業",
+    "providerId": "675264",
+    "providerName": "大作",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-20T11:26:22.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/67/675264.jpg?1722863779",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349222995",
+    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読みっくす)",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-20T11:26:16.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349222994",
+    "title": "秋田市-大仙市往復 車載配信 秋田より",
+    "providerId": "434772",
+    "providerName": "春日（はるひ）",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-20T11:26:04.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/43/434772.jpg?1659262904",
+    "category": "common"
+  },
+  {
     "lvId": "lv349222992",
     "title": "カラオケ",
     "providerId": "19206384",
@@ -228,17 +272,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-20T11:24:23.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4837/48378716.jpg?1622787679",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349222987",
-    "title": "【初配信】手作業中。",
-    "providerId": "142330188",
-    "providerName": "シコたろ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:23:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14233/142330188.jpg?1763605382",
     "category": "common"
   },
   {
@@ -503,72 +536,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-20T11:10:36.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2880/28807860.jpg?1702184121",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349222941",
-    "title": "ぶーたん@精神障害者2級　成功ルートが何とかできて",
-    "providerId": "142325424",
-    "providerName": "ぶーたん@精神障害者2級",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:09:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14232/142325424.jpg?1763564250",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349222940",
-    "title": "しかたねぇな",
-    "providerId": "131664841",
-    "providerName": "令和の神様 ヨスィ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:09:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13166/131664841.jpg?1722860226",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349222939",
-    "title": "ゲーム限界中1から不登校38歳無職鬱病",
-    "providerId": "134305961",
-    "providerName": "さきた",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:08:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13430/134305961.jpg?1754744961",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349222937",
-    "title": "寝れたわ始まった",
-    "providerId": "125586391",
-    "providerName": "ともきち",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:08:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12558/125586391.jpg?1761317969",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349222927",
-    "title": "駄菓子買った男の放送",
-    "providerId": "140651927",
-    "providerName": "おぱんちゅ山田",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:08:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14065/140651927.jpg?1762134417",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349222935",
-    "title": ".",
-    "providerId": "63498322",
-    "providerName": "タチミ。",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-20T11:07:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6349/63498322.jpg?1658844798",
     "category": "common"
   }
 ]
