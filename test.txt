@@ -1,5 +1,27 @@
 [
   {
+    "lvId": "lv349210117",
+    "title": "TAITO LIVE@秋葉原「Hey」",
+    "providerId": null,
+    "providerName": "株式会社タイトー",
+    "communityId": "ch2611241",
+    "communityName": "秋葉原 Hey チャンネル",
+    "beginAt": "2025-11-25T09:50:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2611241.jpg?1700094604",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349261596",
+    "title": "【エスケープフロムダッコフ】焼き鳥のゲーム配信【TPS化MOD】",
+    "providerId": "133142920",
+    "providerName": "焼き鳥",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-25T09:47:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13314/133142920.jpg?1723119117",
+    "category": "live"
+  },
+  {
     "lvId": "lv349261597",
     "title": "艦これ秋限定作戦2025：要撃！敵機動部隊捜索撃滅戦 E4 野埼の遭難 樫・デイス掘り",
     "providerId": "13141591",
@@ -121,50 +143,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349261556",
-    "title": "エリーザ祐斗YouTube®️のPlayStation4ゲーム生放送",
-    "providerId": "136672775",
-    "providerName": "エリーザ祐斗YouTube®️",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-25T09:30:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13667/136672775.jpg?1732192014",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349102201",
-    "title": "TAITO LIVE@秋葉原「Hey」4階",
-    "providerId": null,
-    "providerName": "株式会社タイトー",
-    "communityId": "ch2621685",
-    "communityName": "秋葉原 Hey チャンネル2",
-    "beginAt": "2025-11-25T09:30:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621685.jpg?1700094604",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349261555",
-    "title": "①コロナ待機期間",
-    "providerId": "129902337",
-    "providerName": "たかた",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-25T09:29:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12990/129902337.jpg?1748384400",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349261554",
-    "title": "家おん出されそうだから創るわ16【Civilization VI】",
-    "providerId": "134043274",
-    "providerName": "牛頭鬼阿坊",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-25T09:29:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13404/134043274.jpg?1727098172",
-    "category": "live"
-  },
-  {
     "lvId": "lv349261591",
     "title": "わ",
     "providerId": "141209633",
@@ -174,6 +152,28 @@
     "beginAt": "2025-11-25T09:44:21.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141209633.jpg?1763447278",
     "category": "try"
+  },
+  {
+    "lvId": "lv349261606",
+    "title": "きつねが準備終わるまで",
+    "providerId": "122839124",
+    "providerName": "ネクラch",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-25T09:49:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12283/122839124.jpg?1761728579",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349261601",
+    "title": "しゃしゃい",
+    "providerId": "96271",
+    "providerName": "ボブねこ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-25T09:48:33.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9/96271.jpg?1338519716",
+    "category": "common"
   },
   {
     "lvId": "lv349261599",
@@ -287,7 +287,7 @@
   },
   {
     "lvId": "lv349261567",
-    "title": "雑談するぞ",
+    "title": "最近のニュースを見る",
     "providerId": "123082355",
     "providerName": "ピロリ菌ex",
     "communityId": "co0",
@@ -371,17 +371,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-25T09:33:26.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5543/55439380.jpg?1753468525",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349261557",
-    "title": "【吃音リハビリ朗読＆雑談&歌】※詳しくは番組詳細にて",
-    "providerId": "1127518",
-    "providerName": "KU＠筋トレetc",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-25T09:31:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/112/1127518.jpg?1506768626",
     "category": "common"
   }
 ]
