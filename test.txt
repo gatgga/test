@@ -1,14 +1,14 @@
 [
   {
-    "lvId": "lv349269454",
-    "title": "ニコニコ動画流します　音楽・コメント募集してます",
-    "providerId": "130702731",
-    "providerName": "ｐｐ（ぴっぴ）",
+    "lvId": "lv349269533",
+    "title": "鳴潮(めいちょう)",
+    "providerId": "27154450",
+    "providerName": "ラッド４５",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-26T15:31:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13070/130702731.jpg?1745873368",
-    "category": "req"
+    "beginAt": "2025-11-26T15:52:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2715/27154450.jpg?1554192982",
+    "category": "live"
   },
   {
     "lvId": "lv349269526",
@@ -264,26 +264,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv349269439",
-    "title": "DQRTAツアー2025(DQ4 11月2走目)",
-    "providerId": "5102073",
-    "providerName": "まるマール",
+    "lvId": "lv349269531",
+    "title": "からおけわく！",
+    "providerId": "9212308",
+    "providerName": "らばーんず",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-26T15:31:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/510/5102073.jpg?1684963171",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349269441",
-    "title": "【幽霊調査】今日の現場の下見～",
-    "providerId": "138114005",
-    "providerName": "りて",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-26T15:31:28.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13811/138114005.jpg?1755411694",
-    "category": "live"
+    "beginAt": "2025-11-26T15:51:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/921/9212308.jpg?1479808474",
+    "category": "try"
   },
   {
     "lvId": "lv349269468",
@@ -297,14 +286,25 @@
     "category": "try"
   },
   {
-    "lvId": "lv349269530",
-    "title": "お久しぶりです。",
-    "providerId": "28807860",
-    "providerName": "アッキー",
+    "lvId": "lv349269532",
+    "title": "nukosanのテスト配信",
+    "providerId": "139934914",
+    "providerName": "nukosan",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-26T15:50:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2880/28807860.jpg?1702184121",
+    "beginAt": "2025-11-26T15:51:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349269531",
+    "title": "からおけわく！",
+    "providerId": "9212308",
+    "providerName": "らばーんず",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-26T15:51:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/921/9212308.jpg?1479808474",
     "category": "common"
   },
   {
@@ -613,39 +613,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-26T15:34:45.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349269460",
-    "title": "Achuの雑談配信",
-    "providerId": "140516408",
-    "providerName": "Achu",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-26T15:34:04.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14051/140516408.jpg?1760308287",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349269452",
-    "title": "医師直伝インフル対策！】 実は市販薬にある『医者が出す風邪薬』６選",
-    "providerId": "3799909",
-    "providerName": "森田 洋之",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-26T15:33:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/379/3799909.jpg?1653270000",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349269451",
-    "title": "ギターだよ！全員集合",
-    "providerId": "134117189",
-    "providerName": "つばき",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-26T15:32:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13411/134117189.jpg?1729329290",
     "category": "common"
   }
 ]
