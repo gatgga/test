@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349282878",
+    "title": "ニコニコ動画流します　音楽・コメント募集してます",
+    "providerId": "130702731",
+    "providerName": "ｐｐ（ぴっぴ）",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-28T16:21:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13070/130702731.jpg?1745873368",
+    "category": "req"
+  },
+  {
     "lvId": "lv349282815",
     "title": "【リニューアル版】ニコ動音楽 洋楽邦楽MV リクエスト放送♪",
     "providerId": "32389241",
@@ -9,6 +20,17 @@
     "beginAt": "2025-11-28T16:06:42.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3238/32389241.jpg?1444780217",
     "category": "req"
+  },
+  {
+    "lvId": "lv349282867",
+    "title": "【初見プレイ】ドラゴンボール改 サイヤ人来襲",
+    "providerId": "131409147",
+    "providerName": "にいみん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-28T16:21:22.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13140/131409147.jpg?1761221334",
+    "category": "live"
   },
   {
     "lvId": "lv349282877",
@@ -34,7 +56,7 @@
   },
   {
     "lvId": "lv349282874",
-    "title": "あ",
+    "title": "なんと経験値が2倍のゲーム",
     "providerId": "132014398",
     "providerName": "ごうきょ",
     "communityId": "co0",
@@ -165,39 +187,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349282812",
-    "title": "サーフ",
-    "providerId": "22515225",
-    "providerName": "ALIVE",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:03:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2251/22515225.jpg?1588145130",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349282795",
-    "title": "【気ままにEscape from Tarkov】少しだけ､設定とか見てみる【(｢･ω･)｢】",
-    "providerId": "123926",
-    "providerName": "鏡竜",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:02:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12/123926.jpg?1653582762",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349282801",
-    "title": "【艦これ】第905回 　センス無き艦これ   　　E4-1　輸送量コンテスト　録画用　 【単冠湾】",
-    "providerId": "11451795",
-    "providerName": "海鼠",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:01:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv349282866",
     "title": "作画作業",
     "providerId": "91702296",
@@ -229,6 +218,50 @@
     "beginAt": "2025-11-28T16:06:24.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4260/42606281.jpg?1723373695",
     "category": "try"
+  },
+  {
+    "lvId": "lv349282886",
+    "title": "朝職56日目！やる事なさすぎて暇すぎ！明日は飲み会なんすけどね",
+    "providerId": "40569041",
+    "providerName": "沖田総司",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-28T16:22:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4056/40569041.jpg?1714447700",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349282882",
+    "title": "入魂5スパ",
+    "providerId": "136969071",
+    "providerName": "ペピャ＠",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-28T16:22:18.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13696/136969071.jpg?1733758268",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349282885",
+    "title": "キッチン配信！！雑",
+    "providerId": "61067140",
+    "providerName": "はに",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-28T16:22:05.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6106/61067140.jpg?1707299310",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349282879",
+    "title": "おはぽにぽに",
+    "providerId": "141162894",
+    "providerName": "ノスタルジーたけし",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-28T16:20:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14116/141162894.jpg?1764065992",
+    "category": "common"
   },
   {
     "lvId": "lv349282876",
@@ -525,61 +558,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-28T16:04:24.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12754/127546254.jpg?1754234303",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349282813",
-    "title": "MAXパワー淫猥",
-    "providerId": "118162803",
-    "providerName": "ヌエノヒメイ（アマ）",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:03:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11816/118162803.jpg?1761462014",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349282810",
-    "title": "イケメンおじさんが嫌がるピエロに何回も生入れして集団で回すヌルヌル生配信🤡",
-    "providerId": "128498576",
-    "providerName": "マンゴメリー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:03:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12849/128498576.jpg?1757927342",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349282806",
-    "title": "ありあまったマザボー何に使おう?【自作パソコンパーツお悩み相談してるよー】",
-    "providerId": "4032633",
-    "providerName": "こたろう職人(現弾幕職人)",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:02:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/403/4032633.jpg?1738830728",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349282803",
-    "title": "グミちゃんネル！(•᷄દ•᷅)♡",
-    "providerId": "142318721",
-    "providerName": "グミちゃん。",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:02:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14231/142318721.jpg?1764154822",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349282804",
-    "title": "試打30",
-    "providerId": "142064103",
-    "providerName": "まずは自助",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-28T16:01:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
