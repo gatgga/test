@@ -18,6 +18,24 @@
     "isCasItem": true
   },
   {
+    "id": "lv349283208",
+    "title": "ニコニコニュース実況",
+    "description": "【お知らせ】\n いつもニコニコをご利用いただきまして、まことにありがとうございます。\n\n2019年2月からニコニコ生放送でお届けしていた「ニコニコニュース実況」...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "onair",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1764352800,
+    "endTime": 1764719999,
+    "showTime": "2025-11-28 18:00:00",
+    "onAirTime": "2025-11-28 18:00:00",
+    "isCasItem": true
+  },
+  {
     "id": "lv349122103",
     "title": "『ロマサガRS』公式生放送 7周年SP",
     "description": "『ロマサガRS』は、プレイヤーの皆さんのおかげでいよいよリリースから7周年を迎えます！\n7周年を記念した本公式生放送は、〈トークパート〉と〈音楽パート〉の2本立...",
@@ -465,42 +483,6 @@
     "endTime": 1764460800,
     "showTime": "2025-11-29 23:30:00",
     "onAirTime": "2025-11-29 23:20:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349227919",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1764028800,
-    "endTime": 1764352800,
-    "showTime": "2025-11-25 00:00:00",
-    "onAirTime": "2025-11-25 00:00:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349263209",
-    "title": "ニコニコニュース実況",
-    "description": "【お知らせ】\n いつもニコニコをご利用いただきまして、まことにありがとうございます。\n\n2019年2月からニコニコ生放送でお届けしていた「ニコニコニュース実況」...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1764091800,
-    "endTime": 1764374399,
-    "showTime": "2025-11-25 17:30:00",
-    "onAirTime": "2025-11-25 17:30:00",
     "isCasItem": true
   }
 ]
