@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349289588",
+    "title": "【リニューアル版】ニコ動音楽 洋楽邦楽MV リクエスト放送♪",
+    "providerId": "32389241",
+    "providerName": "ライトニング",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:58:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3238/32389241.jpg?1444780217",
+    "category": "req"
+  },
+  {
     "lvId": "lv349289578",
     "title": "ラフ―ｗ",
     "providerId": "94265292",
@@ -9,6 +20,39 @@
     "beginAt": "2025-11-29T12:55:08.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9426/94265292.jpg?1745768026",
     "category": "req"
+  },
+  {
+    "lvId": "lv349289599",
+    "title": "Garry'sMod",
+    "providerId": "27314438",
+    "providerName": "Pro_tor",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:58:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2731/27314438.jpg?1628687675",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349289592",
+    "title": "マリオ64　16枚RTA",
+    "providerId": "89940768",
+    "providerName": "ナナシ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:56:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349289591",
+    "title": "【名もなき提督】E5-2(戦力)【2025秋イベ甲】",
+    "providerId": "21702024",
+    "providerName": "ruby",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:56:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2170/21702024.jpg?1312980101",
+    "category": "live"
   },
   {
     "lvId": "lv349289574",
@@ -242,107 +286,129 @@
     "category": "live"
   },
   {
-    "lvId": "lv349289509",
-    "title": "今日も明日も明後日もやるゲームが多すぎて安定しないビチクソ野郎です！",
-    "providerId": "21311847",
-    "providerName": "きゃめる",
+    "lvId": "lv349289587",
+    "title": "ニコ生ゲームで遊びたい！",
+    "providerId": "141599905",
+    "providerName": "シマエナガ",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:40:09.000Z",
+    "beginAt": "2025-11-29T13:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14159/141599905.jpg?1764313903",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349288983",
+    "title": "昭和５０年代中心に聞きたい曲の垂れ流し 第２８４回終わりの曲がかかるまで枠",
+    "providerId": "11747153",
+    "providerName": "keykou",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T13:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1174/11747153.jpg?1257420896",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349184487",
+    "title": "『夢の中からお届けします』【ゆめの配信！】",
+    "providerId": null,
+    "providerName": "インフィニア株式会社",
+    "communityId": "ch2644731",
+    "communityName": "あっとほぉーむカフェ",
+    "beginAt": "2025-11-29T13:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2644731.jpg?1700103604",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289601",
+    "title": "おでん配信　ギフトちょ",
+    "providerId": "3276558",
+    "providerName": "ちぃ天使",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:59:20.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/327/3276558.jpg?1760905892",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289604",
+    "title": "無言配信",
+    "providerId": "98161013",
+    "providerName": "スギハル　　　　　　　　　　　。",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:58:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9816/98161013.jpg?1749047374",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289582",
+    "title": "モーションキャプチャーを参考にMMDオリジナルダンスモーションが作りたい",
+    "providerId": "562483",
+    "providerName": "香乃",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:58:32.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/56/562483.jpg?1541722912",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289581",
+    "title": "ほぼ初見でやる　聖剣伝説LEGEND_OF_MANA 第五回　黒山忠助＠星読みイッチ",
+    "providerId": "6306003",
+    "providerName": "黒山忠助＠星読みイッチ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:57:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/630/6306003.jpg?1749298183",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289595",
+    "title": "承認欲求マネジメント配信",
+    "providerId": "125283475",
+    "providerName": "絶対定時さやちゃん！",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:57:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12528/125283475.jpg?1751412394",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289590",
+    "title": "ただ人と話したい",
+    "providerId": "139674643",
+    "providerName": "債務者",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:56:56.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13967/139674643.jpg?1764267322",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289593",
+    "title": ".",
+    "providerId": "63498322",
+    "providerName": "タチミ。",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:56:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6349/63498322.jpg?1658844798",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349289589",
+    "title": "みなさんには作業を見守っていただきます",
+    "providerId": "10899123",
+    "providerName": "shiro",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-11-29T12:56:32.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349289507",
-    "title": "[SD ガンダム G_GENERATION-CROSSRAYS]-Part.59-俺が！配信者だ！！[PS4]",
-    "providerId": "27200590",
-    "providerName": "たますけ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:39:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2720/27200590.jpg?1352438824",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349289502",
-    "title": "【艦これ】ぬるーくゲームしよう【イベ海域E4-2～】",
-    "providerId": "11184276",
-    "providerName": "アルフレッド@放送用",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:39:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1118/11184276.jpg?1334307413",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349289503",
-    "title": "コナミワイワイワールド 倍速チャート　おためし",
-    "providerId": "44066280",
-    "providerName": "バニ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:38:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4406/44066280.jpg?1672475018",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349289501",
-    "title": "三十路のゲーム放送　マキオン　ガンダムは収益化の夢を見るか？",
-    "providerId": "995120",
-    "providerName": "ヘタレインコム、",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:38:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/99/995120.jpg?1668969492",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349289494",
-    "title": "【Shadowverse WB】運げの運げ　MP２万～　CR1750（破壊ネメ）",
-    "providerId": "47567613",
-    "providerName": "沢田",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:37:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4756/47567613.jpg?1576473025",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349289373",
-    "title": "ちょっとだけ【ゆかりねっと】",
-    "providerId": "1538941",
-    "providerName": "リグレス",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:39:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/153/1538941.jpg?1728184709",
-    "category": "try"
-  },
-  {
-    "lvId": "lv349289497",
-    "title": "わ",
-    "providerId": "141209633",
-    "providerName": "わたし",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:37:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141209633.jpg?1763447278",
-    "category": "try"
-  },
-  {
-    "lvId": "lv349289406",
-    "title": "【作業】gogh　描くしかない",
-    "providerId": "35072114",
-    "providerName": "きょう",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:37:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3507/35072114.jpg?1763424098",
-    "category": "try"
+    "category": "common"
   },
   {
     "lvId": "lv349289585",
-    "title": "被害届を初めて出した",
+    "title": "悲しくて出かけるためにメイクする",
     "providerId": "87768627",
     "providerName": "魔女",
     "communityId": "co0",
@@ -484,17 +550,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349289536",
-    "title": "（登竜門イベ参加中無料ギフト宜しくお願いします）ギフトもコメントも欲しいない物ねだりの高崎",
-    "providerId": "137265957",
-    "providerName": "高崎こーへー",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:50:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13726/137265957.jpg?1733140241",
-    "category": "common"
-  },
-  {
     "lvId": "lv349289529",
     "title": "【ドラクエウォークLive】武蔵嵐山へ最後の紅葉を見に 千里行周回【ツイキャス、YouTube同時配信】",
     "providerId": "533793",
@@ -558,17 +613,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-29T12:46:56.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1205/12055859.jpg?1754365869",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289539",
-    "title": "雑談",
-    "providerId": "67410115",
-    "providerName": "まよ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:46:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6741/67410115.jpg?1764291400",
     "category": "common"
   },
   {
@@ -734,83 +778,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-11-29T12:40:26.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12315/123154050.jpg?1712441156",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289373",
-    "title": "ちょっとだけ【ゆかりねっと】",
-    "providerId": "1538941",
-    "providerName": "リグレス",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:39:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/153/1538941.jpg?1728184709",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289445",
-    "title": "おっさん爺ベトナムホーチミン市。いつもありがとうございます。",
-    "providerId": "20618388",
-    "providerName": "yorozuyanet",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:38:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2061/20618388.jpg?1753591743",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289499",
-    "title": "あ",
-    "providerId": "135884668",
-    "providerName": "でで",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:38:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13588/135884668.jpg?1749098534",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289424",
-    "title": "カラオケ行く🎤🎤🎤",
-    "providerId": "35284946",
-    "providerName": "しあちゃん　　　　　　　　　　♡",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:38:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3528/35284946.jpg?1727202828",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289497",
-    "title": "わ",
-    "providerId": "141209633",
-    "providerName": "わたし",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:37:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141209633.jpg?1763447278",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289498",
-    "title": "ฅ( ˙꒳​˙ ฅ)",
-    "providerId": "10899610",
-    "providerName": "runa",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:37:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349289406",
-    "title": "【作業】gogh　描くしかない",
-    "providerId": "35072114",
-    "providerName": "きょう",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-11-29T12:37:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3507/35072114.jpg?1763424098",
     "category": "common"
   }
 ]
