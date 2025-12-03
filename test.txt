@@ -22,6 +22,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv349320008",
+    "title": "夜のマリオ",
+    "providerId": "41151514",
+    "providerName": "しゅうぱち",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:28:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4115/41151514.jpg?1627038714",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349320002",
+    "title": "武器を育てます",
+    "providerId": "211268",
+    "providerName": "ha☆mi☆he",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:26:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/21/211268.jpg?1553033074",
+    "category": "live"
+  },
+  {
     "lvId": "lv349320005",
     "title": "エーペックス",
     "providerId": "16425155",
@@ -286,28 +308,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349319879",
-    "title": "【KRO】気軽にコメントどうぞ。ラグナロクオンライン・「ラグネス」",
-    "providerId": "37061374",
-    "providerName": "라그네스",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:10:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3706/37061374.jpg?1563697056",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349319874",
-    "title": "【全自動Ω】艦これ動画紹介！【MMD】18,246 イベント応援！",
-    "providerId": "35366553",
-    "providerName": "眩暈/me-my Ch.",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:08:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3536/35366553.jpg?1739252831",
-    "category": "live"
-  },
-  {
     "lvId": "lv349319981",
     "title": "MOIWの予習しながら裏作業",
     "providerId": "23271345",
@@ -352,15 +352,136 @@
     "category": "try"
   },
   {
-    "lvId": "lv349319876",
-    "title": "わ　暇www",
-    "providerId": "141209633",
-    "providerName": "わたし",
+    "lvId": "lv349317761",
+    "title": "手作りのサーモンレアカツ食べながら今年を振り返るよ〜",
+    "providerId": "140281205",
+    "providerName": "ゆあじる",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:09:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141209633.jpg?1763447278",
-    "category": "try"
+    "beginAt": "2025-12-03T18:30:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14028/140281205.jpg?1761372939",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349320026",
+    "title": "20251203 　たきびで料理　味噌チャーハン",
+    "providerId": "137814833",
+    "providerName": "フグちゃん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:29:31.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13781/137814833.jpg?1738441845",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349320017",
+    "title": "🪓₍ᵔ· ̫·ᵔ₎音無し",
+    "providerId": "3309492",
+    "providerName": "なやみい(仮)",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:29:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/330/3309492.jpg?1742893273",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349320023",
+    "title": "ヘッドフォンつけて練習",
+    "providerId": "142324695",
+    "providerName": "りぃ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:29:12.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14232/142324695.jpg?1764303979",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349319944",
+    "title": "倹約生活バラエティ番組",
+    "providerId": "129694937",
+    "providerName": "バヤリース",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:29:04.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12969/129694937.jpg?1752165519",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349320014",
+    "title": "#クリスマスが今年もやって来る",
+    "providerId": "20037",
+    "providerName": "牧口常三郎",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:27:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2/20037.jpg?1763021155",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349320013",
+    "title": "いちわく",
+    "providerId": "22126042",
+    "providerName": "ん・？・　　　　　　　　　　　¿",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:27:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2212/22126042.jpg?1679946050",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349319930",
+    "title": "勉強配信 (07.12.03)",
+    "providerId": "65213316",
+    "providerName": "しだ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:27:18.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6521/65213316.jpg?1756890230",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349319999",
+    "title": "【7days to die -V2.4(b7)-】狂気の沙汰！難易度最高デスリセット（？）！Vidarrのゲーム生一丁！",
+    "providerId": "7619564",
+    "providerName": "Vidarr",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:26:55.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/761/7619564.jpg?1543486928",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349320009",
+    "title": ".",
+    "providerId": "63498322",
+    "providerName": "タチミ。",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:26:48.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6349/63498322.jpg?1658844798",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349319984",
+    "title": "絵の練習～サボり防止～",
+    "providerId": "25154",
+    "providerName": "ちびとら。",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:25:55.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2/25154.jpg?1338234718",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349320006",
+    "title": "あ",
+    "providerId": "140583266",
+    "providerName": "きこりちゃん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-03T18:25:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14058/140583266.jpg?1761044040",
+    "category": "common"
   },
   {
     "lvId": "lv349319994",
@@ -473,17 +594,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349319974",
-    "title": "栄養失調で前髪のハゲが悪化した",
-    "providerId": "36718875",
-    "providerName": "ザリガニ（ポン太）",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:22:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3671/36718875.jpg?1755512691",
-    "category": "common"
-  },
-  {
     "lvId": "lv349319967",
     "title": "ただいまむこ",
     "providerId": "142451235",
@@ -503,17 +613,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-12-03T18:22:14.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7552/75523474.jpg?1743318484",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319976",
-    "title": "やほ",
-    "providerId": "126144776",
-    "providerName": "ニコ生もぐ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:22:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12614/126144776.jpg?1668350568",
     "category": "common"
   },
   {
@@ -558,17 +657,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-12-03T18:21:25.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/101/1017012.jpg?1492799457",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319962",
-    "title": "ほんとに雪降るんか？",
-    "providerId": "3674530",
-    "providerName": "ぜくし",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:20:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/367/3674530.jpg?1763174580",
     "category": "common"
   },
   {
@@ -737,17 +825,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349319924",
-    "title": "アイス食うわ",
-    "providerId": "138984830",
-    "providerName": "あまい。",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:15:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13898/138984830.jpg?1741853125",
-    "category": "common"
-  },
-  {
     "lvId": "lv349319915",
     "title": "埼玉、秩父夜祭、本祭花火そして山車の下り（少しかも）見て帰る(´・ω・`)",
     "providerId": "1147313",
@@ -910,105 +987,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-12-03T18:10:41.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13891/138913467.jpg?1740827474",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319878",
-    "title": "やよ切すけ衛門  すけたん倶楽部 (ง ˘ω˘ )ว",
-    "providerId": "541829",
-    "providerName": "すけたん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:09:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/54/541829.jpg?1341565585",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319872",
-    "title": "【雑談】今夜は呑んだくれられないラジオ",
-    "providerId": "78702847",
-    "providerName": "rei512",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:09:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7870/78702847.jpg?1764240886",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319861",
-    "title": "【映画】血のバレンタイン",
-    "providerId": "142342078",
-    "providerName": "マカロニサラダ",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:09:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319876",
-    "title": "わ　暇www",
-    "providerId": "141209633",
-    "providerName": "わたし",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:09:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141209633.jpg?1763447278",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319873",
-    "title": "仕事終わり。久しぶりにひと駅歩き。",
-    "providerId": "25917763",
-    "providerName": "2525そわ～か",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:09:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2591/25917763.jpg?1621546714",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319870",
-    "title": "文系はクソ",
-    "providerId": "142430402",
-    "providerName": "sw",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:09:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14243/142430402.jpg?1764495708",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319865",
-    "title": "めちゃくちゃお久しぶりです",
-    "providerId": "141666708",
-    "providerName": "ミスター",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:08:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319869",
-    "title": "エアリアルサッカー",
-    "providerId": "20457091",
-    "providerName": "enigma",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:08:20.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2045/20457091.jpg?1661191561",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349319866",
-    "title": "【ガルパン劇場版】【設定6】【とりあえず完走したいんだ！】Part3",
-    "providerId": "137213947",
-    "providerName": "ましゅまろ【RAY】",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-03T18:07:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13721/137213947.jpg?1751799123",
     "category": "common"
   }
 ]
