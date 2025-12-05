@@ -61,7 +61,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2578122.jpg?1477988248",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2578122",
     "socialGroupName": "ファイナルファンタジーXIV チャンネル",
@@ -69,6 +69,24 @@
     "endTime": 1764979200,
     "showTime": "2025-12-05 19:30:00",
     "onAirTime": "2025-12-05 19:20:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349333726",
+    "title": "ニコニコニュース実況",
+    "description": "【お知らせ】\n いつもニコニコをご利用いただきまして、まことにありがとうございます。\n\n2019年2月からニコニコ生放送でお届けしていた「ニコニコニュース実況」...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "onair",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1764963000,
+    "endTime": 1765324799,
+    "showTime": "2025-12-05 19:30:00",
+    "onAirTime": "2025-12-05 19:30:00",
     "isCasItem": true
   },
   {
@@ -537,24 +555,6 @@
     "endTime": 1765044000,
     "showTime": "2025-12-03 00:00:00",
     "onAirTime": "2025-12-03 00:00:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349311573",
-    "title": "ニコニコニュース実況",
-    "description": "【お知らせ】\n いつもニコニコをご利用いただきまして、まことにありがとうございます。\n\n2019年2月からニコニコ生放送でお届けしていた「ニコニコニュース実況」...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1764676800,
-    "endTime": 1764979199,
-    "showTime": "2025-12-02 12:00:00",
-    "onAirTime": "2025-12-02 12:00:00",
     "isCasItem": true
   }
 ]
