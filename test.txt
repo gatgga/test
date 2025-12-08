@@ -44,6 +44,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349354409",
+    "title": "KAMISANの徒然放送(不定期)",
+    "providerId": "300451",
+    "providerName": "KAMISAN",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:11:31.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/30/300451.jpg?1574843755",
+    "category": "live"
+  },
+  {
     "lvId": "lv349354397",
     "title": "【#艦これ】E3-3ラスダンなんて破砕無し一発で終わるから見てろ【2025秋イベ甲 E3-2～】【逆転！ナルヴィク攻防戦】【要撃！敵機動部隊捜索撃滅戦】Kantai Collection",
     "providerId": "2103440",
@@ -275,17 +286,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349354334",
-    "title": "【ニコゲー】中辛四川",
-    "providerId": "138305355",
-    "providerName": "ゲスト",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-08T11:54:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13830/138305355.jpg?1741453552",
-    "category": "live"
-  },
-  {
     "lvId": "lv349354406",
     "title": "歌い納め？うたわく",
     "providerId": "57193035",
@@ -341,14 +341,113 @@
     "category": "try"
   },
   {
-    "lvId": "lv349354410",
-    "title": "30歳ニート　作業所　休憩中",
-    "providerId": "142462580",
+    "lvId": "lv349354427",
+    "title": "【初配信】ゲストの雑談配信",
+    "providerId": "142504403",
     "providerName": "ゲスト",
     "communityId": "co0",
     "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-08T12:08:49.000Z",
+    "beginAt": "2025-12-08T12:13:51.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354426",
+    "title": "38歳無職うつ バイト受かった！2",
+    "providerId": "1721364",
+    "providerName": "大空ひまわり",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:13:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/172/1721364.jpg?1746089225",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354425",
+    "title": "じじい猫達いっぬ見守り(｀･ω･´)ゞねこざむらい、ギャビランして寝ます",
+    "providerId": "35400727",
+    "providerName": "馬場龍之介とゆかいな仲間たち",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:13:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3540/35400727.jpg?1554866620",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354415",
+    "title": "全国的にお昼休み【定期】",
+    "providerId": "61674574",
+    "providerName": "ゆうちゃん",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:12:48.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6167/61674574.jpg?1765068263",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354421",
+    "title": "やることなぃ！手巻きタバコ巻いて吸う🚬",
+    "providerId": "141694489",
+    "providerName": "あきくん四駆郎",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:12:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14169/141694489.jpg?1763752656",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354422",
+    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読みっくす)",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:12:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354420",
+    "title": "おはよう　腹に力が入らない・・・",
+    "providerId": "134196793",
+    "providerName": "ともたろうＺ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:12:25.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354417",
+    "title": "雲海からの雲海",
+    "providerId": "134913748",
+    "providerName": "こじろう",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:12:02.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13491/134913748.jpg?1724107805",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354418",
+    "title": "懐かしい音楽",
+    "providerId": "142029764",
+    "providerName": "草ばやし",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:11:44.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14202/142029764.jpg?1764681464",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349354414",
+    "title": "京都の端から　元祖しがさく　モーナ　【電動自転車配信　外配信】　雨止んだけど　帰るわ",
+    "providerId": "95677696",
+    "providerName": "モーナ",
+    "communityId": "co0",
+    "communityName": "削除されたコミュニティ",
+    "beginAt": "2025-12-08T12:11:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9567/95677696.jpg?1675478312",
     "category": "common"
   },
   {
@@ -811,39 +910,6 @@
     "communityName": "削除されたコミュニティ",
     "beginAt": "2025-12-08T11:55:51.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11919/119196690.jpg?1704358030",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349354338",
-    "title": "しょうじょのからだはやっぱたまんね〜わ♡",
-    "providerId": "141557067",
-    "providerName": "ふたつの輪、ふたつの塔",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-08T11:55:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14155/141557067.jpg?1757198521",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349354336",
-    "title": "シベリアンハスキーマウスのテイラー・スウィフトン",
-    "providerId": "9337389",
-    "providerName": "齋藤健一〔セル齋藤ゲーム〕",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-08T11:54:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/933/9337389.jpg?1683092846",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349354335",
-    "title": "おいらは病気の人です病院に来ました",
-    "providerId": "135393462",
-    "providerName": "めがよん",
-    "communityId": "co0",
-    "communityName": "削除されたコミュニティ",
-    "beginAt": "2025-12-08T11:53:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13539/135393462.jpg?1764330233",
     "category": "common"
   }
 ]
