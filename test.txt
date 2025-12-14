@@ -44,6 +44,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349406154",
+    "title": "LiveBroadcast",
+    "providerId": "88769938",
+    "providerName": "兄貴",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-15T07:12:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv349406141",
     "title": "#コンパス基本放置時々枠埋コメ等ご自由に",
     "providerId": "2820089",
@@ -143,28 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349406084",
-    "title": "詰将棋解こうず【2nd Season】",
-    "providerId": "14419025",
-    "providerName": "びりおリターンズ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T06:54:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1441/14419025.jpg?1281227714",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349406089",
-    "title": "艦これ #773 2025.12.15生配信プレイ[Kantai Collection live] #艦隊これくしょん",
-    "providerId": "2892268",
-    "providerName": "コルダイト＠ヘイワード提督",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T06:53:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/289/2892268.jpg?1466507460",
-    "category": "live"
-  },
-  {
     "lvId": "lv349406136",
     "title": "おえかき～2588枠～",
     "providerId": "5138447",
@@ -229,6 +218,17 @@
     "beginAt": "2025-12-15T06:59:15.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv349406153",
+    "title": "大半の生主とリスナーはみぃちゃんかもしれん",
+    "providerId": "98557081",
+    "providerName": "兎桜るり",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-15T07:12:44.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9855/98557081.jpg?1733408585",
+    "category": "common"
   },
   {
     "lvId": "lv349406150",
@@ -569,39 +569,6 @@
     "communityName": null,
     "beginAt": "2025-12-15T06:55:42.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/501/5012071.jpg?1600923297",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349406094",
-    "title": "通勤配信ー！",
-    "providerId": "18070757",
-    "providerName": "やっち",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T06:54:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1807/18070757.jpg?1716676599",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349406090",
-    "title": "[鳥定点]オカメ・セキセイインコのお留守番放送",
-    "providerId": "50878236",
-    "providerName": "そらぴっぴなぎ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T06:53:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5087/50878236.jpg?1755038099",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349406088",
-    "title": "【虚無】エアファング板垣の放送です",
-    "providerId": "140270454",
-    "providerName": "エアファング板垣",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T06:52:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14027/140270454.jpg?1757518621",
     "category": "common"
   }
 ]
