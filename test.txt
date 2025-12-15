@@ -154,17 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349406573",
-    "title": "ゲーム配信30分",
-    "providerId": "67962804",
-    "providerName": "ヨヲスケ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T09:56:48.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6796/67962804.jpg?1652606913",
-    "category": "live"
-  },
-  {
     "lvId": "lv349406553",
     "title": "お絵描き",
     "providerId": "52033546",
@@ -174,6 +163,61 @@
     "beginAt": "2025-12-15T10:01:14.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5203/52033546.jpg?1680964175",
     "category": "try"
+  },
+  {
+    "lvId": "lv349406628",
+    "title": "【初配信】ゲストの雑談配信",
+    "providerId": "142388437",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-15T10:16:25.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349406633",
+    "title": "風呂配信",
+    "providerId": "17316876",
+    "providerName": "ぱんずぱんず□□□□□□□□ああ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-15T10:16:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1731/17316876.jpg?1700117411",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349406632",
+    "title": "✨ゆっくりゆっくり✨",
+    "providerId": "55439380",
+    "providerName": "北陸のサイコチキン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-15T10:16:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5543/55439380.jpg?1753468525",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349406631",
+    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読みっくす)",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-15T10:16:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349406629",
+    "title": "試打75",
+    "providerId": "142064103",
+    "providerName": "まずは自助",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-15T10:16:03.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv349406616",
@@ -569,28 +613,6 @@
     "communityName": null,
     "beginAt": "2025-12-15T09:58:30.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8221/82213571.jpg?1765725709",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349406577",
-    "title": "こどおじ大掃除編",
-    "providerId": "135197508",
-    "providerName": "わん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T09:58:17.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13519/135197508.jpg?1752049453",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349406571",
-    "title": "マジ月曜日やる気でんじゃん笑",
-    "providerId": "124977623",
-    "providerName": "げそのこめん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-15T09:55:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12497/124977623.jpg?1656370796",
     "category": "common"
   }
 ]
