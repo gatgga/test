@@ -1,14 +1,25 @@
 [
   {
-    "lvId": "lv349413147",
-    "title": "【動画鑑賞会】生主動画鑑賞会【2025/12/16】",
-    "providerId": "14985585",
-    "providerName": "tm2++",
+    "lvId": "lv349413192",
+    "title": "【Steam】【白昼夢の青写真】",
+    "providerId": "1841608",
+    "providerName": "スパーク・マツナガ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2025-12-16T05:23:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "req"
+    "beginAt": "2025-12-16T05:43:33.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/184/1841608.jpg?1593177888",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349413189",
+    "title": "コンパス ミソどうぞどぞ",
+    "providerId": "94081837",
+    "providerName": "玉米濃湯",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-16T05:41:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9408/94081837.jpg?1754583129",
+    "category": "live"
   },
   {
     "lvId": "lv349413188",
@@ -119,6 +130,28 @@
     "beginAt": "2025-12-16T05:33:21.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3397/33977718.jpg?1465696211",
     "category": "try"
+  },
+  {
+    "lvId": "lv349413193",
+    "title": "徘徊車載",
+    "providerId": "32856291",
+    "providerName": "さむ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-16T05:43:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3285/32856291.jpg?1740837675",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349413191",
+    "title": "ね配信/原付で横須賀〜茅ヶ崎ぐらい行ってみせろよペーパードライバーヘタレ",
+    "providerId": "140881401",
+    "providerName": "ライスとタン塩とねぎレモンは合う",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-16T05:43:06.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14088/140881401.jpg?1761184549",
+    "category": "common"
   },
   {
     "lvId": "lv349413187",
@@ -253,17 +286,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349413158",
-    "title": "ね配信/男でペーパードライバーってだせェーんだよ！練習しろや！",
-    "providerId": "140881401",
-    "providerName": "ライスとタン塩とねぎレモンは合う",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-16T05:27:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14088/140881401.jpg?1761184549",
-    "category": "common"
-  },
-  {
     "lvId": "lv349413151",
     "title": "裏作業",
     "providerId": "138374044",
@@ -283,50 +305,6 @@
     "communityName": null,
     "beginAt": "2025-12-16T05:25:36.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349413148",
-    "title": "雑談",
-    "providerId": "125119070",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-16T05:23:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12511/125119070.jpg?1714826502",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349413146",
-    "title": "中間管理職43歳が貸しスタジオで練習するのを見張るだけの配信",
-    "providerId": "2174719",
-    "providerName": "うめ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-16T05:22:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/217/2174719.jpg?1617147181",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349413145",
-    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読みっくす)",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-16T05:22:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349413143",
-    "title": "［韓国人］酒を飲む放送",
-    "providerId": "141937268",
-    "providerName": "ホ·ヨンウ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-16T05:22:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14193/141937268.jpg?1765773266",
     "category": "common"
   }
 ]
