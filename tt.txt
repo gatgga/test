@@ -79,7 +79,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2525",
     "socialGroupName": "ニコニコニュース",
@@ -87,6 +87,24 @@
     "endTime": 1766404800,
     "showTime": "2025-12-18 12:00:00",
     "onAirTime": "2025-12-18 12:00:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349429456",
+    "title": "【国会中継】参議院 農林水産委員会「畜産物等の価格安定等に関する件」（2025年12月18日）",
+    "description": "参議院 農林水産委員会\n本番組は二次創作利用を禁止しています。\n\n農林水産に関する調査（継続調査）\n（畜産物等の価格安定等に関する件）\n質疑者\n13:00-13...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1766062800,
+    "endTime": 1766077200,
+    "showTime": "2025-12-18 13:00:00",
+    "onAirTime": "2025-12-18 12:50:00",
     "isCasItem": true
   },
   {
