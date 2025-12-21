@@ -151,7 +151,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2649907.jpg?1759317705",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2649907",
     "socialGroupName": "最後にひとつだけお願いしてもよろしいでしょうか",
@@ -645,24 +645,6 @@
     "endTime": 1766448000,
     "showTime": "2025-12-22 23:30:00",
     "onAirTime": "2025-12-22 23:20:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349227968",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1766016000,
-    "endTime": 1766340000,
-    "showTime": "2025-12-18 00:00:00",
-    "onAirTime": "2025-12-18 00:00:00",
     "isCasItem": true
   },
   {
