@@ -97,7 +97,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2649942.jpg?1758886884",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2649942",
     "socialGroupName": "野原ひろし 昼メシの流儀",
@@ -375,6 +375,24 @@
     "endTime": 1766568000,
     "showTime": "2025-12-23 10:00:00",
     "onAirTime": "2025-12-23 09:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349463116",
+    "title": "小野田紀美 経済安全保障担当大臣 記者会見 生中継｜外国人との秩序ある共生社会推進担当、内閣府特命担当大臣（クールジャパン戦略、知的財産戦略、科学技術政策、宇宙政策、人工知能戦略、経済安全保障）",
+    "description": "小野田紀美 経済安全保障担当大臣（外国人との秩序ある共生社会推進担当、内閣府特命担当大臣[クールジャパン戦略、知的財産戦略、科学技術政策、宇宙政策、人工知能戦略...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1766486400,
+    "endTime": 1766490000,
+    "showTime": "2025-12-23 10:40:00",
+    "onAirTime": "2025-12-23 10:30:00",
     "isCasItem": true
   },
   {
