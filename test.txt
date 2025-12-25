@@ -11,15 +11,48 @@
     "category": "req"
   },
   {
-    "lvId": "lv349485030",
-    "title": "動画紹介（MMD）",
-    "providerId": "32633215",
-    "providerName": "touketu",
+    "lvId": "lv349485154",
+    "title": "【初配信】ゲストのゲーム配信",
+    "providerId": "142675395",
+    "providerName": "ゲスト",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2025-12-25T17:00:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3263/32633215.jpg?1376437642",
-    "category": "req"
+    "beginAt": "2025-12-25T17:19:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349485149",
+    "title": "軽く野球雑談",
+    "providerId": "14701791",
+    "providerName": "ロスタイム",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-25T17:18:55.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1470/14701791.jpg?1342693249",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349485147",
+    "title": "やっぱり　ゲームをする",
+    "providerId": "124481034",
+    "providerName": "yukke",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-25T17:18:10.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12448/124481034.jpg?1716517179",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349485143",
+    "title": "24年ひきこもりの(*´ω｀*)",
+    "providerId": "138491916",
+    "providerName": "Xeno[ゼノ]",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-25T17:17:58.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
   },
   {
     "lvId": "lv349485133",
@@ -89,7 +122,7 @@
   },
   {
     "lvId": "lv349485118",
-    "title": "あやなの雑談配信",
+    "title": "あやなの配信",
     "providerId": "142044867",
     "providerName": "あやな",
     "communityId": null,
@@ -220,149 +253,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349485060",
-    "title": "doaxvv",
-    "providerId": "120237419",
-    "providerName": "配信ひとり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12023/120237419.jpg?1709556646",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349485056",
-    "title": "バトオペ2 レーティングなど。＋α",
-    "providerId": "18687144",
-    "providerName": "ラッキー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1868/18687144.jpg?1497177782",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349485059",
-    "title": "十周年Xmas年末年またぎ年始連続生放送",
-    "providerId": "34951075",
-    "providerName": "na-ga-no-ya",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3495/34951075.jpg?1466239928",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349485054",
-    "title": "STAR OCEAN THE SECOND STORY Rで遊ぶ",
-    "providerId": "117679326",
-    "providerName": "あらとひすい",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11767/117679326.jpg?1708760360",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349484855",
-    "title": "クリスマス弾き語り、ゲーム。1時間",
-    "providerId": "121267392",
-    "providerName": "オリ❣️❣️❣️",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12126/121267392.jpg?1752989958",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349484428",
-    "title": "Fallout76 ラストレイダーとは？ まぁ、破壊すればいいか　【Fallout76】",
-    "providerId": "620288",
-    "providerName": "おしおしお",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/62/620288.jpg?1679589983",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349483777",
-    "title": "[3DS] メタルマックス4 月光のディーヴァ [続クリアーまで！終われば次アンケ]⑪",
-    "providerId": "4873161",
-    "providerName": "サヤマル",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/487/4873161.jpg?1495201834",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349478763",
-    "title": "【パ二グレ】イベント3日目（マイク無し）",
-    "providerId": "8904281",
-    "providerName": "-幽-",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/890/8904281.jpg?1730650066",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349478202",
-    "title": "1975.[174💻]木曜17時～休止前ラスト！はじプロ前回の優先枠とメンスパ枠のみ募集！  同時配信",
-    "providerId": "3776841",
-    "providerName": "Mittsun_________",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/377/3776841.jpg?1737131121",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349485057",
-    "title": "ゲーム色々",
-    "providerId": "242188",
-    "providerName": "ビゾンさん()",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T16:59:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/24/242188.jpg?1766320470",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349484990",
-    "title": "【参加型生放送！一緒に走らない？】マリオカートワールド　誰でも大歓迎マリカーしよう！",
-    "providerId": "29323983",
-    "providerName": "ハラルド＊＊",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T16:59:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2932/29323983.jpg?1760393692",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349485048",
-    "title": "Fallout76 メリークリスマスという事でサンタさんを倒して回ります",
-    "providerId": "9605032",
-    "providerName": "LD",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T16:59:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/960/9605032.jpg?1746816862",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349485120",
-    "title": "キャプテン翼廃人",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:11:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9571/95713165.jpg?1618586491",
-    "category": "try"
-  },
-  {
     "lvId": "lv349485116",
     "title": "え！2時間でクリスマス絵を！？…できらぁ！！",
     "providerId": "132487484",
@@ -385,37 +275,81 @@
     "category": "try"
   },
   {
-    "lvId": "lv349485064",
-    "title": "1人カラオケ　LIVE-GYM  2時間　仕事のストレスがやべぇんだ",
-    "providerId": "17910670",
-    "providerName": "adachi",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:01:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1791/17910670.jpg?1732144667",
-    "category": "try"
+    "lvId": "lv349485139",
+    "title": "クリスマス園内散歩🎅",
+    "providerId": null,
+    "providerName": "東武レジャー企画株式会社　東武動物公園",
+    "communityId": "ch2525501",
+    "communityName": "東武動物公園　ＺＯＯっと友達　チャンネル",
+    "beginAt": "2025-12-25T17:20:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525501.jpg?1699952405",
+    "category": "common"
   },
   {
-    "lvId": "lv349484949",
-    "title": "まんが作画作業枠",
-    "providerId": "333499",
-    "providerName": "ゆなこ",
+    "lvId": "lv349485144",
+    "title": "お疲れ様",
+    "providerId": "13143069",
+    "providerName": "ちーた",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/33/333499.jpg?1763877638",
-    "category": "try"
+    "beginAt": "2025-12-25T17:19:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1314/13143069.jpg?1710528693",
+    "category": "common"
   },
   {
-    "lvId": "lv349440223",
-    "title": "ぼ っ ち ク リ ス マ ス 会 2 0 2 5",
-    "providerId": "126199593",
-    "providerName": "のらもの",
+    "lvId": "lv349485156",
+    "title": "【ルーキー】ゲストの雑談配信　赤峰優位さん４８年５７日おめでとう。。。",
+    "providerId": "139234366",
+    "providerName": "ゲスト",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12619/126199593.jpg?1722840875",
-    "category": "try"
+    "beginAt": "2025-12-25T17:19:32.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349485158",
+    "title": "🎄𝑀𝑒𝑟𝑟𝑦𝑋'𝑚𝑎𝑠🎅🏼⸝‍ みんなサンタさん来たかなーー？メリークリスマス🎄🎅✨",
+    "providerId": "20037",
+    "providerName": "琵琶湖",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-25T17:19:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2/20037.jpg?1766190868",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349485151",
+    "title": "【実機配信】ツインエンジェルPARTY【設定6】",
+    "providerId": "2926067",
+    "providerName": "tk",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-25T17:19:20.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/292/2926067.jpg?1612279701",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349485152",
+    "title": "メリクリ✨🎅🎄✨「車載配信」",
+    "providerId": "30622579",
+    "providerName": "美姫",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-25T17:18:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3062/30622579.jpg?1748045570",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349485148",
+    "title": "キャラごはん作る！",
+    "providerId": "134093242",
+    "providerName": "ホルスタイン彩",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-25T17:18:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13409/134093242.jpg?1764744633",
+    "category": "common"
   },
   {
     "lvId": "lv349485142",
@@ -561,17 +495,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349485120",
-    "title": "キャプテン翼廃人",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:11:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9571/95713165.jpg?1618586491",
-    "category": "common"
-  },
-  {
     "lvId": "lv349485119",
     "title": "終わりました　あへ",
     "providerId": "141518978",
@@ -591,17 +514,6 @@
     "communityName": null,
     "beginAt": "2025-12-25T17:10:42.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/108/1085123.jpg?1746267948",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485115",
-    "title": "有馬記念枠順視聴",
-    "providerId": "142649088",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:10:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -888,171 +800,6 @@
     "communityName": null,
     "beginAt": "2025-12-25T17:01:53.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12836/128367365.jpg?1766240215",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485064",
-    "title": "1人カラオケ　LIVE-GYM  2時間　仕事のストレスがやべぇんだ",
-    "providerId": "17910670",
-    "providerName": "adachi",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:01:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1791/17910670.jpg?1732144667",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485063",
-    "title": "お酒ざつだん　DTM　凸まち",
-    "providerId": "33291066",
-    "providerName": "なかい",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3329/33291066.jpg?1750693303",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485062",
-    "title": "やけ食いラーメン",
-    "providerId": "142513099",
-    "providerName": "みやこんぶ！！",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14251/142513099.jpg?1765250882",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485061",
-    "title": "新年",
-    "providerId": "84684001",
-    "providerName": "御琴羽",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8468/84684001.jpg?1682742621",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485042",
-    "title": "ｋａｚｕの国からツルリンパ（イライラしない事を心がける）",
-    "providerId": "15546456",
-    "providerName": "kazu",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1554/15546456.jpg?1517783471",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485058",
-    "title": "秋田でクマキャンプ",
-    "providerId": "3674530",
-    "providerName": "ぜくし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/367/3674530.jpg?1763174580",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349484949",
-    "title": "まんが作画作業枠",
-    "providerId": "333499",
-    "providerName": "ゆなこ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/33/333499.jpg?1763877638",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349484453",
-    "title": "クレノの！　ここだけの話。",
-    "providerId": "1765545",
-    "providerName": "紅乃 翠 Kureno Sui",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/176/1765545.jpg?1725981455",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349447893",
-    "title": "BS日テレ【ニコニコ実況】",
-    "providerId": "1467971",
-    "providerName": "なまた",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/146/1467971.jpg?1723159038",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349440223",
-    "title": "ぼ っ ち ク リ ス マ ス 会 2 0 2 5",
-    "providerId": "126199593",
-    "providerName": "のらもの",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12619/126199593.jpg?1722840875",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349406663",
-    "title": "日経CNBC プラス",
-    "providerId": null,
-    "providerName": "株式会社日経CNBC",
-    "communityId": "ch1216",
-    "communityName": "日経CNBC プラス",
-    "beginAt": "2025-12-25T17:00:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch1216.jpg?1700038804",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485051",
-    "title": "ありがとう。とほかみえみため",
-    "providerId": "461753",
-    "providerName": "ドラマのちえ＠1月2日生まれ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T16:59:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/46/461753.jpg?1722843919",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485053",
-    "title": "【心のソッカー実況】壊れかけのラヂヲ(深読ミックス)",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T16:59:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485049",
-    "title": "姫プ 90階層攻略 集まったら114階",
-    "providerId": "1266647",
-    "providerName": "古美術商 取外し式呪術的着け乳首",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T16:58:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/126/1266647.jpg?1688272676",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349485046",
-    "title": "【30分枠】姫ぷ　106Fちょっとだけ",
-    "providerId": "5510355",
-    "providerName": "keroku",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-25T16:58:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/551/5510355.jpg?1759723937",
     "category": "common"
   }
 ]
