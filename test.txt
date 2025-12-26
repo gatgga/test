@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349497245",
+    "title": "ふっきーのゲームセンターEZ本日はシアト",
+    "providerId": "63991106",
+    "providerName": "ふっきー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-27T06:32:44.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6399/63991106.jpg?1679022300",
+    "category": "live"
+  },
+  {
     "lvId": "lv349497231",
     "title": "早起きしてミネルバトンサーガ 12日目（ゆかりねっと）",
     "providerId": "90297061",
@@ -88,17 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349497209",
-    "title": "艦これ #785 2025.12.27生配信プレイ[Kantai Collection live] #艦隊これくしょん",
-    "providerId": "2892268",
-    "providerName": "コルダイト＠ヘイワード提督",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-27T06:14:48.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/289/2892268.jpg?1466507460",
-    "category": "live"
-  },
-  {
     "lvId": "lv349497212",
     "title": "弾幕歓迎　 朝刊　ごずら　カラオケ＆ゲーム",
     "providerId": "14492505",
@@ -108,6 +108,39 @@
     "beginAt": "2025-12-27T06:30:10.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1449/14492505.jpg?1366804786",
     "category": "try"
+  },
+  {
+    "lvId": "lv349497253",
+    "title": "大公式過疎放送「年末！年忘れにっぽんの過疎スペシャル」",
+    "providerId": "550993",
+    "providerName": "〇山×男",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-27T06:35:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/55/550993.jpg?1763502043",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349497250",
+    "title": "【初配信】ゲストの雑談配信",
+    "providerId": "142693084",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-27T06:34:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349497246",
+    "title": "おはよう！こちら3℃❄☃❄/γ-GTP422",
+    "providerId": "139060552",
+    "providerName": "まこっちゃん(まこと)",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2025-12-27T06:34:03.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13906/139060552.jpg?1741337368",
+    "category": "common"
   },
   {
     "lvId": "lv349497242",
@@ -261,61 +294,6 @@
     "communityName": null,
     "beginAt": "2025-12-27T06:19:09.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1722845986",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349497211",
-    "title": "【ザ☆車載】YouTube新作動画公開しました",
-    "providerId": "16752658",
-    "providerName": "世界のこっさん【AE86N2】",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-27T06:15:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1675/16752658.jpg?1760514802",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349497210",
-    "title": "でぃおむ",
-    "providerId": "15535534",
-    "providerName": "日本株式会社",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-27T06:15:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1553/15535534.jpg?1723833981",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349497206",
-    "title": "筆談",
-    "providerId": "125119070",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-27T06:15:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12511/125119070.jpg?1714826502",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349497207",
-    "title": "チルな生活",
-    "providerId": "134913748",
-    "providerName": "こじろう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-27T06:14:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13491/134913748.jpg?1724107805",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349497208",
-    "title": "10連休初日　まったり朝飯🍚٩( 'ω' )وおはよー",
-    "providerId": "33293503",
-    "providerName": "ヒグラシ！？",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2025-12-27T06:13:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3329/33293503.jpg?1441986695",
     "category": "common"
   }
 ]
