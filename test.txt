@@ -22,6 +22,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv349547005",
+    "title": "ダイヤいくんごおおおお",
+    "providerId": "4286586",
+    "providerName": "CSチャッシー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-02T10:07:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/428/4286586.jpg?1559915629",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349546999",
+    "title": "ドラクエウォーク＆雑談",
+    "providerId": "130656270",
+    "providerName": "日比谷幸助",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-02T10:05:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13065/130656270.jpg?1766062835",
+    "category": "live"
+  },
+  {
     "lvId": "lv349546989",
     "title": "ポケットモンスター　スカーレット",
     "providerId": "7777077",
@@ -363,50 +385,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349546923",
-    "title": "（初見）Warhammer 40,000: Darktide やってみようか～！",
-    "providerId": "45552689",
-    "providerName": "エケ〜",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:49:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4555/45552689.jpg?1765546722",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349546925",
-    "title": "原神 ちょっとだけ",
-    "providerId": "39092676",
-    "providerName": "ゆーり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:48:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3909/39092676.jpg?1445663957",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349546876",
-    "title": "ニコ生リハビリ配信　ロマサガ３！！！竜槍スマウグ３本集めたった！！",
-    "providerId": "54699267",
-    "providerName": "あすかくん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:47:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5469/54699267.jpg?1618759798",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349546917",
-    "title": "【マイク無】　ぞぞんがぞん",
-    "providerId": "19394765",
-    "providerName": "モキュ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:47:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1939/19394765.jpg?1293669291",
-    "category": "live"
-  },
-  {
     "lvId": "lv349546992",
     "title": "描き続ける人",
     "providerId": "16547308",
@@ -429,15 +407,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv349546920",
-    "title": "【おえかき】かいてみる【はんけん】",
-    "providerId": "20948957",
-    "providerName": "嵐卵",
+    "lvId": "lv349546997",
+    "title": "きぃたろの雑談配信",
+    "providerId": "47878033",
+    "providerName": "きぃたろ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-01-02T09:47:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2094/20948957.jpg?1513939670",
-    "category": "try"
+    "beginAt": "2026-01-02T10:06:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4787/47878033.jpg?1674635880",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349547000",
+    "title": "。",
+    "providerId": "120250754",
+    "providerName": "はな",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-02T10:05:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12025/120250754.jpg?1763158682",
+    "category": "common"
   },
   {
     "lvId": "lv349514612",
@@ -448,6 +437,17 @@
     "communityName": null,
     "beginAt": "2026-01-02T10:05:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/68/687355.jpg?1749695843",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349546998",
+    "title": "朝ごはんたべる！今日はタイミー",
+    "providerId": "142112452",
+    "providerName": "かし",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-02T10:04:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -888,94 +888,6 @@
     "communityName": null,
     "beginAt": "2026-01-02T09:49:35.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4615/46159163.jpg?1429992253",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546926",
-    "title": ".",
-    "providerId": "129832790",
-    "providerName": "にゃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:48:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546924",
-    "title": "新春マリオ64 星120枚",
-    "providerId": "52489331",
-    "providerName": "伊藤",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:48:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5248/52489331.jpg?1751469320",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546922",
-    "title": "連",
-    "providerId": "139644824",
-    "providerName": "味噌",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:48:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13964/139644824.jpg?1767134968",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546918",
-    "title": "ねこねこ生放送",
-    "providerId": "2266827",
-    "providerName": "オクタグラムとトリ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:47:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/226/2266827.jpg?1692241353",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546920",
-    "title": "【おえかき】かいてみる【はんけん】",
-    "providerId": "20948957",
-    "providerName": "嵐卵",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:47:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2094/20948957.jpg?1513939670",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546916",
-    "title": "【ルーキー】ゲストの雑談配信　赤峰優位さん４８年６５日おめでとう。。。",
-    "providerId": "139234366",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:47:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546914",
-    "title": "飲酒運転は絶対に許さない車内酒雑",
-    "providerId": "139144007",
-    "providerName": "スペーシア黒川（車中泊カスタム）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:46:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13914/139144007.jpg?1743499179",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349546905",
-    "title": "music",
-    "providerId": "130677185",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-02T09:46:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
