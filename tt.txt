@@ -61,7 +61,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621731.jpg?1669950003",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2621731",
     "socialGroupName": "ニコニコ競馬チャンネル",
@@ -483,24 +483,6 @@
     "endTime": 1767549600,
     "showTime": "2026-01-01 00:00:00",
     "onAirTime": "2026-01-01 00:00:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349437045",
-    "title": "【2026正月】東大寺から年始の法要と国宝・盧舎那仏像（奈良の大仏）生中継",
-    "description": "東大寺\n奈良県奈良市にある華厳宗大本山の寺院で、8世紀に聖武天皇が建立したお寺です。\n1998年には古都奈良の文化財の一部として、ユネスコより世界遺産に登録され...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1767225600,
-    "endTime": 1767528000,
-    "showTime": "2026-01-01 00:00:00",
-    "onAirTime": "2025-12-31 23:50:00",
     "isCasItem": true
   }
 ]
