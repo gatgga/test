@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349596885",
+    "title": "【鳴潮】日課とデュエル！！",
+    "providerId": "6465395",
+    "providerName": "きしまる",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-09T03:33:33.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/646/6465395.jpg?1391338310",
+    "category": "live"
+  },
+  {
     "lvId": "lv349596881",
     "title": "ゲーム配信30分",
     "providerId": "67962804",
@@ -63,17 +74,6 @@
     "communityName": null,
     "beginAt": "2026-01-09T03:24:56.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/783/7830846.jpg?1287380374",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349596866",
-    "title": "テスト",
-    "providerId": "135680584",
-    "providerName": "たくぞう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:23:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13568/135680584.jpg?1761567350",
     "category": "live"
   },
   {
@@ -143,17 +143,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349596840",
-    "title": "【DollsNest】ヘッドセット本体に音量ボタンがあることに今日気づいた",
-    "providerId": "2087038",
-    "providerName": "えろなるど",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:15:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/208/2087038.jpg?1296310903",
-    "category": "live"
-  },
-  {
     "lvId": "lv349596867",
     "title": "深夜の気ままなお絵描き(睡眠・作業用)",
     "providerId": "8850522",
@@ -163,6 +152,17 @@
     "beginAt": "2026-01-09T03:24:28.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/885/8850522.jpg?1377029811",
     "category": "try"
+  },
+  {
+    "lvId": "lv349596888",
+    "title": "やほみ！",
+    "providerId": "41607655",
+    "providerName": "ねき",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-09T03:34:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4160/41607655.jpg?1706965343",
+    "category": "common"
   },
   {
     "lvId": "lv349596883",
@@ -195,28 +195,6 @@
     "communityName": null,
     "beginAt": "2026-01-09T03:28:24.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6186/61861633.jpg?1683004714",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596877",
-    "title": "バトアリリリリ",
-    "providerId": "131208754",
-    "providerName": "かま",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:28:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596872",
-    "title": "ラーメン(^q^)@札幌",
-    "providerId": "718885",
-    "providerName": "ろいやる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:28:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/71/718885.jpg?1582451991",
     "category": "common"
   },
   {
@@ -360,28 +338,6 @@
     "communityName": null,
     "beginAt": "2026-01-09T03:17:20.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1722845986",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596841",
-    "title": "リラックス 作業 集中 睡眠 まったり4H 🌿",
-    "providerId": "129668940",
-    "providerName": "neo-RX",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:15:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12966/129668940.jpg?1717473243",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596800",
-    "title": "夢ののんびり王国 37月の旅 9",
-    "providerId": "84047192",
-    "providerName": "なぞのそらみ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:14:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8404/84047192.jpg?1628980434",
     "category": "common"
   }
 ]
