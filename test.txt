@@ -11,6 +11,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv349596881",
+    "title": "ゲーム配信30分",
+    "providerId": "67962804",
+    "providerName": "ヨヲスケ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-09T03:29:13.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6796/67962804.jpg?1652606913",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349596879",
+    "title": "まったり ロードモナークオンラインしたい",
+    "providerId": "1158373",
+    "providerName": "重伝（エデン）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-09T03:28:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/115/1158373.jpg?1559849906",
+    "category": "live"
+  },
+  {
     "lvId": "lv349596876",
     "title": "【ミメシス】深夜にまよさんと行くミメシス【nms勢】",
     "providerId": "13258926",
@@ -132,39 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349596836",
-    "title": "【ネタバレ注意】ちょっと転がしたい その5【ワンス・アポン・ア・塊魂】",
-    "providerId": "4786461",
-    "providerName": "せんちゃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:12:58.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/478/4786461.jpg?1392490321",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349596838",
-    "title": ",",
-    "providerId": "142548754",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:11:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349596837",
-    "title": "#コンパス ミッションOK",
-    "providerId": "132105319",
-    "providerName": "なると",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:11:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13210/132105319.jpg?1731420824",
-    "category": "live"
-  },
-  {
     "lvId": "lv349596867",
     "title": "深夜の気ままなお絵描き(睡眠・作業用)",
     "providerId": "8850522",
@@ -174,6 +163,17 @@
     "beginAt": "2026-01-09T03:24:28.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/885/8850522.jpg?1377029811",
     "category": "try"
+  },
+  {
+    "lvId": "lv349596883",
+    "title": "雑談",
+    "providerId": "92496914",
+    "providerName": "つかさ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-09T03:31:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9249/92496914.jpg?1716153142",
+    "category": "common"
   },
   {
     "lvId": "lv349596880",
@@ -239,17 +239,6 @@
     "communityName": null,
     "beginAt": "2026-01-09T03:25:12.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596870",
-    "title": "人生につかれたｊｋ",
-    "providerId": "142858957",
-    "providerName": "えむこ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:24:51.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14285/142858957.jpg?1767895214",
     "category": "common"
   },
   {
@@ -393,39 +382,6 @@
     "communityName": null,
     "beginAt": "2026-01-09T03:14:05.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8404/84047192.jpg?1628980434",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596839",
-    "title": "寝よう",
-    "providerId": "134088185",
-    "providerName": "魔法使いさりー（神様）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:12:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13408/134088185.jpg?1759712862",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596833",
-    "title": "あけおめしたっけ？酒",
-    "providerId": "13407770",
-    "providerName": "ある",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:11:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1340/13407770.jpg?1723185351",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349596834",
-    "title": "【ルーキー】ゲストの雑談配信　赤峰優位さん４８年７２日おめでとう。。。いつでも帰ってきてね待ってるからね😸",
-    "providerId": "139234366",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-09T03:10:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
