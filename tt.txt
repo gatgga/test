@@ -61,7 +61,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2650043.jpg?1765879088",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2650043",
     "socialGroupName": "葬送のフリーレン",
@@ -537,24 +537,6 @@
     "endTime": 1768348800,
     "showTime": "2026-01-13 23:30:00",
     "onAirTime": "2026-01-13 23:20:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349228186",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1767916800,
-    "endTime": 1768240800,
-    "showTime": "2026-01-09 00:00:00",
-    "onAirTime": "2026-01-09 00:00:00",
     "isCasItem": true
   }
 ]
