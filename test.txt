@@ -1,5 +1,60 @@
 [
   {
+    "lvId": "lv349630469",
+    "title": "【初配信】ゲストの動画紹介配信",
+    "providerId": "142902243",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:42:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "req"
+  },
+  {
+    "lvId": "lv349630476",
+    "title": "ゲーム",
+    "providerId": "140450843",
+    "providerName": "ゲーム",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:44:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349630465",
+    "title": "シャドウバース　まったりプレイ",
+    "providerId": "128978695",
+    "providerName": "令和",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:43:16.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12897/128978695.jpg?1689860575",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349630457",
+    "title": "運動しながらザ クルー モーターフェス",
+    "providerId": "32217043",
+    "providerName": "ひへい",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:42:33.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3221/32217043.jpg?1674488634",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349630470",
+    "title": "AKIBA'S TRIP2 DC",
+    "providerId": "90401241",
+    "providerName": "流星　空",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:41:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9040/90401241.jpg?1680774952",
+    "category": "live"
+  },
+  {
     "lvId": "lv349630461",
     "title": "ポケモンZA　DLCやる　7日目",
     "providerId": "50166744",
@@ -121,26 +176,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv349630417",
-    "title": "いじめ中学そつごくあく会社よせい10年間6000円で非正規労働12時間帰宅時間別に2時間で重労働山奥コンクリ工事などをさせられ 東方テスト安楽死委員会x7F3Q9z48",
-    "providerId": "72909835",
-    "providerName": "安楽委員会x7F3Q9z48",
+    "lvId": "lv349630472",
+    "title": "依頼作業をします(画面なし)",
+    "providerId": "13954105",
+    "providerName": "さわてぃ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-01-13T09:25:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7290/72909835.jpg?1765524514",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349630410",
-    "title": "【レトロゲーやろうぜ！】スーパー特撮大戦2001メタル系主人公",
-    "providerId": "45843765",
-    "providerName": "ラウレリア",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-13T09:23:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4584/45843765.jpg?1636550474",
-    "category": "live"
+    "beginAt": "2026-01-13T09:42:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1395/13954105.jpg?1614748293",
+    "category": "try"
   },
   {
     "lvId": "lv349630460",
@@ -174,6 +218,50 @@
     "beginAt": "2026-01-13T09:26:54.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/134/1347693.jpg?1340620052",
     "category": "try"
+  },
+  {
+    "lvId": "lv349617137",
+    "title": "2026/1/13(火)ニッポンジャーナル 江崎道朗/フィフィ/居島一平",
+    "providerId": null,
+    "providerName": "株式会社アディショナルタイム",
+    "communityId": "ch2648636",
+    "communityName": "ニッポンジャーナル",
+    "beginAt": "2026-01-13T09:45:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2648636.jpg?1705831105",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349630450",
+    "title": "めいく",
+    "providerId": "141686876",
+    "providerName": "しく",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:42:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14168/141686876.jpg?1758276645",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349630471",
+    "title": "始業まえ、ちょこと、チャット枠",
+    "providerId": "21603408",
+    "providerName": "よも",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:42:44.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2160/21603408.jpg?1320665612",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349630472",
+    "title": "依頼作業をします(画面なし)",
+    "providerId": "13954105",
+    "providerName": "さわてぃ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-13T09:42:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1395/13954105.jpg?1614748293",
+    "category": "common"
   },
   {
     "lvId": "lv349630467",
