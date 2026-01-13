@@ -1,5 +1,27 @@
 [
   {
+    "lvId": "lv349637220",
+    "title": "LiveBroadcast",
+    "providerId": "88769938",
+    "providerName": "兄貴",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-14T07:25:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349637208",
+    "title": "マブラヴ ガールズガーデン",
+    "providerId": "24687786",
+    "providerName": "Dmax4832",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-14T07:25:13.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2468/24687786.jpg?1432041520",
+    "category": "live"
+  },
+  {
     "lvId": "lv349637211",
     "title": "モンスターハンターワイルズ",
     "providerId": "26717126",
@@ -121,17 +143,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349637169",
-    "title": "黙々とbeatmania IIDX INFINITAS",
-    "providerId": "10041857",
-    "providerName": "唐沢",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T07:04:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1004/10041857.jpg?1451037467",
-    "category": "live"
-  },
-  {
     "lvId": "lv349637177",
     "title": "ツクールか絵か3Dか",
     "providerId": "590314",
@@ -151,17 +162,6 @@
     "communityName": null,
     "beginAt": "2026-01-14T07:08:33.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9355/93553659.jpg?1687259496",
-    "category": "try"
-  },
-  {
-    "lvId": "lv349637161",
-    "title": "あさのおえかき",
-    "providerId": "14745819",
-    "providerName": "sukotaka",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T07:06:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1474/14745819.jpg?1537895135",
     "category": "try"
   },
   {
@@ -448,28 +448,6 @@
     "communityName": null,
     "beginAt": "2026-01-14T07:07:28.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9287/92872851.jpg?1574924503",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349637171",
-    "title": "無題",
-    "providerId": "36412297",
-    "providerName": "せ〜いち",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T07:06:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349637161",
-    "title": "あさのおえかき",
-    "providerId": "14745819",
-    "providerName": "sukotaka",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T07:06:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1474/14745819.jpg?1537895135",
     "category": "common"
   }
 ]
