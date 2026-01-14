@@ -11,17 +11,6 @@
     "category": "req"
   },
   {
-    "lvId": "lv349644102",
-    "title": "ニコニコ動画流します　音楽・コメント募集してます",
-    "providerId": "130702731",
-    "providerName": "ｐｐ（ぴっぴ）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:24:04.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13070/130702731.jpg?1745873368",
-    "category": "req"
-  },
-  {
     "lvId": "lv349644140",
     "title": "聖剣伝説３　RTA",
     "providerId": "127576279",
@@ -154,50 +143,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349644103",
-    "title": "久々に枠取り　マビノギ",
-    "providerId": "23662874",
-    "providerName": "スパルム",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:24:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2366/23662874.jpg?1422292556",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349644100",
-    "title": "マトゥシって奴の筋トレゲーム生活日記 145 Day",
-    "providerId": "11208543",
-    "providerName": "マトゥシ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:24:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1120/11208543.jpg?1541039822",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349644082",
-    "title": "キャプテン翼Roncをこっそりプレイ",
-    "providerId": "2741675",
-    "providerName": "新ダイ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:22:58.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/274/2741675.jpg?1722859993",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349644098",
-    "title": "じゃんたま",
-    "providerId": "138374044",
-    "providerName": "和久",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:22:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13837/138374044.jpg?1752275529",
-    "category": "live"
-  },
-  {
     "lvId": "lv349644141",
     "title": "病愛ちゃの配信!!🩹🩵",
     "providerId": "141144908",
@@ -262,6 +207,61 @@
     "beginAt": "2026-01-15T06:26:53.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3937/39373848.jpg?1395884705",
     "category": "try"
+  },
+  {
+    "lvId": "lv349644157",
+    "title": "酒飲みながら外配信‼️雑談配信無加工失礼します。あと、まじで初心者🔰話そお",
+    "providerId": "142915193",
+    "providerName": "むーにーまん( ᴖ ̫ᴖ )",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-15T06:43:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14291/142915193.jpg?1768389793",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349644155",
+    "title": "おは",
+    "providerId": "139422047",
+    "providerName": "こうろぎちゃん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-15T06:43:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349644151",
+    "title": "鬱ヒトカラ！音痴克服！不眠症",
+    "providerId": "140924050",
+    "providerName": "なまたや",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-15T06:42:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14092/140924050.jpg?1761048061",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349644150",
+    "title": "おはようございます",
+    "providerId": "1386277",
+    "providerName": "のい",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-15T06:41:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/138/1386277.jpg?1480322764",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349644144",
+    "title": "無",
+    "providerId": "6015929",
+    "providerName": "かれお＠冬眠中",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-15T06:41:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/601/6015929.jpg?1710474631",
+    "category": "common"
   },
   {
     "lvId": "lv349644149",
@@ -407,17 +407,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349644122",
-    "title": "おじさんパスタを茹でる🍝🍝🍝🍝🍝🍝",
-    "providerId": "142911073",
-    "providerName": "あきくん！",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:31:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14291/142911073.jpg?1768358849",
-    "category": "common"
-  },
-  {
     "lvId": "lv349644124",
     "title": "寒い⛄",
     "providerId": "87840075",
@@ -495,17 +484,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349644114",
-    "title": "おは",
-    "providerId": "137814833",
-    "providerName": "フグちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:28:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13781/137814833.jpg?1738441845",
-    "category": "common"
-  },
-  {
     "lvId": "lv349644109",
     "title": "表博耀（おもて ひろあき）先生との対談LIVE  「日本の精神的復興（岩戸開き）」腐敗した政治を一掃する「大禊（おおみそぎ）」｜原口一博",
     "providerId": "129350099",
@@ -525,50 +503,6 @@
     "communityName": null,
     "beginAt": "2026-01-15T06:26:53.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3937/39373848.jpg?1395884705",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349644104",
-    "title": "2月から無職人生の負け組でやんす。",
-    "providerId": "142453093",
-    "providerName": "48万借金",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:25:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14245/142453093.jpg?1764704117",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349644099",
-    "title": "電話来るまで",
-    "providerId": "132710348",
-    "providerName": "無害",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:23:20.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13271/132710348.jpg?1713066021",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349644101",
-    "title": "あたおか",
-    "providerId": "141520418",
-    "providerName": "まりも",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:23:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14152/141520418.jpg?1768425720",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349644097",
-    "title": "【King gayslop Sleez】decides 🖖🖖🖖🤟🤟🤟👌👌👌🤘🤘🤘😈😈😈 27 |  33 | 333 | 666",
-    "providerId": "142608271",
-    "providerName": "精液を飲み干す日本人-27",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-15T06:22:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14260/142608271.jpg?1768169796",
     "category": "common"
   }
 ]
