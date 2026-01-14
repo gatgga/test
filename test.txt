@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349637969",
+    "title": "【ルーキー】ムムムのゲーム配信",
+    "providerId": "24847249",
+    "providerName": "ムムム",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-14T11:36:12.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv349637965",
     "title": "だらだらゲーム",
     "providerId": "40604787",
@@ -187,61 +198,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349637896",
-    "title": "【原神】Luna Ⅳやっていくので見てて。【同時配信】",
-    "providerId": "117184059",
-    "providerName": "片瀬",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:19:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11718/117184059.jpg?1611294165",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349637892",
-    "title": "ブレイブリーデフォルト",
-    "providerId": "21487589",
-    "providerName": "mon-barbara",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:18:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2148/21487589.jpg?1733312017",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349637889",
-    "title": "ヤガミンがいく蒼炎の軌跡02 part2【ファイアーエムブレム　蒼炎の軌跡】",
-    "providerId": "44111288",
-    "providerName": "八神尚哉",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:17:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4411/44111288.jpg?1708327917",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349637876",
-    "title": "大学講師のゲーム枠（崩壊スターレイル →原神 LunaIV アプデ）",
-    "providerId": "11631438",
-    "providerName": "蒼滋",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:17:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1163/11631438.jpg?1768054451",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349637886",
-    "title": "モンハンワイルズ",
-    "providerId": "2377804",
-    "providerName": "ミツバ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:17:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/237/2377804.jpg?1756446957",
-    "category": "live"
-  },
-  {
     "lvId": "lv349637955",
     "title": "【料理】お弁当つくるよ7@飲み雑談【初見様歓迎】",
     "providerId": "25386006",
@@ -286,6 +242,39 @@
     "category": "try"
   },
   {
+    "lvId": "lv349637970",
+    "title": "晦冥陽気（かいめいようき）の超やる気マイナス配信",
+    "providerId": "57570933",
+    "providerName": "晦冥陽気（かいめいようき）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-14T11:37:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5757/57570933.jpg?1767431779",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349637963",
+    "title": "【ルーキー】ひきこもりメンヘラの まったりニコゲー枠【出入り自由一見さん大歓迎】",
+    "providerId": "142772824",
+    "providerName": "統失にゃんこ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-14T11:36:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349637967",
+    "title": "１６限パス禁ren",
+    "providerId": "137556738",
+    "providerName": "マリモ℗　　　　　　　　Ⅰ☆Ⅻ★",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-14T11:35:53.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13755/137556738.jpg?1747451415",
+    "category": "common"
+  },
+  {
     "lvId": "lv349637925",
     "title": "激エロ！猫耳メイドがお鎌で冥土へ誘うねこ！ ヘル猫宮ねこーらの配信",
     "providerId": "122906032",
@@ -298,7 +287,7 @@
   },
   {
     "lvId": "lv349637964",
-    "title": "原神　ガチャ",
+    "title": "原神　ガチャ　無課金攻略",
     "providerId": "82213571",
     "providerName": "とっとと、とっとと",
     "communityId": null,
@@ -404,17 +393,6 @@
     "communityName": "最高の未来を思い出す手相チャンネル",
     "beginAt": "2026-01-14T11:30:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2643934.jpg?1699336803",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349637942",
-    "title": "グミちゃん。の雑談配信",
-    "providerId": "142832492",
-    "providerName": "グミちゃん。",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:29:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14283/142832492.jpg?1767661326",
     "category": "common"
   },
   {
@@ -569,50 +547,6 @@
     "communityName": null,
     "beginAt": "2026-01-14T11:19:26.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2682/26824664.jpg?1620741655",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349637890",
-    "title": "だら～と雑談　36歳",
-    "providerId": "53931380",
-    "providerName": "とい",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:17:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5393/53931380.jpg?1554074052",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349637888",
-    "title": "オ◯◯ーだけが生き甲斐です",
-    "providerId": "142796729",
-    "providerName": "なおちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:17:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14279/142796729.jpg?1767916972",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349637887",
-    "title": "障害者の朝",
-    "providerId": "69531734",
-    "providerName": "しーちゃん(shii)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:17:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6953/69531734.jpg?1565514677",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349637885",
-    "title": "30分だけ",
-    "providerId": "94106156",
-    "providerName": "シンカモン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-14T11:16:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9410/94106156.jpg?1713438372",
     "category": "common"
   }
 ]
