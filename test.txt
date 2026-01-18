@@ -1,16 +1,5 @@
 [
   {
-    "lvId": "lv349675805",
-    "title": "ニコ生ゲーム「じじいカート」",
-    "providerId": "11643434",
-    "providerName": "hiroyuki",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:51:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1164/11643434.jpg?1443444485",
-    "category": "live"
-  },
-  {
     "lvId": "lv349675807",
     "title": "00",
     "providerId": "142901415",
@@ -88,26 +77,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv349675763",
-    "title": "テトリスマラソン",
-    "providerId": "60224",
-    "providerName": "とんじる冷ましの介",
+    "lvId": "lv349675814",
+    "title": "歌枠",
+    "providerId": "17311314",
+    "providerName": "忍野忍",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-01-19T02:35:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6/60224.jpg?1758640399",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349675761",
-    "title": "FFX2を生配信！夜中なので無言で配信！無言！！",
-    "providerId": "80421098",
-    "providerName": "大山喜三郎",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:34:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8042/80421098.jpg?1605822829",
-    "category": "live"
+    "beginAt": "2026-01-19T02:54:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1731/17311314.jpg?1397924855",
+    "category": "try"
   },
   {
     "lvId": "lv349675809",
@@ -132,15 +110,37 @@
     "category": "try"
   },
   {
-    "lvId": "lv349675769",
-    "title": "うさみん",
-    "providerId": "89977667",
-    "providerName": "ノロコット",
+    "lvId": "lv349675817",
+    "title": "元◯◯と話したいな 俺のこと好きだよー 素直に言ってみた",
+    "providerId": "142709207",
+    "providerName": "ﾏ ｲ の 配 信",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-01-19T02:37:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8997/89977667.jpg?1571706831",
-    "category": "try"
+    "beginAt": "2026-01-19T02:55:48.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349675814",
+    "title": "歌枠",
+    "providerId": "17311314",
+    "providerName": "忍野忍",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-19T02:54:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1731/17311314.jpg?1397924855",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349675812",
+    "title": "やほみ！",
+    "providerId": "41607655",
+    "providerName": "ねき",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-19T02:53:59.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4160/41607655.jpg?1706965343",
+    "category": "common"
   },
   {
     "lvId": "lv349675810",
@@ -415,72 +415,6 @@
     "communityName": null,
     "beginAt": "2026-01-19T02:37:50.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14093/140934373.jpg?1757400922",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349675769",
-    "title": "うさみん",
-    "providerId": "89977667",
-    "providerName": "ノロコット",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:37:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8997/89977667.jpg?1571706831",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349675768",
-    "title": "最新政治ニュースまとめライブ配信　３０分ごとに更新中！",
-    "providerId": "142379596",
-    "providerName": "s1",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:36:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349675766",
-    "title": "おなかすいた",
-    "providerId": "54086017",
-    "providerName": "なつ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:36:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349675767",
-    "title": "まったり雑談～",
-    "providerId": "38876570",
-    "providerName": "こうへいP",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:36:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3887/38876570.jpg?1703498699",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349675764",
-    "title": "【コメント待ち】30分間自分が気が済むまで雑談配信",
-    "providerId": "47427700",
-    "providerName": "飼猫タマ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:36:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4742/47427700.jpg?1734178925",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349675762",
-    "title": "雑談配信",
-    "providerId": "142839808",
-    "providerName": "一桃 もも",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-19T02:35:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14283/142839808.jpg?1767715220",
     "category": "common"
   }
 ]
