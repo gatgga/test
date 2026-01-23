@@ -43,7 +43,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2621731.jpg?1669950003",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2621731",
     "socialGroupName": "ニコニコ競馬チャンネル",
@@ -51,6 +51,24 @@
     "endTime": 1769203800,
     "showTime": "2026-01-23 14:00:00",
     "onAirTime": "2026-01-23 13:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349695044",
+    "title": "【衆院選2026】日本の針路は？ 高市早苗総理インタビュー with 高校生",
+    "description": "第51回衆議院議員総選挙（2026年1月27日公示、2月8日投開票）に際し、\n各党の党首に、ニコニコと高校生が質問します。\n\n■出演\n高市早苗 内閣総理大臣・自...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "onair",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1769180400,
+    "endTime": 1769191200,
+    "showTime": "2026-01-23 15:00:00",
+    "onAirTime": "2026-01-23 14:30:00",
     "isCasItem": true
   },
   {
