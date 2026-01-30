@@ -22,6 +22,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349765033",
+    "title": "FF14",
+    "providerId": "46278698",
+    "providerName": "やまぼうず",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-31T07:07:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4627/46278698.jpg?1423914818",
+    "category": "live"
+  },
+  {
     "lvId": "lv349765024",
     "title": "ゲーム配信/コメント返信なし/練習",
     "providerId": "52958121",
@@ -209,17 +220,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349764988",
-    "title": "【ＳＦＣ】ロマンシングサガⅡ【ロマサガ】朝から今日クリする",
-    "providerId": "1466301",
-    "providerName": "たま",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-31T06:48:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/146/1466301.jpg?1539330049",
-    "category": "live"
-  },
-  {
     "lvId": "lv349765028",
     "title": "ゲームの作業",
     "providerId": "590314",
@@ -231,15 +231,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv349764984",
-    "title": "【お絵描き 164】　 東北きりたんを描く！⑤",
-    "providerId": "130975520",
-    "providerName": "ゆるひゆう",
+    "lvId": "lv349765032",
+    "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-01-31T06:47:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13097/130975520.jpg?1722841331",
-    "category": "try"
+    "beginAt": "2026-01-31T07:07:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349765025",
+    "title": "カラオケ",
+    "providerId": "4885163",
+    "providerName": "dawn",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-01-31T07:05:37.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/488/4885163.jpg?1655075399",
+    "category": "common"
   },
   {
     "lvId": "lv349765028",
@@ -426,39 +437,6 @@
     "communityName": null,
     "beginAt": "2026-01-31T06:49:37.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/55/550993.jpg?1769325881",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349764984",
-    "title": "【お絵描き 164】　 東北きりたんを描く！⑤",
-    "providerId": "130975520",
-    "providerName": "ゆるひゆう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-31T06:47:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13097/130975520.jpg?1722841331",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349764987",
-    "title": "過疎放送　早起き過ぎた",
-    "providerId": "131019884",
-    "providerName": "コロコロ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-31T06:47:51.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349764983",
-    "title": "じじい猫達いっぬ見守り(｀･ω･´)ゞねこざむらい、水下痢でおなかが痛いです",
-    "providerId": "35400727",
-    "providerName": "馬場龍之介とゆかいな仲間たち",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-01-31T06:47:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3540/35400727.jpg?1554866620",
     "category": "common"
   }
 ]
