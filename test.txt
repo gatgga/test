@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349801383",
+    "title": "gta5",
+    "providerId": "31432478",
+    "providerName": "教祖ペペロミア",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T05:12:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv349801379",
     "title": "地図作成練習",
     "providerId": "143010617",
@@ -118,17 +129,6 @@
     "communityName": null,
     "beginAt": "2026-02-05T04:56:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/316/3163799.jpg?1670046711",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349801344",
-    "title": "めるしぃのゲーム配信",
-    "providerId": "129021364",
-    "providerName": "めるしぃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T04:55:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12902/129021364.jpg?1769978583",
     "category": "live"
   },
   {
@@ -393,39 +393,6 @@
     "communityName": null,
     "beginAt": "2026-02-05T04:55:33.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14272/142727474.jpg?1767020146",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349801342",
-    "title": "ひろあの酒雑ｋｐ",
-    "providerId": "118972702",
-    "providerName": "ひろあ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T04:55:17.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11897/118972702.jpg?1619440834",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349801338",
-    "title": "【カラバオ準決勝】マンC vsニューカッスル",
-    "providerId": "47186920",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T04:55:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349799279",
-    "title": "【リーグ杯準決勝】マンチェスターC【イタリア杯準々決勝】インテル　ユヴェントス【国王杯】ソシエダ　Aマドリード",
-    "providerId": "6922429",
-    "providerName": "イスパロクト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T04:55:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/692/6922429.jpg?1769274124",
     "category": "common"
   }
 ]
