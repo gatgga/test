@@ -33,6 +33,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349801588",
+    "title": "［日課］VISION-akiのゲーム生放送",
+    "providerId": "20205581",
+    "providerName": "VISION-aki",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T06:46:38.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2020/20205581.jpg?1297403757",
+    "category": "live"
+  },
+  {
     "lvId": "lv349801579",
     "title": "パラバト Part.12",
     "providerId": "4313858",
@@ -121,28 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349801554",
-    "title": "めるしぃのゲーム配信 プレゼントおねがいします！",
-    "providerId": "129021364",
-    "providerName": "めるしぃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T06:27:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12902/129021364.jpg?1769978583",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349801541",
-    "title": "ｐそ２んｇｓやーる",
-    "providerId": "125686998",
-    "providerName": "食通",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T06:26:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12568/125686998.jpg?1661400807",
-    "category": "live"
-  },
-  {
     "lvId": "lv349801575",
     "title": "色塗りして楽しむ",
     "providerId": "138374044",
@@ -176,6 +165,72 @@
     "category": "try"
   },
   {
+    "lvId": "lv349801589",
+    "title": "鹿の伝説やる",
+    "providerId": "6714786",
+    "providerName": "クルル",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T06:47:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/671/6714786.jpg?1665076719",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349801587",
+    "title": "[車載]仕事行くで",
+    "providerId": "1447787",
+    "providerName": "さじ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T06:47:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/144/1447787.jpg?1724580611",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349801585",
+    "title": "2026.2.5リチャード・コシミズ・チャンネル第133回",
+    "providerId": "120930363",
+    "providerName": "richardkoshimizu",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T06:45:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12093/120930363.jpg?1641277591",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349801586",
+    "title": "パチ＆スロ雑談所",
+    "providerId": "129626439",
+    "providerName": "寝ハゲ（キハダ）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T06:45:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12962/129626439.jpg?1687694097",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349801584",
+    "title": "【ルーキー】ゲストの雑談配信　赤峰優位さん４８年９９日おめでとう。。。いつでも帰ってきてね待ってるからね😸",
+    "providerId": "139234366",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T06:45:05.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349801582",
+    "title": "【歌枠】りはびｒ、喉痛い、くれいじーごなくれいじー(´・ω・`)、Ｉカップがほしい💓🍒🔔🍇(´・ω・`)フォロー&ギフトよろしくね※寝落ち有り（重要）",
+    "providerId": "5369207",
+    "providerName": "しい",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-05T06:43:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/536/5369207.jpg?1723378705",
+    "category": "common"
+  },
+  {
     "lvId": "lv349801583",
     "title": "ときわ先生のマクラーレン＆合格わこつ",
     "providerId": "141599337",
@@ -184,17 +239,6 @@
     "communityName": null,
     "beginAt": "2026-02-05T06:43:32.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14159/141599337.jpg?1758064786",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349801578",
-    "title": "月影ニコtubeチャンネル　ザ・東大ふろ",
-    "providerId": "132088070",
-    "providerName": "tsukikagejou 2nd",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T06:40:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13208/132088070.jpg?1707562803",
     "category": "common"
   },
   {
@@ -316,50 +360,6 @@
     "communityName": null,
     "beginAt": "2026-02-05T06:29:13.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13303/133034978.jpg?1746642182",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349801553",
-    "title": "たらいま！",
-    "providerId": "142879728",
-    "providerName": "げそのこめん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T06:27:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14287/142879728.jpg?1768083799",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349801552",
-    "title": "優良ニート",
-    "providerId": "142614157",
-    "providerName": "軍手",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T06:27:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14261/142614157.jpg?1769562024",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349801549",
-    "title": "立春過ぎて",
-    "providerId": "16570313",
-    "providerName": "っ”ぉぁぃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T06:27:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1657/16570313.jpg?1534849163",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349801545",
-    "title": "大学再受験ジジイの勉強配信",
-    "providerId": "95767107",
-    "providerName": "大学再受験ジジイ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-05T06:25:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9576/95767107.jpg?1685618094",
     "category": "common"
   }
 ]
