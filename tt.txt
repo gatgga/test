@@ -25,7 +25,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2650009.jpg?1767697689",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2650009",
     "socialGroupName": "ヘルモード やり込み好きのゲーマーは廃設定の異世界で無双する",
@@ -87,6 +87,24 @@
     "endTime": 1770337800,
     "showTime": "2026-02-06 00:00:00",
     "onAirTime": "2026-02-05 23:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349806202",
+    "title": "ニコニコ実況",
+    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1770336000,
+    "endTime": 1770660000,
+    "showTime": "2026-02-06 00:00:00",
+    "onAirTime": "2026-02-06 00:00:00",
     "isCasItem": true
   },
   {
