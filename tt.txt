@@ -43,7 +43,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2650009.jpg?1767697689",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2650009",
     "socialGroupName": "ヘルモード やり込み好きのゲーマーは廃設定の異世界で無双する",
@@ -144,24 +144,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv349759690",
-    "title": "木原稔 官房長官 記者会見 生中継（2026年2月13日午前）",
-    "description": "木原稔（きはら みのる）内閣官房長官による記者会見\nの模様を、首相官邸から生中継いたします。\n　※官房長官の会見スケジュールに合わせ、時間変更の可能性があります...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "released",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1770975600,
-    "endTime": 1770984000,
-    "showTime": "2026-02-13 09:40:00",
-    "onAirTime": "2026-02-13 09:30:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv349631383",
     "title": "【11日目】横浜DeNAベイスターズ 2026年春季キャンプ 宜野湾",
     "description": "▼プレミアム会員を3ヶ月継続するとペア観戦チケットや選手サイングッズが当たる！\n\n\n\n横浜DeNAベイスターズ宜野湾キャンプを\nユニオンですからスタジアム宜野湾...",
@@ -195,6 +177,24 @@
     "endTime": 1771060800,
     "showTime": "2026-02-13 10:00:00",
     "onAirTime": "2026-02-13 09:50:00",
+    "isCasItem": true
+  },
+  {
+    "id": "lv349759690",
+    "title": "木原稔 官房長官 記者会見 生中継（2026年2月13日午前）",
+    "description": "木原稔（きはら みのる）内閣官房長官による記者会見\nの模様を、首相官邸から生中継いたします。\n　※官房長官の会見スケジュールに合わせ、時間変更の可能性があります...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1770977400,
+    "endTime": 1770984000,
+    "showTime": "2026-02-13 10:10:00",
+    "onAirTime": "2026-02-13 10:00:00",
     "isCasItem": true
   },
   {
