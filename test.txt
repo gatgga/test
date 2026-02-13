@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv349874168",
+    "title": "バイオハザード０",
+    "providerId": "132177682",
+    "providerName": "モルダー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-14T08:09:20.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13217/132177682.jpg?1708678425",
+    "category": "live"
+  },
+  {
     "lvId": "lv349874140",
     "title": "【PS3】超ヒロイン戦記（ネタバレあり）わんコメ8.0.7テスト【第９話 狙われた ブルー・ティアーズ　から】5枠目",
     "providerId": "7812632",
@@ -319,48 +330,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv349874078",
-    "title": "【ニコゲー】スパイダー朝",
-    "providerId": "484910",
-    "providerName": "qawsedrft",
+    "lvId": "lv349874166",
+    "title": "恋知る教習所　第７話　p7p8p9p10",
+    "providerId": "772538",
+    "providerName": "七十七（なずな）凛",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-02-14T07:51:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/48/484910.jpg?1572851217",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349874109",
-    "title": "【静岡2リメイク】黙々とInWaterを目指す",
-    "providerId": "88078279",
-    "providerName": "名無杜本丸/にゃしぱん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:51:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8807/88078279.jpg?1698660557",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349874056",
-    "title": "【雑談】散策をする（あてはない）/最近なんかあった？【初見さん歓迎】",
-    "providerId": "26780572",
-    "providerName": "右端→Twitch",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:51:28.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2678/26780572.jpg?1668369315",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349874091",
-    "title": "バイトなど【スプラ３】",
-    "providerId": "377489",
-    "providerName": "シズク",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:50:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/37/377489.jpg?1734132847",
-    "category": "live"
+    "beginAt": "2026-02-14T08:08:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/77/772538.jpg?1746658516",
+    "category": "try"
   },
   {
     "lvId": "lv349874155",
@@ -407,17 +385,6 @@
     "category": "try"
   },
   {
-    "lvId": "lv349874124",
-    "title": "おはよう！",
-    "providerId": "142264308",
-    "providerName": "DOCTOR FACE",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:55:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14226/142264308.jpg?1770848992",
-    "category": "try"
-  },
-  {
     "lvId": "lv349874112",
     "title": "おはよーネカフェメイクする(無言)",
     "providerId": "132897073",
@@ -427,6 +394,39 @@
     "beginAt": "2026-02-14T07:53:50.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13289/132897073.jpg?1716963549",
     "category": "try"
+  },
+  {
+    "lvId": "lv349874171",
+    "title": "お仕事に行く！　車載その萬116",
+    "providerId": "14315744",
+    "providerName": "みかげ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-14T08:10:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1431/14315744.jpg?1334294131",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349874129",
+    "title": "【第134回】ラジオ体操班【 #ニコふぁん運動部】",
+    "providerId": "134021530",
+    "providerName": "明代ごき子",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-14T08:10:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13402/134021530.jpg?1739869360",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349874166",
+    "title": "恋知る教習所　第７話　p7p8p9p10",
+    "providerId": "772538",
+    "providerName": "七十七（なずな）凛",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-14T08:08:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/77/772538.jpg?1746658516",
+    "category": "common"
   },
   {
     "lvId": "lv349874165",
@@ -690,50 +690,6 @@
     "communityName": null,
     "beginAt": "2026-02-14T07:53:50.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13289/132897073.jpg?1716963549",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349874107",
-    "title": "モクモク作業部屋",
-    "providerId": "9110348",
-    "providerName": "まっつん♂",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:51:17.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349874102",
-    "title": "適当に",
-    "providerId": "25693018",
-    "providerName": "PapoProject",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:51:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2569/25693018.jpg?1635425849",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349874105",
-    "title": "jkだにょ",
-    "providerId": "143182664",
-    "providerName": "みみみ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:49:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14318/143182664.jpg?1770425840",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349874104",
-    "title": "【30分枠】姫ぷ　83F～ちょっと登る",
-    "providerId": "140195711",
-    "providerName": "ke6",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-14T07:49:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14019/140195711.jpg?1761275549",
     "category": "common"
   }
 ]
