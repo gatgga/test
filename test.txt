@@ -55,6 +55,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv349894600",
+    "title": "【春日部つむぎ】FF14を気ままに遊ぶ【ボイチェン配信】",
+    "providerId": "18246497",
+    "providerName": "皐月疾風",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-16T18:55:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1824/18246497.jpg?1634798987",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349894594",
+    "title": "aw vs sao 無限ダンジョン",
+    "providerId": "13645083",
+    "providerName": "ああああ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-16T18:54:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1364/13645083.jpg?1378139602",
+    "category": "live"
+  },
+  {
     "lvId": "lv349894530",
     "title": "【FF14】義務課金",
     "providerId": "18356462",
@@ -308,50 +330,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349894496",
-    "title": "ホラーMODで新生活はじめます",
-    "providerId": "124657665",
-    "providerName": "深淵のぼっち",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:37:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12465/124657665.jpg?1678427063",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349894477",
-    "title": "【PSVita TV】グローランサー 通常ルート",
-    "providerId": "11928105",
-    "providerName": "異界の魂Ｐ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:35:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1192/11928105.jpg?1770380307",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349894486",
-    "title": "ミッション 無言無反応",
-    "providerId": "94902610",
-    "providerName": "かえるくん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:35:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9490/94902610.jpg?1754666603",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349894483",
-    "title": "ドラクエ7のファンボーイ",
-    "providerId": "43417997",
-    "providerName": "ぱんつ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:34:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4341/43417997.jpg?1626771622",
-    "category": "live"
-  },
-  {
     "lvId": "lv349894575",
     "title": "料理】レモンオニオンポーク",
     "providerId": "28883040",
@@ -396,15 +374,48 @@
     "category": "try"
   },
   {
-    "lvId": "lv349894493",
-    "title": "無音カラオケ90点出るまで帰れましぇん！",
-    "providerId": "71260395",
-    "providerName": "さきちタロー_a",
+    "lvId": "lv349894599",
+    "title": "アンナ・フーゴ神を愛でる会（大嘘）",
+    "providerId": "124630",
+    "providerName": "チェーン",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-02-16T18:36:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7126/71260395.jpg?1770360205",
-    "category": "try"
+    "beginAt": "2026-02-16T18:55:58.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12/124630.jpg?1257092501",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349894601",
+    "title": "ねこたんのお風呂配信",
+    "providerId": "620268",
+    "providerName": "ねこたん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-16T18:55:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/62/620268.jpg?1756557353",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349894591",
+    "title": "刺身買ってきた",
+    "providerId": "61513398",
+    "providerName": "おじゃき",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-16T18:54:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6151/61513398.jpg?1754310950",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349894549",
+    "title": "テスト配信",
+    "providerId": "95144312",
+    "providerName": "牛泥棒",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-16T18:53:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9514/95144312.jpg?1770949565",
+    "category": "common"
   },
   {
     "lvId": "lv349894588",
@@ -759,17 +770,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349894521",
-    "title": "ご飯食べながら雑談てきな2",
-    "providerId": "143169769",
-    "providerName": "うまる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:40:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14316/143169769.jpg?1770300303",
-    "category": "common"
-  },
-  {
     "lvId": "lv349894516",
     "title": "風呂雑談",
     "providerId": "131432625",
@@ -866,94 +866,6 @@
     "communityName": null,
     "beginAt": "2026-02-16T18:37:58.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13539/135393462.jpg?1770504004",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894495",
-    "title": "【オーバーウォッチ】オツまみ＠配信者",
-    "providerId": "90326780",
-    "providerName": "オツまみ・ダークサイド",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:36:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9032/90326780.jpg?1754666047",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894492",
-    "title": "【ポスイベ】19時まで雑談！",
-    "providerId": "140016665",
-    "providerName": "もうちょ/望月こねる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:36:49.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14001/140016665.jpg?1748445417",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894471",
-    "title": "[車載]帰るで",
-    "providerId": "1447787",
-    "providerName": "さじ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:36:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/144/1447787.jpg?1724580611",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894493",
-    "title": "無音カラオケ90点出るまで帰れましぇん！",
-    "providerId": "71260395",
-    "providerName": "さきちタロー_a",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:36:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7126/71260395.jpg?1770360205",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894490",
-    "title": "少し休憩   超配信者ギフイベ参加中",
-    "providerId": "129752627",
-    "providerName": "ゆき",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:35:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12975/129752627.jpg?1770294688",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894488",
-    "title": "らりりの雑談配信",
-    "providerId": "140934373",
-    "providerName": "らりり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:35:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14093/140934373.jpg?1757400922",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894487",
-    "title": "jkです。インスタフォローしてください",
-    "providerId": "143182664",
-    "providerName": "みみみ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:35:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14318/143182664.jpg?1770425840",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349894479",
-    "title": "お久しぶりです",
-    "providerId": "28638193",
-    "providerName": "ライジ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-16T18:34:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2863/28638193.jpg?1620740575",
     "category": "common"
   }
 ]
