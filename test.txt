@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349905589",
+    "title": "ドラクエ7",
+    "providerId": "143286059",
+    "providerName": "シロ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-18T00:58:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv349905579",
     "title": "［初見さん歓迎］勝利の女神NIKKE！！ディリー消化+地上奪還済み！！［NIKKE］［メガニケ］",
     "providerId": "18544913",
@@ -96,17 +107,6 @@
     "communityName": null,
     "beginAt": "2026-02-18T00:48:58.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12000/120000569.jpg?1738925905",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349905554",
-    "title": "DQ8RTA",
-    "providerId": "3312326",
-    "providerName": "ラス",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:48:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "live"
   },
   {
@@ -286,39 +286,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349905487",
-    "title": "【ゆかりねっと】さいころドロップやるぞやるぞ【参加自由】",
-    "providerId": "901611",
-    "providerName": "marumusutin",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:38:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/90/901611.jpg?1690565580",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349905402",
-    "title": "【クソ映画探求委員会】なにかゲームしながらアマプラ映画鑑賞会",
-    "providerId": "33089425",
-    "providerName": "きゆみやま",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:38:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3308/33089425.jpg?1366126089",
-    "category": "live"
-  },
-  {
-    "lvId": "lv349905500",
-    "title": "９２２",
-    "providerId": "42185158",
-    "providerName": "りんご",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:37:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4218/42185158.jpg?1770359682",
-    "category": "live"
-  },
-  {
     "lvId": "lv349905563",
     "title": "。",
     "providerId": "7465991",
@@ -341,15 +308,59 @@
     "category": "try"
   },
   {
-    "lvId": "lv349905502",
-    "title": "それイケちいきも大放送‼︎",
-    "providerId": "12919019",
-    "providerName": "ちいきもおじさん",
+    "lvId": "lv349905569",
+    "title": "【今日も今日とて】完全放置の無限財宝掘り【お気軽にどうぞ】2026/02/18【完全放置720分枠】〈2905枠目〉",
+    "providerId": "87133088",
+    "providerName": "シュガー",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-02-18T00:38:05.000Z",
+    "beginAt": "2026-02-18T01:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8713/87133088.jpg?1654344202",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349876016",
+    "title": "【ちかげ配信！】",
+    "providerId": null,
+    "providerName": "インフィニア株式会社",
+    "communityId": "ch2644731",
+    "communityName": "あっとほぉーむカフェ",
+    "beginAt": "2026-02-18T01:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2644731.jpg?1700103604",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349905556",
+    "title": "瀬戸内の離島からこんばんは！離島で重大問題に直面してどうしたらいいかわからないから案をください",
+    "providerId": "33593916",
+    "providerName": "ピエールP",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-18T00:59:05.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3359/33593916.jpg?1482181015",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349905590",
+    "title": "、",
+    "providerId": "142556215",
+    "providerName": "カモミールよしこ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-18T00:57:34.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "try"
+    "category": "common"
+  },
+  {
+    "lvId": "lv349905586",
+    "title": "ふわっちに誰も来ない枠🌺生存確認49日目",
+    "providerId": "54228548",
+    "providerName": "とむちー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-18T00:57:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5422/54228548.jpg?1456482897",
+    "category": "common"
   },
   {
     "lvId": "lv349905583",
@@ -605,17 +616,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv349905527",
-    "title": "深夜徘徊",
-    "providerId": "137056463",
-    "providerName": "札幌に戻りたいH",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:43:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13705/137056463.jpg?1732030525",
-    "category": "common"
-  },
-  {
     "lvId": "lv349905519",
     "title": "【あんスタMusic】ツアーイベント☆5北斗・燐音イベントイベント衣装まで歩く(﹡ˆ﹀ˆ﹡)♡",
     "providerId": "120838497",
@@ -668,83 +668,6 @@
     "communityName": null,
     "beginAt": "2026-02-18T00:40:56.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4167/41675241.jpg?1766944327",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349905508",
-    "title": "水曜日限定飲み配信！",
-    "providerId": "5851317",
-    "providerName": "んぴ1987",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:40:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/585/5851317.jpg?1771293688",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349905439",
-    "title": "ねこーらが美しいからってテクブレしないでねこね💢（可愛いアイドルメイドの配信）猫宮ねこーらの配信",
-    "providerId": "122906032",
-    "providerName": "ねこそな/猫宮ねこーら",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:40:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12290/122906032.jpg?1675684448",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349905504",
-    "title": "無題",
-    "providerId": "1013585",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:39:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/101/1013585.jpg?1571877029",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349905501",
-    "title": "魚釣れるまで終われない【ポスイベ】",
-    "providerId": "67179486",
-    "providerName": "アキバコ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:38:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6717/67179486.jpg?1745925103",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349905503",
-    "title": "彼氏いない42年　シミ毛穴",
-    "providerId": "142968482",
-    "providerName": "脂身かびごん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:38:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14296/142968482.jpg?1769228959",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349905502",
-    "title": "それイケちいきも大放送‼︎",
-    "providerId": "12919019",
-    "providerName": "ちいきもおじさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:38:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349905499",
-    "title": "マジで寝る",
-    "providerId": "54159974",
-    "providerName": "わようかん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-18T00:37:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5415/54159974.jpg?1690922758",
     "category": "common"
   }
 ]
