@@ -234,6 +234,24 @@
     "isCasItem": true
   },
   {
+    "id": "lv349803100",
+    "title": "木原稔 官房長官 記者会見 生中継（2026年2月18日午前）",
+    "description": "木原稔（きはら みのる）内閣官房長官による記者会見\nの模様を、首相官邸から生中継いたします。\n　※官房長官の会見スケジュールに合わせ、時間変更の可能性があります...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1771407600,
+    "endTime": 1771416000,
+    "showTime": "2026-02-18 11:00:00",
+    "onAirTime": "2026-02-18 10:50:00",
+    "isCasItem": true
+  },
+  {
     "id": "lv349631402",
     "title": "【練習試合】横浜DeNAベイスターズ vs 東京ヤクルトスワローズ（2026年春季キャンプ 宜野湾15日目）",
     "description": "▼プレミアム会員を3ヶ月継続するとペア観戦チケットや選手サイングッズが当たる！\n\n\n\n横浜DeNAベイスターズ宜野湾キャンプを\nユニオンですからスタジアム宜野湾...",
@@ -321,24 +339,6 @@
     "endTime": 1771449000,
     "showTime": "2026-02-18 10:20:00",
     "onAirTime": "2026-02-18 10:10:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349803100",
-    "title": "木原稔 官房長官 記者会見 生中継（2026年2月18日午前）",
-    "description": "木原稔（きはら みのる）内閣官房長官による記者会見\nの模様を、首相官邸から生中継いたします。\n　※官房長官の会見スケジュールに合わせ、時間変更の可能性があります...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "released",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1771412400,
-    "endTime": 1771416000,
-    "showTime": "2026-02-18 11:00:00",
-    "onAirTime": "2026-02-18 10:50:00",
     "isCasItem": true
   },
   {
@@ -537,24 +537,6 @@
     "endTime": 1771459200,
     "showTime": "2026-02-18 23:30:00",
     "onAirTime": "2026-02-18 23:20:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349806211",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1699511163",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1771027200,
-    "endTime": 1771351200,
-    "showTime": "2026-02-14 00:00:00",
-    "onAirTime": "2026-02-14 00:00:00",
     "isCasItem": true
   }
 ]
