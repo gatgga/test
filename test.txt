@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv349921254",
+    "title": "モンハンXX",
+    "providerId": "91190537",
+    "providerName": "わらびもち",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-20T05:27:37.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9119/91190537.jpg?1687175036",
+    "category": "live"
+  },
+  {
     "lvId": "lv349921253",
     "title": "オクトパストラベラー２",
     "providerId": "35432160",
@@ -88,17 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349921208",
-    "title": "早寝早起きの魔人",
-    "providerId": "19464321",
-    "providerName": "コウチ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-20T05:07:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1946/19464321.jpg?1329133917",
-    "category": "live"
-  },
-  {
     "lvId": "lv349921218",
     "title": "色々と",
     "providerId": "120893758",
@@ -107,17 +107,6 @@
     "communityName": null,
     "beginAt": "2026-02-20T05:14:32.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12089/120893758.jpg?1734319261",
-    "category": "try"
-  },
-  {
-    "lvId": "lv349921209",
-    "title": "はよねろ",
-    "providerId": "128510449",
-    "providerName": "みっふぃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-20T05:08:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12851/128510449.jpg?1744085069",
     "category": "try"
   },
   {
@@ -316,39 +305,6 @@
     "communityName": null,
     "beginAt": "2026-02-20T05:11:37.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3136/31360330.jpg?1648886880",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349921213",
-    "title": "大人の生放送チャット",
-    "providerId": "141485661",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-20T05:10:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349921211",
-    "title": "らりりの雑談配信",
-    "providerId": "140934373",
-    "providerName": "らりり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-20T05:09:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14093/140934373.jpg?1757400922",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349921209",
-    "title": "はよねろ",
-    "providerId": "128510449",
-    "providerName": "みっふぃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-20T05:08:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12851/128510449.jpg?1744085069",
     "category": "common"
   }
 ]
