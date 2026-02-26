@@ -154,17 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv349968281",
-    "title": "ゲームをするついでに放送するだけです",
-    "providerId": "124793066",
-    "providerName": "お風呂黄色いとりさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-26T09:35:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12479/124793066.jpg?1722868318",
-    "category": "live"
-  },
-  {
     "lvId": "lv349968294",
     "title": "ま。",
     "providerId": "7465991",
@@ -176,15 +165,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv349968286",
-    "title": "またりお絵かき",
-    "providerId": "126629021",
-    "providerName": "ちんちんクソデカティラノサウルス",
+    "lvId": "lv349968328",
+    "title": "ゲストの雑談配信",
+    "providerId": "142038191",
+    "providerName": "ゲスト",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-02-26T09:37:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12662/126629021.jpg?1766972965",
-    "category": "try"
+    "beginAt": "2026-02-26T09:54:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14203/142038191.jpg?1760968398",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349968327",
+    "title": "あんずのカラオケ",
+    "providerId": "115779717",
+    "providerName": "あんず",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-26T09:53:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11577/115779717.jpg?1768121527",
+    "category": "common"
   },
   {
     "lvId": "lv349968326",
@@ -371,17 +371,6 @@
     "communityName": null,
     "beginAt": "2026-02-26T09:37:51.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2880/28807860.jpg?1702184121",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349968286",
-    "title": "またりお絵かき",
-    "providerId": "126629021",
-    "providerName": "ちんちんクソデカティラノサウルス",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-26T09:37:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12662/126629021.jpg?1766972965",
     "category": "common"
   }
 ]
