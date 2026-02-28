@@ -23,7 +23,7 @@
   },
   {
     "lvId": "lv349982979",
-    "title": "VOCALOID動画をランダムにセレクト（テスト配信）",
+    "title": "VOCALOID動画をランダムにセレクト",
     "providerId": "65749008",
     "providerName": "フェニシン",
     "communityId": null,
@@ -31,6 +31,83 @@
     "beginAt": "2026-02-28T11:40:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6574/65749008.jpg?1724298784",
     "category": "req"
+  },
+  {
+    "lvId": "lv349983132",
+    "title": "今日もじじいがやっていく",
+    "providerId": "64473840",
+    "providerName": "たかおじさん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:55:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6447/64473840.jpg?1692429688",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349983130",
+    "title": "3枠やって終わります　マイク無しでやります",
+    "providerId": "20008094",
+    "providerName": "アミ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:58.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2000/20008094.jpg?1749130264",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349983123",
+    "title": "【ニコゲー】もくもくおでんソリティア",
+    "providerId": "138305355",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:39.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13830/138305355.jpg?1741453552",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349983125",
+    "title": "作業枠っぽいなにか",
+    "providerId": "3306675",
+    "providerName": "和泉",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/330/3306675.jpg?1382278079",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349983120",
+    "title": "【遊戯王マスターデュエル】こだまの頭は虚無空間",
+    "providerId": "120036328",
+    "providerName": "こだまくん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12003/120036328.jpg?1687778542",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349983110",
+    "title": "横浜vs豪州代表 練習試合観戦",
+    "providerId": "949013",
+    "providerName": "saten",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:53:55.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/94/949013.jpg?1594889600",
+    "category": "live"
+  },
+  {
+    "lvId": "lv349983122",
+    "title": "ゲーム配信",
+    "providerId": "128025311",
+    "providerName": "冬川",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:53:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
   },
   {
     "lvId": "lv349983118",
@@ -286,15 +363,70 @@
     "category": "live"
   },
   {
-    "lvId": "lv349983049",
-    "title": "メニューブック４２以降",
-    "providerId": "132330332",
-    "providerName": "exclusive@50馬力",
+    "lvId": "lv349983128",
+    "title": "野球みながら作業",
+    "providerId": "69680853",
+    "providerName": "海鼠腸",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-02-28T11:36:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13233/132330332.jpg?1768419451",
-    "category": "live"
+    "beginAt": "2026-02-28T11:54:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6968/69680853.jpg?1716614839",
+    "category": "try"
+  },
+  {
+    "lvId": "lv349983129",
+    "title": "車載　お仕事午後の部",
+    "providerId": "23579756",
+    "providerName": "hirozu",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2357/23579756.jpg?1769342680",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349983128",
+    "title": "野球みながら作業",
+    "providerId": "69680853",
+    "providerName": "海鼠腸",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6968/69680853.jpg?1716614839",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349983126",
+    "title": "株取引が源泉徴収ありになってるんですけどコレって勝手に税金引かれちゃいますよね？",
+    "providerId": "84613833",
+    "providerName": "タージマハル小林",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8461/84613833.jpg?1755182767",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349983124",
+    "title": "ゲームやる　花粉症の人います？",
+    "providerId": "142466318",
+    "providerName": "中華まん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:54:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14246/142466318.jpg?1772235469",
+    "category": "common"
+  },
+  {
+    "lvId": "lv349983119",
+    "title": "【WBC練習試合】ベイスターズ vs　オーストラリア代表",
+    "providerId": "119633851",
+    "providerName": "Gess",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-02-28T11:53:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv349983116",
@@ -569,61 +701,6 @@
     "communityName": null,
     "beginAt": "2026-02-28T11:37:54.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13781/137814833.jpg?1738441845",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349983052",
-    "title": "30歳、夜勤明けのかえりみちからの海釣りか散髪💈",
-    "providerId": "124407407",
-    "providerName": "コンビニヘルパーつよし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-28T11:36:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12440/124407407.jpg?1766079848",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349983048",
-    "title": "20辛カレーをたべちゃうよ配信",
-    "providerId": "630722",
-    "providerName": "ぼーぼー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-28T11:36:51.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/63/630722.jpg?1751019215",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349983051",
-    "title": "ネクステ参加中♡広告大歓迎",
-    "providerId": "139115915",
-    "providerName": "ぴー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-28T11:36:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13911/139115915.jpg?1755277093",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349983050",
-    "title": "【グループホーム】倦怠感",
-    "providerId": "141981477",
-    "providerName": "椎名。",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-28T11:36:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14198/141981477.jpg?1760650681",
-    "category": "common"
-  },
-  {
-    "lvId": "lv349983044",
-    "title": "【ルーキー】めうの雑談配信3",
-    "providerId": "141267916",
-    "providerName": "めう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-02-28T11:35:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
