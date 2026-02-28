@@ -97,7 +97,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2642540.jpg?1682058594",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2642540",
     "socialGroupName": "音楽・アーティストのニコ生まとめ",
@@ -115,7 +115,7 @@
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2648453.jpg?1686627764",
     "isPayProgram": false,
     "isFollowerOnly": false,
-    "status": "released",
+    "status": "onair",
     "hostName": "株式会社ドワンゴ",
     "socialGroupId": "ch2648453",
     "socialGroupName": "彼女、お借りします Season2",
@@ -735,24 +735,6 @@
     "endTime": 1772409600,
     "showTime": "2026-03-01 23:30:00",
     "onAirTime": "2026-03-01 23:20:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349806250",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1772186286",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1772010000,
-    "endTime": 1772301600,
-    "showTime": "2026-02-25 09:00:00",
-    "onAirTime": "2026-02-25 09:00:00",
     "isCasItem": true
   }
 ]
