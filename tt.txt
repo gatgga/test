@@ -36,24 +36,6 @@
     "isCasItem": true
   },
   {
-    "id": "lv350007800",
-    "title": "【国会中継】衆議院 財務金融委員会「所信に対する質疑」（2026年3月4日）",
-    "description": "衆議院 財務金融委員会\n本番組は二次創作利用を禁止しています。\n\n財政及び金融に関する件\n・所信に対する質疑\n\n質疑者\n13:00-13:30 宗清皇一（自由民...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1772186286",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1772629200,
-    "endTime": 1772647200,
-    "showTime": "2026-03-04 13:00:00",
-    "onAirTime": "2026-03-04 12:50:00",
-    "isCasItem": true
-  },
-  {
     "id": "lv349893331",
     "title": "【競馬実況】川崎競馬 3月4日",
     "description": "\nニコニコ生放送で\n川崎競馬場のレースを生中継いたします!\n\n\n本日のレース情報\n\n\n\n\n\n\n\nSPAT4のサイトにジャンプします。馬券の購入にはSPAT4のご...",
@@ -414,6 +396,24 @@
     "isCasItem": true
   },
   {
+    "id": "lv350013709",
+    "title": "【LIVE】チームみらい 安野たかひろ党首 記者会見　主催：日本外国特派員協会",
+    "description": "■会見者\n安野たかひろ チームみらい党首\n\n主催：日本外国特派員協会\n\n\n\n\nニコニコニュースの二次創作ガイドラインについて\n「ニコニコニュース」は、視聴者やフ...",
+    "providerType": "official",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1772186286",
+    "isPayProgram": false,
+    "isFollowerOnly": false,
+    "status": "released",
+    "hostName": "株式会社ドワンゴ",
+    "socialGroupId": "ch2525",
+    "socialGroupName": "ニコニコニュース",
+    "startTime": 1772719200,
+    "endTime": 1772726400,
+    "showTime": "2026-03-05 14:00:00",
+    "onAirTime": "2026-03-05 13:50:00",
+    "isCasItem": true
+  },
+  {
     "id": "lv349923958",
     "title": "木原稔 官房長官 記者会見 生中継（2026年3月5日午後）",
     "description": "木原稔（きはら みのる）内閣官房長官による記者会見\nの模様を、首相官邸から生中継いたします。\n　※官房長官の会見スケジュールに合わせ、時間変更の可能性があります...",
@@ -591,24 +591,6 @@
     "endTime": 1772755200,
     "showTime": "2026-03-05 23:30:00",
     "onAirTime": "2026-03-05 23:20:00",
-    "isCasItem": true
-  },
-  {
-    "id": "lv349806260",
-    "title": "ニコニコ実況",
-    "description": "ニコニコ実況は、放送中のテレビ番組や起きているイベントに対して、みんなでコメントをし盛り上がりを共有する、リアルタイムコミュニケーションサービスです。\nニコニコ...",
-    "providerType": "official",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2525.jpg?1772186286",
-    "isPayProgram": false,
-    "isFollowerOnly": false,
-    "status": "onair",
-    "hostName": "株式会社ドワンゴ",
-    "socialGroupId": "ch2525",
-    "socialGroupName": "ニコニコニュース",
-    "startTime": 1772323200,
-    "endTime": 1772647200,
-    "showTime": "2026-03-01 00:00:00",
-    "onAirTime": "2026-03-01 00:00:00",
     "isCasItem": true
   }
 ]
