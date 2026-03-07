@@ -121,28 +121,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350042847",
-    "title": "どよおん",
-    "providerId": "695369",
-    "providerName": "ナー動物園ー！！",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-08T05:23:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/69/695369.jpg?1301847398",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350042844",
-    "title": "レベル上げ",
-    "providerId": "143207930",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-08T05:23:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv350042896",
     "title": "【踊コレ2026春】おはよみんなへ☀︎ステージ立ちたいんです",
     "providerId": "27786531",
@@ -187,14 +165,36 @@
     "category": "try"
   },
   {
-    "lvId": "lv350042903",
+    "lvId": "lv350042909",
     "title": "ブロ解できねえからお前ら全員フォロー外せ",
     "providerId": "142730137",
     "providerName": "ゲスト",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-03-08T05:40:35.000Z",
+    "beginAt": "2026-03-08T05:44:31.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14273/142730137.jpg?1772740446",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350042892",
+    "title": "カーリングの放送",
+    "providerId": "181720",
+    "providerName": "ごっち",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-08T05:43:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/18/181720.jpg?1424872702",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350042897",
+    "title": "歌コレ！やっほー",
+    "providerId": "44262483",
+    "providerName": "貴方のあんちゃんVAMKISS",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-08T05:41:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4426/44262483.jpg?1763136488",
     "category": "common"
   },
   {
@@ -459,39 +459,6 @@
     "communityName": null,
     "beginAt": "2026-03-08T05:27:56.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13402/134020524.jpg?1764927905",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350042850",
-    "title": "眠れず",
-    "providerId": "54086017",
-    "providerName": "なつ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-08T05:24:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350042849",
-    "title": "wbc振り返り",
-    "providerId": "143120700",
-    "providerName": "あいをん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-08T05:24:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14312/143120700.jpg?1771874723",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350042848",
-    "title": "仕事終わってから寝るまでの5時間が暇すぎる",
-    "providerId": "131407509",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-08T05:24:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
