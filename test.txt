@@ -11,14 +11,25 @@
     "category": "req"
   },
   {
-    "lvId": "lv350059146",
+    "lvId": "lv350059157",
     "title": "【初配信】貧乏ゲーマーDJエザキンTV配信中です。PUBGモバイルメトロⓂ️参加型配信中。続々参加受付中です。詳しくは、番組の概要をチェック。",
     "providerId": "143501724",
     "providerName": "DJエザキンTV",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-03-10T07:35:00.000Z",
+    "beginAt": "2026-03-10T07:36:48.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14350/143501724.jpg?1773064480",
+    "category": "live"
+  },
+  {
+    "lvId": "lv350059153",
+    "title": "無限賞金首パブイベをそえて",
+    "providerId": "22178766",
+    "providerName": "アルプス",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-10T07:35:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "live"
   },
   {
@@ -198,39 +209,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350059098",
-    "title": "ちょっとだけ ぽこあポケモン する",
-    "providerId": "13758182",
-    "providerName": "ねりものちくわまる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:17:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1375/13758182.jpg?1771821308",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350059057",
-    "title": "【ペルソナ5S】次なる都市へ",
-    "providerId": "142333923",
-    "providerName": "Lminas",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:17:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14233/142333923.jpg?1763877689",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350059095",
-    "title": "しびらいぜーしょん６",
-    "providerId": "132177682",
-    "providerName": "モルダー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:17:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13217/132177682.jpg?1708678425",
-    "category": "live"
-  },
-  {
     "lvId": "lv350059122",
     "title": "K3rdの作業場",
     "providerId": "23173529",
@@ -240,6 +218,50 @@
     "beginAt": "2026-03-10T07:29:52.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2317/23173529.jpg?1515235103",
     "category": "try"
+  },
+  {
+    "lvId": "lv350059160",
+    "title": "車載",
+    "providerId": "23127749",
+    "providerName": "えびあん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-10T07:37:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2312/23127749.jpg?1479891371",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350059159",
+    "title": "すけたんCLUB (´◉ᾥ◉｀) YA-YO",
+    "providerId": "541829",
+    "providerName": "すけたん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-10T07:37:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/54/541829.jpg?1341565585",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350059154",
+    "title": "縁日射的",
+    "providerId": "69110548",
+    "providerName": "ういんぐ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-10T07:35:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6911/69110548.jpg?1709274041",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350059152",
+    "title": "シベリアンハスキーマウスのテイラー・スウィフトン feat.ずんぐりむっくり",
+    "providerId": "9337389",
+    "providerName": "セル齋藤セルさいとうセルサイトウ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-10T07:35:22.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/933/9337389.jpg?1683092846",
+    "category": "common"
   },
   {
     "lvId": "lv350059150",
@@ -327,17 +349,6 @@
     "communityName": null,
     "beginAt": "2026-03-10T07:29:52.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2317/23173529.jpg?1515235103",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059140",
-    "title": "怪談、人怖、ホラーの話ししましょう！",
-    "providerId": "76075497",
-    "providerName": "dis  key",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:29:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7607/76075497.jpg?1743360786",
     "category": "common"
   },
   {
@@ -503,94 +514,6 @@
     "communityName": null,
     "beginAt": "2026-03-10T07:19:26.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/290/2903472.jpg?1311430115",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059103",
-    "title": "ちるおがFXなどを自由に語る配信　ちるお家の早朝",
-    "providerId": "14647683",
-    "providerName": "ちるお",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:18:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1464/14647683.jpg?1741224077",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059102",
-    "title": "カラオケ",
-    "providerId": "47878033",
-    "providerName": "きぃたろ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:18:38.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4787/47878033.jpg?1674635880",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059100",
-    "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:18:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059096",
-    "title": "手巻きタバコ吸う🚬",
-    "providerId": "143228007",
-    "providerName": "あきくん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:17:20.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14322/143228007.jpg?1770883682",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059094",
-    "title": "ともたろう放送　おはよう どなたか千貸して下さい",
-    "providerId": "134196793",
-    "providerName": "ともたろうＺ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:17:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13419/134196793.jpg?1767256038",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059090",
-    "title": "バイポーラ",
-    "providerId": "123527711",
-    "providerName": "ユウ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:16:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12352/123527711.jpg?1722918656",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059091",
-    "title": "のんびり🫧⛄️学習(-7:30)",
-    "providerId": "116897884",
-    "providerName": "くまのひざもと",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:16:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11689/116897884.jpg?1608335159",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350059089",
-    "title": "【車載】やぎの出勤放送",
-    "providerId": "2721733",
-    "providerName": "やぎ　　　　　　　　　　　　　。",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-10T07:16:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/272/2721733.jpg?1732615277",
     "category": "common"
   }
 ]
