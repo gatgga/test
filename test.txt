@@ -132,17 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350065737",
-    "title": "リバイアサン",
-    "providerId": "143496106",
-    "providerName": "新改真事",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T06:15:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv350065768",
     "title": "弾幕歓迎　 朝刊　ごずら　カラオケ＆ゲーム",
     "providerId": "14492505",
@@ -176,15 +165,37 @@
     "category": "try"
   },
   {
-    "lvId": "lv350065735",
-    "title": "チェコ代表",
-    "providerId": "66588635",
-    "providerName": "切れたメモレイ",
+    "lvId": "lv350065777",
+    "title": "大公式過疎放送 「病み上がり過疎主が満身創痍配信中！」",
+    "providerId": "550993",
+    "providerName": "鐘鳴器",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-03-11T06:15:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6658/66588635.jpg?1715598575",
-    "category": "try"
+    "beginAt": "2026-03-11T06:34:44.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/55/550993.jpg?1769325881",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350065776",
+    "title": "パチ＆スロ雑談所",
+    "providerId": "129626439",
+    "providerName": "寝ハゲ（キハダ）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-11T06:34:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12962/129626439.jpg?1687694097",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350065774",
+    "title": "配信という無駄な時間を過ごせることを幸せに感じようとは思うけれども",
+    "providerId": "22190785",
+    "providerName": "あいみとん（癒しはぬいぐるみ）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-11T06:32:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2219/22190785.jpg?1735713881",
+    "category": "common"
   },
   {
     "lvId": "lv350065773",
@@ -404,61 +415,6 @@
     "communityName": null,
     "beginAt": "2026-03-11T06:18:24.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1675/16752658.jpg?1760514802",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065738",
-    "title": "まったりメダル集め",
-    "providerId": "11943594",
-    "providerName": "kiyu",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T06:15:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1194/11943594.jpg?1754554727",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065735",
-    "title": "チェコ代表",
-    "providerId": "66588635",
-    "providerName": "切れたメモレイ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T06:15:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6658/66588635.jpg?1715598575",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065734",
-    "title": "【初配信】ゲストの雑談配信",
-    "providerId": "143417262",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T06:15:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065731",
-    "title": "ちるおがFXなどを自由に語る配信　ちるお家の早朝",
-    "providerId": "14647683",
-    "providerName": "ちるお",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T06:13:58.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1464/14647683.jpg?1741224077",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065730",
-    "title": "ﾓﾝﾊﾝｱｲｽﾎﾞｰﾝ",
-    "providerId": "19048827",
-    "providerName": "kkkk13",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T06:13:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1904/19048827.jpg?1329227152",
     "category": "common"
   }
 ]
