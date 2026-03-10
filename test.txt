@@ -1,16 +1,5 @@
 [
   {
-    "lvId": "lv350065484",
-    "title": "【東方アレンジ】Fsen 【リクエスト配信】",
-    "providerId": "40484045",
-    "providerName": "ふとさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T04:03:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4048/40484045.jpg?1771925873",
-    "category": "req"
-  },
-  {
     "lvId": "lv350065508",
     "title": "【DBD】ぽんこつですが何か #N052 ～キラーとサバどっちもやるます",
     "providerId": "22107478",
@@ -97,6 +86,17 @@
     "beginAt": "2026-03-11T04:04:28.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3849/38494122.jpg?1758155600",
     "category": "live"
+  },
+  {
+    "lvId": "lv350065514",
+    "title": "おいでよ",
+    "providerId": "85223487",
+    "providerName": "ゑん中",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-11T04:22:53.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350065512",
@@ -305,61 +305,6 @@
     "communityName": null,
     "beginAt": "2026-03-11T04:05:33.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065487",
-    "title": "まぁるSTUDIO",
-    "providerId": "134009216",
-    "providerName": "まぁる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T04:04:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13400/134009216.jpg?1735346248",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065482",
-    "title": "目が覚めてしまったのでなにかやる",
-    "providerId": "83860354",
-    "providerName": "めいそう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T04:03:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8386/83860354.jpg?1704502239",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065483",
-    "title": "【42歳中卒・奨学金500万】夜",
-    "providerId": "119795600",
-    "providerName": "三國連太",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T04:03:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11979/119795600.jpg?1731564805",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065481",
-    "title": "サイコの独り言妄想",
-    "providerId": "55439380",
-    "providerName": "北陸のサイコチキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T04:02:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5543/55439380.jpg?1753468525",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350065480",
-    "title": "【配信30日目】あんぽんの日常〜スヤリスト生活〜お昼頃までには起きたい〜",
-    "providerId": "135145703",
-    "providerName": "あんぽん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-11T04:02:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13514/135145703.jpg?1772180542",
     "category": "common"
   }
 ]
