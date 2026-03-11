@@ -154,15 +154,26 @@
     "category": "live"
   },
   {
-    "lvId": "lv350072374",
-    "title": "コンパス ミッション配信",
-    "providerId": "6614980",
-    "providerName": "アッオイ",
+    "lvId": "lv350072423",
+    "title": "カラオケ",
+    "providerId": "4885163",
+    "providerName": "dawn",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-03-12T05:22:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/661/6614980.jpg?1754518044",
-    "category": "live"
+    "beginAt": "2026-03-12T05:42:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/488/4885163.jpg?1655075399",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350072421",
+    "title": "徘徊車載",
+    "providerId": "32856291",
+    "providerName": "さむ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-12T05:41:49.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3285/32856291.jpg?1740837675",
+    "category": "common"
   },
   {
     "lvId": "lv350072420",
@@ -404,28 +415,6 @@
     "communityName": null,
     "beginAt": "2026-03-12T05:25:26.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/217/2174719.jpg?1617147181",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350072376",
-    "title": "金がなくてオワタ　ペイid→ pay_okinawa_payまでスロパチXM 宝くじ手数料全部で-99179円負け",
-    "providerId": "143220081",
-    "providerName": "7878男子",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-12T05:23:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350072375",
-    "title": "#コンパス　みそ",
-    "providerId": "142577244",
-    "providerName": "じょんぐり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-12T05:22:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14257/142577244.jpg?1772832810",
     "category": "common"
   }
 ]
