@@ -110,39 +110,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350080240",
-    "title": "【鳴潮】初心者　やれそうなことを、くたばるまでやる",
-    "providerId": "15090166",
-    "providerName": "トミ子",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:54:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1509/15090166.jpg?1765411431",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350080211",
-    "title": "[バイオハザード4]久々に村のお散歩なのよ～",
-    "providerId": "42470007",
-    "providerName": "ホイップ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:53:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4247/42470007.jpg?1648549359",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350080243",
-    "title": "RE2＆4R　寝る前の日課　生成AI5090",
-    "providerId": "143256926",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:53:17.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv350080299",
     "title": "おっさんカラオケ　昭和～平成メイン",
     "providerId": "9380768",
@@ -196,6 +163,28 @@
     "beginAt": "2026-03-13T11:03:50.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/25/258472.jpg?1621693693",
     "category": "try"
+  },
+  {
+    "lvId": "lv350080300",
+    "title": "やほー",
+    "providerId": "59250370",
+    "providerName": "かなで",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-13T11:12:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5925/59250370.jpg?1770968992",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350080302",
+    "title": "奈良モグラ音madが足りねぇ(奈良モグラ)",
+    "providerId": "143284601",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-13T11:11:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350080289",
@@ -591,94 +580,6 @@
     "communityName": null,
     "beginAt": "2026-03-13T10:55:37.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12406/124066773.jpg?1650335343",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080250",
-    "title": "昨晩は申し訳ございません。仕事行く準備配信",
-    "providerId": "5426098",
-    "providerName": "革新りこち",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:55:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/542/5426098.jpg?1771432066",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080249",
-    "title": "ゲーム系雑談",
-    "providerId": "137234354",
-    "providerName": "RAZER",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:54:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13723/137234354.jpg?1745999999",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080246",
-    "title": "【ルーキー】れんちゃの雑談配信",
-    "providerId": "66987371",
-    "providerName": "れんちゃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:54:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6698/66987371.jpg?1715064728",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080247",
-    "title": "らりりの雑談配信",
-    "providerId": "140934373",
-    "providerName": "らりり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:54:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14093/140934373.jpg?1772242942",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080245",
-    "title": "さかなの雑談配信",
-    "providerId": "1663333",
-    "providerName": "さかな",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:53:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/166/1663333.jpg?1752824947",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080241",
-    "title": "横浜にある謎のラーメン屋に行く",
-    "providerId": "55141222",
-    "providerName": "だるまくん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:53:20.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5514/55141222.jpg?1750396338",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080239",
-    "title": "朝ごはん作る",
-    "providerId": "125273686",
-    "providerName": "ジョンステラ（ステカリ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:52:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12527/125273686.jpg?1770929082",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350080238",
-    "title": "【鳥見守り・放置枠】昨日2羽生まれました 残り卵１ 【福岡県朝倉市 9℃〜】",
-    "providerId": "3320066",
-    "providerName": "きろえもん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-13T10:52:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/332/3320066.jpg?1746676942",
     "category": "common"
   }
 ]
