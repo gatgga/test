@@ -44,39 +44,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350178855",
-    "title": "唐真人の放送（マイクなし）デイリーだけ",
-    "providerId": "12353704",
-    "providerName": "唐真人",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:07:17.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1235/12353704.jpg?1481381235",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350178854",
-    "title": "スパロボ UX",
-    "providerId": "3172289",
-    "providerName": "Arcピク",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:07:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/317/3172289.jpg?1312775125",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350178853",
-    "title": "政権奉送",
-    "providerId": "143496106",
-    "providerName": "新改真事",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:05:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv350178869",
     "title": "すってはいてのんで食ってウンチして寝る",
     "providerId": "576176",
@@ -99,6 +66,17 @@
     "category": "try"
   },
   {
+    "lvId": "lv350178886",
+    "title": "雑談",
+    "providerId": "139343903",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-27T05:24:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
     "lvId": "lv350178885",
     "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
     "providerId": "10856175",
@@ -118,17 +96,6 @@
     "communityName": null,
     "beginAt": "2026-03-27T05:22:17.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12935/129350099.jpg?1685179417",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350178883",
-    "title": "風呂に入りたいんや",
-    "providerId": "143622169",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:22:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -371,61 +338,6 @@
     "communityName": null,
     "beginAt": "2026-03-27T05:07:36.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/84/843493.jpg?1645998241",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350178843",
-    "title": "耳かきとかスクイーズ",
-    "providerId": "121590896",
-    "providerName": "にょわあああああああああああああ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:06:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12159/121590896.jpg?1656498178",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350178848",
-    "title": "雑談（欧州プレーオフをみる、映像ねぇよ）",
-    "providerId": "141482027",
-    "providerName": "生贄",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:05:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14148/141482027.jpg?1770903919",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350178852",
-    "title": "◆音声のみ/W杯予選プレーオフ◆ イアリア x 北アイルランド",
-    "providerId": "1568386",
-    "providerName": "echo",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:05:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1568386.jpg?1351683899",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350176358",
-    "title": "駅前まで散歩してくる",
-    "providerId": "121811620",
-    "providerName": "ボーランドてんてぇー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:05:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12181/121811620.jpg?1755826561",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350178846",
-    "title": "おはよう",
-    "providerId": "129071480",
-    "providerName": "ドラ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-27T05:04:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12907/129071480.jpg?1748934166",
     "category": "common"
   }
 ]
