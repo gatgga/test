@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv350201335",
+    "title": "ファイナルファンタジー7リメイク",
+    "providerId": "23313700",
+    "providerName": "せんぱい",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-30T04:16:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2331/23313700.jpg?1768292846",
+    "category": "live"
+  },
+  {
     "lvId": "lv350201325",
     "title": "【適当に】久々にソロマイクラ【つづきから】",
     "providerId": "724052",
@@ -88,48 +99,37 @@
     "category": "live"
   },
   {
-    "lvId": "lv350201308",
-    "title": "FF14",
-    "providerId": "46278698",
-    "providerName": "やまぼうず",
+    "lvId": "lv350201334",
+    "title": "東方のプレイを禁止",
+    "providerId": "84288102",
+    "providerName": "merik＿＿＿＿＿＿＿",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-03-30T03:58:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4627/46278698.jpg?1423914818",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350201302",
-    "title": "VRC PRO",
-    "providerId": "138374044",
-    "providerName": "和久",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-30T03:57:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13837/138374044.jpg?1773499836",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350201305",
-    "title": "夜ドライブ中にnujabes流すと気持ちがいい",
-    "providerId": "120893758",
-    "providerName": "ア二ィ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-30T03:57:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12089/120893758.jpg?1734319261",
+    "beginAt": "2026-03-30T04:15:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8428/84288102.jpg?1636248717",
     "category": "try"
   },
   {
-    "lvId": "lv350201301",
-    "title": "Begin",
-    "providerId": "11382124",
-    "providerName": "Greatest Genius",
+    "lvId": "lv350201337",
+    "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-03-30T03:55:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1138/11382124.jpg?1747088205",
-    "category": "try"
+    "beginAt": "2026-03-30T04:16:44.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350201334",
+    "title": "東方のプレイを禁止",
+    "providerId": "84288102",
+    "providerName": "merik＿＿＿＿＿＿＿",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-03-30T04:15:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8428/84288102.jpg?1636248717",
+    "category": "common"
   },
   {
     "lvId": "lv350201333",
@@ -393,28 +393,6 @@
     "communityName": null,
     "beginAt": "2026-03-30T03:58:32.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13940/139407889.jpg?1754272370",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350201305",
-    "title": "夜ドライブ中にnujabes流すと気持ちがいい",
-    "providerId": "120893758",
-    "providerName": "ア二ィ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-30T03:57:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12089/120893758.jpg?1734319261",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350201301",
-    "title": "Begin",
-    "providerId": "11382124",
-    "providerName": "Greatest Genius",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-03-30T03:55:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1138/11382124.jpg?1747088205",
     "category": "common"
   }
 ]
