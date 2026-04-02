@@ -1,16 +1,5 @@
 [
   {
-    "lvId": "lv350227744",
-    "title": "動画鑑賞会【2026/4/3】",
-    "providerId": "9325110",
-    "providerName": "tm2",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-03T04:03:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/932/9325110.jpg?1597065801",
-    "category": "req"
-  },
-  {
     "lvId": "lv350227768",
     "title": "永保天命論",
     "providerId": "143496106",
@@ -66,17 +55,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350227737",
-    "title": "お久しぶりです。",
-    "providerId": "49392558",
-    "providerName": "かわじり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-03T04:12:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4939/49392558.jpg?1774022547",
-    "category": "live"
-  },
-  {
     "lvId": "lv350227754",
     "title": "半無敵の人のAPEX",
     "providerId": "32217043",
@@ -119,6 +97,17 @@
     "beginAt": "2026-04-03T04:14:34.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1237/12377714.jpg?1465681695",
     "category": "try"
+  },
+  {
+    "lvId": "lv350227770",
+    "title": "俺から全てを奪った群馬県民全員が早く死にますように(-人-)死ね",
+    "providerId": "125644672",
+    "providerName": "ふきの",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-03T04:21:49.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350227769",
@@ -250,28 +239,6 @@
     "communityName": null,
     "beginAt": "2026-04-03T04:09:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1568386.jpg?1351683899",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350227742",
-    "title": "おはマンタ　寝（イビキ）",
-    "providerId": "132139464",
-    "providerName": "マンタ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-03T04:02:21.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13213/132139464.jpg?1729257801",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350227741",
-    "title": "飲みながら雑談(チャット枠",
-    "providerId": "11560472",
-    "providerName": "ひろゆう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-03T04:01:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
