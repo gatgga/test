@@ -11,15 +11,26 @@
     "category": "req"
   },
   {
-    "lvId": "lv350252281",
-    "title": "動画紹介（MMD）",
-    "providerId": "32633215",
-    "providerName": "touketu",
+    "lvId": "lv350252375",
+    "title": "ヌルゲーマーの7days",
+    "providerId": "15217015",
+    "providerName": "ミサ菓子折",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-04-06T17:01:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3263/32633215.jpg?1376437642",
-    "category": "req"
+    "beginAt": "2026-04-06T17:23:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1521/15217015.jpg?1345743203",
+    "category": "live"
+  },
+  {
+    "lvId": "lv350252362",
+    "title": "練習",
+    "providerId": "57876067",
+    "providerName": "龍魂",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-06T17:19:53.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5787/57876067.jpg?1771899033",
+    "category": "live"
   },
   {
     "lvId": "lv350252348",
@@ -187,50 +198,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350252294",
-    "title": "色々",
-    "providerId": "603438",
-    "providerName": "ねじりん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:03:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/60/603438.jpg?1528193818",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350252287",
-    "title": "FF14",
-    "providerId": "46278698",
-    "providerName": "やまぼうず",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:02:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4627/46278698.jpg?1423914818",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350252285",
-    "title": "佐藤凛が家に来た！！",
-    "providerId": "70052366",
-    "providerName": "だんでぃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:01:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7005/70052366.jpg?1772335838",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350252243",
-    "title": "シルバー移行作業（Valorant）",
-    "providerId": "95804941",
-    "providerName": "ただまる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:01:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9580/95804941.jpg?1677252346",
-    "category": "live"
-  },
-  {
     "lvId": "lv350252355",
     "title": "弾いたり歌ったり喋ったり",
     "providerId": "137576743",
@@ -262,6 +229,50 @@
     "beginAt": "2026-04-06T17:10:32.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1486/14861723.jpg?1765274720",
     "category": "try"
+  },
+  {
+    "lvId": "lv350252374",
+    "title": "童貞ニートの独り言",
+    "providerId": "143491658",
+    "providerName": "ライト（その５）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-06T17:22:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14349/143491658.jpg?1772983873",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350252370",
+    "title": "ボケ防止",
+    "providerId": "40386222",
+    "providerName": "かまはげ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-06T17:21:56.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4038/40386222.jpg?1400273674",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350252372",
+    "title": "帰るぞ〜！！",
+    "providerId": "18207757",
+    "providerName": "桜庭秋音",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-06T17:21:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1820/18207757.jpg?1336003562",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350252369",
+    "title": "マジで彼女ほしいんだけど",
+    "providerId": "142947145",
+    "providerName": "(³ω³)kouji(³ω³)",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-06T17:21:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14294/142947145.jpg?1769206451",
+    "category": "common"
   },
   {
     "lvId": "lv350252368",
@@ -448,17 +459,6 @@
     "communityName": null,
     "beginAt": "2026-04-06T17:15:36.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12849/128498576.jpg?1757927342",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350252339",
-    "title": "車載",
-    "providerId": "23127749",
-    "providerName": "えびあん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:15:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2312/23127749.jpg?1479891371",
     "category": "common"
   },
   {
@@ -690,61 +690,6 @@
     "communityName": null,
     "beginAt": "2026-04-06T17:04:39.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12836/128365809.jpg?1774036559",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350252295",
-    "title": "イベントギフト宜しくお願いします🙇‍♀️🥺🎁",
-    "providerId": "142029764",
-    "providerName": "草ばやし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:03:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14202/142029764.jpg?1774964915",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350252289",
-    "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:02:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350252286",
-    "title": "働きたくない",
-    "providerId": "122907090",
-    "providerName": "ゆーきゆん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:02:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350252283",
-    "title": "ぼっちからおけ！！！",
-    "providerId": "143689678",
-    "providerName": "ふせっせー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:01:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14368/143689678.jpg?1774645823",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350252282",
-    "title": "リラックス 作業 集中 睡眠 まったり 🌿",
-    "providerId": "129668940",
-    "providerName": "neo-RX",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-06T17:01:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12966/129668940.jpg?1717473243",
     "category": "common"
   }
 ]
