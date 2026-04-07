@@ -121,28 +121,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350263257",
-    "title": "FF14",
-    "providerId": "46278698",
-    "providerName": "やまぼうず",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-08T05:58:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4627/46278698.jpg?1423914818",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350263251",
-    "title": "【ゼノブレイド２】さむい",
-    "providerId": "63469037",
-    "providerName": "(じと)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-08T05:58:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6346/63469037.jpg?1759491853",
-    "category": "live"
-  },
-  {
     "lvId": "lv350263294",
     "title": "娘のお弁当準備",
     "providerId": "70571",
@@ -152,6 +130,28 @@
     "beginAt": "2026-04-08T06:12:33.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7/70571.jpg?1256794527",
     "category": "try"
+  },
+  {
+    "lvId": "lv350263301",
+    "title": "【ルーキー】勉強くんの雑談配信",
+    "providerId": "143818030",
+    "providerName": "勉強くん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-08T06:15:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350263300",
+    "title": "【非営利配信】骨膜炎じじい爺ベトナムホーチミン市。いつもありがとうございます。",
+    "providerId": "20618388",
+    "providerName": "yorozuyanet",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-08T06:14:10.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2061/20618388.jpg?1764509480",
+    "category": "common"
   },
   {
     "lvId": "lv350263294",
@@ -188,7 +188,7 @@
   },
   {
     "lvId": "lv350263290",
-    "title": "シニン",
+    "title": "(^o^)",
     "providerId": "45656959",
     "providerName": "シンフォニー",
     "communityId": null,
@@ -407,17 +407,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv350263260",
-    "title": "【海外旅行】パタヤ(タイ) : レアル負け配信、次があるよね",
-    "providerId": "140958536",
-    "providerName": "パタヤん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-08T05:58:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
     "lvId": "lv350263259",
     "title": "広沢山遍照寺リモート朝勤行",
     "providerId": "16407391",
@@ -437,50 +426,6 @@
     "communityName": null,
     "beginAt": "2026-04-08T05:58:49.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7799/77993090.jpg?1775426944",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350263233",
-    "title": "【雑談】 ナンシー寫眞館『SUNO』 ～ 作戦会議【放送歴18年】",
-    "providerId": "1007045",
-    "providerName": "ナンシー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-08T05:57:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/100/1007045.jpg?1394908747",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350263255",
-    "title": "動くな俺はゲイだ",
-    "providerId": "132587969",
-    "providerName": "仙台じゅうみのシロシさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-08T05:57:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13258/132587969.jpg?1712070094",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350263254",
-    "title": "飽きるか寝るまでえげつな",
-    "providerId": "53026361",
-    "providerName": "カローラ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-08T05:57:19.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5302/53026361.jpg?1757944194",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350263250",
-    "title": "ん",
-    "providerId": "84455734",
-    "providerName": "さくまる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-08T05:55:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8445/84455734.jpg?1728767184",
     "category": "common"
   }
 ]
