@@ -22,6 +22,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv350269933",
+    "title": "朝のシャドバ",
+    "providerId": "92864199",
+    "providerName": "ヨルシィ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-09T06:23:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9286/92864199.jpg?1700939288",
+    "category": "live"
+  },
+  {
+    "lvId": "lv350269941",
+    "title": "GTA5：デイリーチャレンジ 20260409",
+    "providerId": "43297998",
+    "providerName": "Sanomoto",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-09T06:22:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4329/43297998.jpg?1595564956",
+    "category": "live"
+  },
+  {
     "lvId": "lv350269948",
     "title": "艦これ #879 2026.4.9生配信プレイ[Kantai Collection live] #艦隊これくしょん",
     "providerId": "2892268",
@@ -187,37 +209,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv350269908",
-    "title": "ゲーム枠(SwitchOnline版)　ファイアーエムブレム封印の剣　実況プレイ！2026/04/08　３",
-    "providerId": "20102329",
-    "providerName": "hihara",
+    "lvId": "lv350269953",
+    "title": "(Ｔｏｆ)ノ　祓 江戸(東京) の巻",
+    "providerId": "141209633",
+    "providerName": "(Ｔｏｆ)ノ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-04-09T06:03:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2010/20102329.jpg?1605103094",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350269907",
-    "title": "スノーボードする",
-    "providerId": "122116621",
-    "providerName": "シルト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-09T06:02:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12211/122116621.jpg?1769400681",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350269906",
-    "title": "【ウマ娘プリティーダービー】のんびりプレイ1381",
-    "providerId": "85853",
-    "providerName": "Solda",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-09T06:02:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8/85853.jpg?1264926453",
-    "category": "live"
+    "beginAt": "2026-04-09T06:20:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141209633.jpg?1766855930",
+    "category": "try"
   },
   {
     "lvId": "lv350269949",
@@ -242,15 +242,48 @@
     "category": "try"
   },
   {
-    "lvId": "lv350269909",
-    "title": "娘のお弁当準備",
-    "providerId": "70571",
-    "providerName": "ピザ野郎",
+    "lvId": "lv350269955",
+    "title": "自引きしたリザードン鑑定に出した",
+    "providerId": "119902483",
+    "providerName": "おしょう",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-04-09T06:03:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7/70571.jpg?1256794527",
-    "category": "try"
+    "beginAt": "2026-04-09T06:22:59.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11990/119902483.jpg?1633593623",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350269952",
+    "title": "ないとれいん　深５",
+    "providerId": "5012071",
+    "providerName": "てぃむぴっぴ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-09T06:22:58.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/501/5012071.jpg?1600923297",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350269954",
+    "title": "音楽でも",
+    "providerId": "31266678",
+    "providerName": "詰んでるおじさん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-09T06:21:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3126/31266678.jpg?1770463674",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350269953",
+    "title": "(Ｔｏｆ)ノ　祓 江戸(東京) の巻",
+    "providerId": "141209633",
+    "providerName": "(Ｔｏｆ)ノ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-09T06:20:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14120/141209633.jpg?1766855930",
+    "category": "common"
   },
   {
     "lvId": "lv350269951",
@@ -492,28 +525,6 @@
     "communityName": null,
     "beginAt": "2026-04-09T06:09:03.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1675/16752658.jpg?1760514802",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350269909",
-    "title": "娘のお弁当準備",
-    "providerId": "70571",
-    "providerName": "ピザ野郎",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-09T06:03:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7/70571.jpg?1256794527",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350269904",
-    "title": "まったり(*´ω｀*)",
-    "providerId": "23729129",
-    "providerName": "カブおじさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-09T06:01:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
