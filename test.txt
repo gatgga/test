@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv350276541",
+    "title": "FF14",
+    "providerId": "46278698",
+    "providerName": "やまぼうず",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-10T06:34:21.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4627/46278698.jpg?1423914818",
+    "category": "live"
+  },
+  {
     "lvId": "lv350276537",
     "title": "ゲーム",
     "providerId": "46407092",
@@ -132,39 +143,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350276490",
-    "title": "FF6RTA【区間練習】",
-    "providerId": "51926357",
-    "providerName": "よしのん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-10T06:15:48.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5192/51926357.jpg?1596783947",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350276492",
-    "title": "GTA5：デイリーチャレンジ 20260410",
-    "providerId": "43297998",
-    "providerName": "Sanomoto",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-10T06:14:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4329/43297998.jpg?1595564956",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350276494",
-    "title": "原神（LUNA VI・地方伝説など）",
-    "providerId": "140508385",
-    "providerName": "望月れい",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-10T06:14:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14050/140508385.jpg?1751964299",
-    "category": "live"
-  },
-  {
     "lvId": "lv350276533",
     "title": "お絵描きテスト配信",
     "providerId": "1988993",
@@ -187,15 +165,37 @@
     "category": "try"
   },
   {
-    "lvId": "lv350276495",
-    "title": "しごとをはかいした",
-    "providerId": "16097234",
-    "providerName": "ずんだ",
+    "lvId": "lv350276543",
+    "title": "あけおめ",
+    "providerId": "116245763",
+    "providerName": "たま",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-04-10T06:14:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1609/16097234.jpg?1755531034",
-    "category": "try"
+    "beginAt": "2026-04-10T06:34:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350276542",
+    "title": "そろそろ準備してないと　もうすぐ面白いことが　あなたの心に4沼で存在します　薬事法違反　睡眠薬渡したらダメ　身内でもダメ　詳しくは私の動画【映画好初心者】2026年4月8日",
+    "providerId": "49941985",
+    "providerName": "ココア【映画好初心者】広島",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-10T06:34:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4994/49941985.jpg?1618405641",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350276538",
+    "title": "朝の一服",
+    "providerId": "61513398",
+    "providerName": "おじゃき",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-10T06:32:24.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6151/61513398.jpg?1775721575",
+    "category": "common"
   },
   {
     "lvId": "lv350276535",
@@ -426,28 +426,6 @@
     "communityName": null,
     "beginAt": "2026-04-10T06:17:19.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1000/10005126.jpg?1614514737",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350276497",
-    "title": "ね配信/",
-    "providerId": "140881401",
-    "providerName": "ライスとタン塩とねぎレモンは合う",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-10T06:14:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14088/140881401.jpg?1761184549",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350276495",
-    "title": "しごとをはかいした",
-    "providerId": "16097234",
-    "providerName": "ずんだ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-10T06:14:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1609/16097234.jpg?1755531034",
     "category": "common"
   }
 ]
