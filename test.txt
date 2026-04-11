@@ -11,6 +11,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv350291056",
+    "title": "[弾幕アマノジャク]深い理由は特にないけど東方やります[]",
+    "providerId": "45300945",
+    "providerName": "Nasu(酢味噌)",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-12T04:10:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4530/45300945.jpg?1717067769",
+    "category": "live"
+  },
+  {
+    "lvId": "lv350291047",
+    "title": "【ソロプレイ】R.E.P.O.",
+    "providerId": "141281425",
+    "providerName": "Akamaki",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-12T04:10:12.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv350291048",
     "title": "【艦これ】朝枠",
     "providerId": "14328576",
@@ -121,28 +143,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350290997",
-    "title": "FF14",
-    "providerId": "46278698",
-    "providerName": "やまぼうず",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-12T03:50:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4627/46278698.jpg?1423914818",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350290982",
-    "title": "おはようございます",
-    "providerId": "138071561",
-    "providerName": "なめくじ2nd",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-12T03:49:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13807/138071561.jpg?1742198248",
-    "category": "live"
-  },
-  {
     "lvId": "lv350290951",
     "title": "【初見さん歓迎】ニコ童祭カウントダウンイラスト！【生存報告】",
     "providerId": "55509779",
@@ -165,15 +165,70 @@
     "category": "try"
   },
   {
-    "lvId": "lv350290989",
-    "title": "うた",
-    "providerId": "18870998",
-    "providerName": "ゆれら",
+    "lvId": "lv350291062",
+    "title": "マンゴメリーの雑談配信",
+    "providerId": "128498576",
+    "providerName": "マンゴメリー",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-04-12T03:49:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1887/18870998.jpg?1593891410",
-    "category": "try"
+    "beginAt": "2026-04-12T04:10:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12849/128498576.jpg?1757927342",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350291059",
+    "title": "おはようずら",
+    "providerId": "135560176",
+    "providerName": "ザ・生配信",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-12T04:09:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13556/135560176.jpg?1725634319",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350290977",
+    "title": "ともたろう放送　おはよう",
+    "providerId": "134196793",
+    "providerName": "ともたろうＺ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-12T04:09:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13419/134196793.jpg?1767256038",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350291057",
+    "title": "酒",
+    "providerId": "14436256",
+    "providerName": "みきまる",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-12T04:09:28.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1443/14436256.jpg?1572103197",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350291054",
+    "title": "おマンタ深夜便　ネレン",
+    "providerId": "132139464",
+    "providerName": "マンタ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-12T04:08:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13213/132139464.jpg?1729257801",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350291049",
+    "title": "インキャ大学生降臨",
+    "providerId": "90987824",
+    "providerName": "やまもと",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-12T04:07:46.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350291050",
@@ -613,50 +668,6 @@
     "communityName": null,
     "beginAt": "2026-04-12T03:53:42.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9065/90650028.jpg?1621072180",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350291001",
-    "title": "ど？",
-    "providerId": "54189957",
-    "providerName": "ノラ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-12T03:51:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5418/54189957.jpg?1632828126",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350290999",
-    "title": "#高市サナエトークンに関わっていた 【バーチャル国会・国民会議代行・衆議院代行・日本政府代行・1258回】",
-    "providerId": "16284711",
-    "providerName": "国家非常事態宣言",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-12T03:51:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1628/16284711.jpg?1423381507",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350290989",
-    "title": "うた",
-    "providerId": "18870998",
-    "providerName": "ゆれら",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-12T03:49:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1887/18870998.jpg?1593891410",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350290991",
-    "title": "Public Pressure",
-    "providerId": "20264561",
-    "providerName": "炎虎",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-12T03:49:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2026/20264561.jpg?1679058100",
     "category": "common"
   }
 ]
