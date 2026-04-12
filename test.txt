@@ -121,28 +121,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350299100",
-    "title": "LiveBroadcast",
-    "providerId": "88769938",
-    "providerName": "兄貴",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T07:17:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350299091",
-    "title": "黙々とbeatmania IIDX INFINITAS",
-    "providerId": "10041857",
-    "providerName": "唐沢",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T07:16:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1004/10041857.jpg?1451037467",
-    "category": "live"
-  },
-  {
     "lvId": "lv350250806",
     "title": "十二干支鬼畜人間",
     "providerId": "143653355",
@@ -196,6 +174,28 @@
     "beginAt": "2026-04-13T07:25:21.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/198/1988993.jpg?1468358597",
     "category": "try"
+  },
+  {
+    "lvId": "lv350299138",
+    "title": "モーニングバッテリー🔋　広島のバイク屋配信",
+    "providerId": "10584027",
+    "providerName": "ｂｐ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-13T07:37:42.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1058/10584027.jpg?1742526411",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350299140",
+    "title": "くっしゃろでっしゃろ",
+    "providerId": "57028706",
+    "providerName": "sigsegv4004",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-13T07:35:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5702/57028706.jpg?1761289062",
+    "category": "common"
   },
   {
     "lvId": "lv350250806",
@@ -459,61 +459,6 @@
     "communityName": null,
     "beginAt": "2026-04-13T07:21:05.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6349/63498322.jpg?1658844798",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350299102",
-    "title": "命日だからビール飲む🍺",
-    "providerId": "4225879",
-    "providerName": "ハク",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T07:19:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/422/4225879.jpg?1723085943",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350299099",
-    "title": "dbd  でっとばいでいらいと",
-    "providerId": "82213571",
-    "providerName": "わい",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T07:17:48.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350299097",
-    "title": "うつ病　38歳",
-    "providerId": "91369598",
-    "providerName": "(真)とものしん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T07:17:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9136/91369598.jpg?1568272523",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350299098",
-    "title": "のんびり🫧⛄️学習(-7:30)",
-    "providerId": "116897884",
-    "providerName": "くまのひざもと",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T07:17:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11689/116897884.jpg?1608335159",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350299095",
-    "title": "おはよう",
-    "providerId": "143871749",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T07:16:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
