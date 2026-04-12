@@ -55,28 +55,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350298618",
-    "title": "東京ジャングル",
-    "providerId": "23788",
-    "providerName": "その日暮らし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T03:21:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2/23788.jpg?1256790953",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350298615",
-    "title": "【あ】",
-    "providerId": "63469037",
-    "providerName": "(じと)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T03:20:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6346/63469037.jpg?1759491853",
-    "category": "live"
-  },
-  {
     "lvId": "lv350298599",
     "title": "ぽっちゃりが歌う🎤ロックや昭和歌謡",
     "providerId": "134190985",
@@ -88,15 +66,37 @@
     "category": "try"
   },
   {
-    "lvId": "lv350298614",
-    "title": "作業サボり防止窓",
-    "providerId": "57148847",
-    "providerName": "CS",
+    "lvId": "lv350298646",
+    "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-04-13T03:20:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5714/57148847.jpg?1772317460",
-    "category": "try"
+    "beginAt": "2026-04-13T03:40:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350298644",
+    "title": "FX 4月13日(月)①リアル3万円チャレンジ②デモもあります。",
+    "providerId": "11211512",
+    "providerName": "マ日記",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-13T03:38:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1121/11211512.jpg?1672510571",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350298642",
+    "title": "真夜中の夢ラヂオ（寝落ち歓迎）少しだけ",
+    "providerId": "25334852",
+    "providerName": "sam（さむ）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-13T03:38:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2533/25334852.jpg?1644244106",
+    "category": "common"
   },
   {
     "lvId": "lv350298641",
@@ -239,50 +239,6 @@
     "communityName": null,
     "beginAt": "2026-04-13T03:23:24.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14285/142854377.jpg?1769330041",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350298617",
-    "title": "【車載×外配信×しぞーか】 エクストリーム出勤 朝日を添えて(曇り)",
-    "providerId": "14561961",
-    "providerName": "キャベツ・デラックス",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T03:21:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1456/14561961.jpg?1424310226",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350298616",
-    "title": "国立完売達成！アジアツアー決定！セトリネタバレ厳禁最終日",
-    "providerId": "118138381",
-    "providerName": "一ノ川彩美",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T03:21:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1771614602",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350298614",
-    "title": "作業サボり防止窓",
-    "providerId": "57148847",
-    "providerName": "CS",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T03:20:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5714/57148847.jpg?1772317460",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350298613",
-    "title": "寝る音楽",
-    "providerId": "21128565",
-    "providerName": "はなくそ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-13T03:20:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2112/21128565.jpg?1709835360",
     "category": "common"
   }
 ]
