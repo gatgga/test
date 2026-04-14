@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv350311477",
+    "title": "永久の戦士",
+    "providerId": "18027806",
+    "providerName": "八歳のふわふわ金髪でかリボン幼女",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-15T03:14:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1802/18027806.jpg?1574299795",
+    "category": "live"
+  },
+  {
     "lvId": "lv350311471",
     "title": "すこしだけ",
     "providerId": "18876997",
@@ -30,17 +41,6 @@
     "communityName": null,
     "beginAt": "2026-04-15T03:07:55.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350311465",
-    "title": "Part1【初見プレイ】ゼルダの伝説トワイライトプリンセス　光と闇の戦い！",
-    "providerId": "29323983",
-    "providerName": "ハラルド＊＊",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-15T03:06:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2932/29323983.jpg?1760393692",
     "category": "live"
   },
   {
@@ -198,28 +198,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350311424",
-    "title": "FF-X2を生配信！夜中なので無言で配信！無言！！",
-    "providerId": "80421098",
-    "providerName": "大山喜三郎",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-15T02:54:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8042/80421098.jpg?1605822829",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350311423",
-    "title": "エーペックス",
-    "providerId": "16425155",
-    "providerName": "あずあいり",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-15T02:54:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1642/16425155.jpg?1739987421",
-    "category": "live"
-  },
-  {
     "lvId": "lv350311454",
     "title": "カラオケ",
     "providerId": "124466552",
@@ -229,6 +207,28 @@
     "beginAt": "2026-04-15T03:03:20.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12446/124466552.jpg?1664987224",
     "category": "try"
+  },
+  {
+    "lvId": "lv350311476",
+    "title": "【ルーキー】ゲストの雑談配信",
+    "providerId": "143798021",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-15T03:13:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350311475",
+    "title": "_(:3｣∠)_　寝落ちしたらすみません。配信で稼ぎたいのでギフトよろしくお願いします🙇‍♂️",
+    "providerId": "14544870",
+    "providerName": "とらっきー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-15T03:12:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1454/14544870.jpg?1646140728",
+    "category": "common"
   },
   {
     "lvId": "lv350311474",
@@ -525,17 +525,6 @@
     "communityName": null,
     "beginAt": "2026-04-15T02:56:52.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/123/1237002.jpg?1724251105",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350311416",
-    "title": "無題",
-    "providerId": "36412297",
-    "providerName": "せ〜いち",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-15T02:53:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
