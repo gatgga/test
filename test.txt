@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv350320035",
+    "title": "アーカルム素材集め",
+    "providerId": "45173611",
+    "providerName": "シャルル",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-16T16:06:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4517/45173611.jpg?1656991522",
+    "category": "live"
+  },
+  {
     "lvId": "lv350320025",
     "title": "【紅の砂漠】だいまるに誉れはあるのか【Crimson Desert】",
     "providerId": "10530511",
@@ -121,61 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350319976",
-    "title": "ゲームをするついでに放送するだけです",
-    "providerId": "124793066",
-    "providerName": "お風呂黄色いとりさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:49:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12479/124793066.jpg?1722868318",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350319975",
-    "title": "60分くらい　乱取り早消し　お絵描き民四川省",
-    "providerId": "22439282",
-    "providerName": "こんぶ（昆布）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:48:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2243/22439282.jpg?1774615826",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350319928",
-    "title": "ポケモンチャンピオンズ　ハイパー1 アドバイス求む",
-    "providerId": "100240",
-    "providerName": "まーしゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:47:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/10/100240.jpg?1643163510",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350319966",
-    "title": "【ファイアーエムブレム 聖魔の光石】続・GBAのFE（その2）",
-    "providerId": "5862441",
-    "providerName": "ボンク伊藤",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:47:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/586/5862441.jpg?1767523777",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350319963",
-    "title": "のんびり色々(˘ω˘)",
-    "providerId": "143238574",
-    "providerName": "ぴえん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:46:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14323/143238574.jpg?1775113680",
-    "category": "live"
-  },
-  {
     "lvId": "lv350320009",
     "title": "(Ｔｏｆ)ノ",
     "providerId": "141209633",
@@ -198,15 +154,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv350319970",
-    "title": "プレミアムぷげらっちょ　おはよう",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
+    "lvId": "lv350320030",
+    "title": "プレアカ切れるんで配信しとく！車載",
+    "providerId": "143586162",
+    "providerName": "ゲスト",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-04-16T15:47:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9571/95713165.jpg?1618586491",
-    "category": "try"
+    "beginAt": "2026-04-16T16:06:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350320032",
+    "title": "そのうちニコやめるから ほかの居場所探すまでいる 苦手な人たちが多くて 甘えちゃダメとか自己チューの人なんてほかにもいると思うけど 匿名さんに言われたんだけど",
+    "providerId": "143891931",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-04-16T16:06:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350320031",
@@ -558,94 +525,6 @@
     "communityName": null,
     "beginAt": "2026-04-16T15:50:41.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14354/143545182.jpg?1775908776",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319977",
-    "title": "雑談",
-    "providerId": "42297028",
-    "providerName": "みぃ/未悠（みゆ）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:49:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4229/42297028.jpg?1537772304",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319974",
-    "title": "医療系一般企業の民いたら話きかせてくれ。MRとか。",
-    "providerId": "123493489",
-    "providerName": "ゾルピデム1000㎎",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:48:20.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12349/123493489.jpg?1682244380",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319969",
-    "title": "欲に忠実よな",
-    "providerId": "97783843",
-    "providerName": "とんまるき",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:47:37.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9778/97783843.jpg?1710406100",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319970",
-    "title": "プレミアムぷげらっちょ　おはよう",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:47:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9571/95713165.jpg?1618586491",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319959",
-    "title": "さわべの隠居生活",
-    "providerId": "90650028",
-    "providerName": "さわべ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:47:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9065/90650028.jpg?1621072180",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319968",
-    "title": "20歳女ですお友達募集中ᐡ ̳ᴗ  ̫ ᴗ ̳ᐡ♡ かまって",
-    "providerId": "143482632",
-    "providerName": "♡う♡←元コンカフェ嬢",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:46:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14348/143482632.jpg?1773200025",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319965",
-    "title": "地獄の荷解きダダ漏れ配信",
-    "providerId": "134093242",
-    "providerName": "たちかわあやか(ホルスタイン彩)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:46:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13409/134093242.jpg?1773073474",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350319964",
-    "title": "んぁ^ - ^",
-    "providerId": "84684001",
-    "providerName": "御琴羽",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-04-16T15:46:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8468/84684001.jpg?1682742621",
     "category": "common"
   }
 ]
