@@ -110,17 +110,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350605054",
-    "title": "月曜朝",
-    "providerId": "22665779",
-    "providerName": "きゅーべい",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-05-25T05:23:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2266/22665779.jpg?1748167071",
-    "category": "live"
-  },
-  {
     "lvId": "lv350605072",
     "title": "ペルソナQ　続き004",
     "providerId": "1347693",
@@ -130,6 +119,17 @@
     "beginAt": "2026-05-25T05:32:47.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/134/1347693.jpg?1340620052",
     "category": "try"
+  },
+  {
+    "lvId": "lv350605093",
+    "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-05-25T05:44:01.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350605090",
@@ -349,28 +349,6 @@
     "communityName": null,
     "beginAt": "2026-05-25T05:26:20.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/241/2410779.jpg?1767226849",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350605058",
-    "title": "モクモク作業部屋",
-    "providerId": "9110348",
-    "providerName": "まっつん♂",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-05-25T05:24:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350605055",
-    "title": "【FXライブ】あおられてはいけません じっとして チャンスは必ず来るから",
-    "providerId": "59902601",
-    "providerName": "短期決戦",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-05-25T05:23:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5990/59902601.jpg?1522372307",
     "category": "common"
   }
 ]
