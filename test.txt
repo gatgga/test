@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv350681970",
+    "title": "唐真人の放送（マイクなし）5時になったらデイリー",
+    "providerId": "12353704",
+    "providerName": "唐真人",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-05T04:40:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1235/12353704.jpg?1481381235",
+    "category": "live"
+  },
+  {
     "lvId": "lv350681966",
     "title": "腐れ饅頭醗酵室（日課枠",
     "providerId": "6487579",
@@ -55,17 +66,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350681935",
-    "title": "Expeditionなんとか33 N9",
-    "providerId": "584765",
-    "providerName": "マテリアル仲宗根",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-05T04:21:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/58/584765.jpg?1715374646",
-    "category": "live"
-  },
-  {
     "lvId": "lv350681967",
     "title": "★ぴゃつ★疲れたお絵かき",
     "providerId": "130760192",
@@ -77,26 +77,15 @@
     "category": "try"
   },
   {
-    "lvId": "lv350681936",
-    "title": "即売会の開催日まで10日を切ってもネームすら終わってない",
-    "providerId": "144465705",
-    "providerName": "こもの",
+    "lvId": "lv350681969",
+    "title": "深夜作業と炭鉱夫と時々デイリー(予定)",
+    "providerId": "91367470",
+    "providerName": "無名",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-06-05T04:20:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "try"
-  },
-  {
-    "lvId": "lv350681933",
-    "title": "※主不在　お絵描き自動配信",
-    "providerId": "38258232",
-    "providerName": "タカヒロ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-05T04:19:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3825/38258232.jpg?1777218600",
-    "category": "try"
+    "beginAt": "2026-06-05T04:40:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9136/91367470.jpg?1580151181",
+    "category": "common"
   },
   {
     "lvId": "lv350681968",
@@ -283,50 +272,6 @@
     "communityName": null,
     "beginAt": "2026-06-05T04:23:46.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1778099842",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350681938",
-    "title": "クソコメ多すぎ、さすがニコ生クオリティ",
-    "providerId": "144122544",
-    "providerName": "ニコ生中毒者",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-05T04:21:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350681934",
-    "title": "アラフィフうつ病無職陰キャこどおじ",
-    "providerId": "144316769",
-    "providerName": "チェリーボーイズ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-05T04:21:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350681936",
-    "title": "即売会の開催日まで10日を切ってもネームすら終わってない",
-    "providerId": "144465705",
-    "providerName": "こもの",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-05T04:20:52.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350681933",
-    "title": "※主不在　お絵描き自動配信",
-    "providerId": "38258232",
-    "providerName": "タカヒロ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-05T04:19:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3825/38258232.jpg?1777218600",
     "category": "common"
   }
 ]
