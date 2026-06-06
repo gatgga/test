@@ -22,6 +22,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv350697435",
+    "title": "あたらしいあさがきただぉ～！　(初心者）",
+    "providerId": "16069493",
+    "providerName": "とぅるりら～Rio。",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-07T07:15:36.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1606/16069493.jpg?1733986985",
+    "category": "live"
+  },
+  {
+    "lvId": "lv350697443",
+    "title": "PS5 　　　　　　　 (マイクなし）",
+    "providerId": "140215876",
+    "providerName": "FIRST FRIEND",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-07T07:15:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv350697436",
     "title": "Dead;Lock",
     "providerId": "11961859",
@@ -253,15 +275,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv350697374",
-    "title": "【ルーキー】クラロワ",
-    "providerId": "144214551",
-    "providerName": "ゲスト",
+    "lvId": "lv350697430",
+    "title": "漫画",
+    "providerId": "590314",
+    "providerName": "森の人",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-06-07T06:58:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
+    "beginAt": "2026-06-07T07:15:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/59/590314.jpg?1732918359",
+    "category": "try"
   },
   {
     "lvId": "lv350697419",
@@ -284,6 +306,17 @@
     "beginAt": "2026-06-07T06:59:31.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8744/87444380.jpg?1547818964",
     "category": "try"
+  },
+  {
+    "lvId": "lv350697444",
+    "title": "52歳自由人のライブ",
+    "providerId": "85902016",
+    "providerName": "ともさんP",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-07T07:16:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8590/85902016.jpg?1722951917",
+    "category": "common"
   },
   {
     "lvId": "lv350697430",
@@ -602,94 +635,6 @@
     "communityName": null,
     "beginAt": "2026-06-07T06:58:27.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14322/143229215.jpg?1780621457",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697371",
-    "title": "パチ＆スロ雑談所",
-    "providerId": "129626439",
-    "providerName": "寝ハゲ（キハダ）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:57:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12962/129626439.jpg?1687694097",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697370",
-    "title": "すけたん CLUB( ´◉ᾥ◉｀)",
-    "providerId": "541829",
-    "providerName": "すけたん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:57:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/54/541829.jpg?1341565585",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697366",
-    "title": "🔥ライブ最前列に転送｜清楚×ロックアイドル特化×ライブ会場級音響🎧",
-    "providerId": "13025986",
-    "providerName": "ヨシ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:57:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1302/13025986.jpg?1780068222",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697352",
-    "title": "デイリー(予定)",
-    "providerId": "91367470",
-    "providerName": "無名",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:57:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9136/91367470.jpg?1580151181",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697365",
-    "title": "お雑談",
-    "providerId": "137296405",
-    "providerName": "サル a.k.a.ドミトリイ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:56:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13729/137296405.jpg?1763480153",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697364",
-    "title": "飲むわよ🍺",
-    "providerId": "4225879",
-    "providerName": "ハク",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:56:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/422/4225879.jpg?1723085943",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697363",
-    "title": "ｇｄｇｄ",
-    "providerId": "1807387",
-    "providerName": "サギー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:55:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/180/1807387.jpg?1287900496",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350697362",
-    "title": "【FXライブ】崖の上のビットコイン",
-    "providerId": "59902601",
-    "providerName": "短期決戦",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-07T06:55:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5990/59902601.jpg?1522372307",
     "category": "common"
   }
 ]
