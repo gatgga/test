@@ -22,17 +22,6 @@
     "category": "req"
   },
   {
-    "lvId": "lv350705524",
-    "title": "「朝」ニコニコ動画紹介します・音楽・コメント募集してます",
-    "providerId": "130702731",
-    "providerName": "ｐｐ（ぴっぴ）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-08T06:52:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13070/130702731.jpg?1745873368",
-    "category": "req"
-  },
-  {
     "lvId": "lv350705553",
     "title": "30分配信　朝の日課とか(´・ω・`)　マイクないからね！",
     "providerId": "5450660",
@@ -110,17 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350705517",
-    "title": "ゲーム色々",
-    "providerId": "242188",
-    "providerName": "ビゾンさん()",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-08T06:50:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/24/242188.jpg?1766320470",
-    "category": "live"
-  },
-  {
     "lvId": "lv350705551",
     "title": "漫画",
     "providerId": "590314",
@@ -130,6 +108,28 @@
     "beginAt": "2026-06-08T07:08:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/59/590314.jpg?1732918359",
     "category": "try"
+  },
+  {
+    "lvId": "lv350705558",
+    "title": "シャワーしながら喋りたい配信",
+    "providerId": "144380418",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-08T07:09:07.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350705557",
+    "title": "あさラジ",
+    "providerId": "14801629",
+    "providerName": "ゆち",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-08T07:08:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1480/14801629.jpg?1772455580",
+    "category": "common"
   },
   {
     "lvId": "lv350705551",
@@ -382,17 +382,6 @@
     "communityName": null,
     "beginAt": "2026-06-08T06:52:47.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5087/50878236.jpg?1755038099",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350705516",
-    "title": "【Vlog】ぶらりぢゃき散歩058【朝活】",
-    "providerId": "142214",
-    "providerName": "ぢゃきお",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-08T06:50:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14/142214.jpg?1769055438",
     "category": "common"
   }
 ]
