@@ -154,17 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350769077",
-    "title": "ニコゲー　えげつなSG",
-    "providerId": "119246094",
-    "providerName": "あでぃっく",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-17T06:47:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11924/119246094.jpg?1622575589",
-    "category": "live"
-  },
-  {
     "lvId": "lv350769105",
     "title": "漫画",
     "providerId": "590314",
@@ -185,6 +174,39 @@
     "beginAt": "2026-06-17T06:54:14.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5227/52273950.jpg?1761383477",
     "category": "try"
+  },
+  {
+    "lvId": "lv350769127",
+    "title": "雑談",
+    "providerId": "34928010",
+    "providerName": "リックドム",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-17T07:06:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3492/34928010.jpg?1472216659",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350769125",
+    "title": "帰宅のんびりする",
+    "providerId": "142279783",
+    "providerName": "おおくぼ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-17T07:05:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14227/142279783.jpg?1779995348",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350769126",
+    "title": "jk",
+    "providerId": "143182664",
+    "providerName": "みみみ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-17T07:05:37.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14318/143182664.jpg?1770425840",
+    "category": "common"
   },
   {
     "lvId": "lv350769123",
@@ -492,61 +514,6 @@
     "communityName": null,
     "beginAt": "2026-06-17T06:51:34.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350769080",
-    "title": "【Vlog】ぶらりぢゃき散歩065【朝活】",
-    "providerId": "142214",
-    "providerName": "ぢゃきお",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-17T06:49:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14/142214.jpg?1769055438",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350769079",
-    "title": "スイカ食べるだけ",
-    "providerId": "142968482",
-    "providerName": "かびごん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-17T06:48:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14296/142968482.jpg?1777543583",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350769076",
-    "title": "今日から垂れ流し配信",
-    "providerId": "144427309",
-    "providerName": "なおちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-17T06:48:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14442/144427309.jpg?1781190984",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350769074",
-    "title": "[車載]仕事行くで",
-    "providerId": "1447787",
-    "providerName": "さじ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-17T06:47:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/144/1447787.jpg?1778151090",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350769075",
-    "title": "【フェリー配信】　おはよー錦江湾から",
-    "providerId": "97620146",
-    "providerName": "ブライアン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-17T06:46:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9762/97620146.jpg?1682599113",
     "category": "common"
   }
 ]
