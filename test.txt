@@ -22,17 +22,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350810994",
-    "title": "動画を見ます",
-    "providerId": "131550143",
-    "providerName": "フレア⭐️イナリス32",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-23T04:37:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13155/131550143.jpg?1742917011",
-    "category": "live"
-  },
-  {
     "lvId": "lv350810989",
     "title": "てきとうにRO",
     "providerId": "10268657",
@@ -97,6 +86,17 @@
     "beginAt": "2026-06-23T04:29:50.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv350810998",
+    "title": "ありんこをよろしく",
+    "providerId": "144490996",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-23T04:43:08.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350810992",
@@ -272,28 +272,6 @@
     "communityName": null,
     "beginAt": "2026-06-23T04:25:29.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14395/143954224.jpg?1780354648",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350810968",
-    "title": "早朝修行",
-    "providerId": "603275",
-    "providerName": "roadrunner",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-23T04:24:15.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/60/603275.jpg?1713610897",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350810967",
-    "title": "メッシW杯史上最多ゴール　通算１８ゴール",
-    "providerId": "36042387",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-23T04:23:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
