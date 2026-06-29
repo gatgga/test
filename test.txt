@@ -1,16 +1,5 @@
 [
   {
-    "lvId": "lv350859880",
-    "title": "「深夜から朝方」ニコニコ動画紹介します・音楽・コメント募集してます",
-    "providerId": "130702731",
-    "providerName": "ｐｐ（ぴっぴ）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-30T03:38:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13070/130702731.jpg?1745873368",
-    "category": "req"
-  },
-  {
     "lvId": "lv350859914",
     "title": "【バニーガーデン２】にやつき　【しょけん】",
     "providerId": "77255638",
@@ -77,15 +66,158 @@
     "category": "live"
   },
   {
-    "lvId": "lv350859881",
-    "title": "ドラゴンクエスト8 ３DS版  同時配信中",
-    "providerId": "12614658",
-    "providerName": "八神秀人",
+    "lvId": "lv350859907",
+    "title": "【今日も今日とて】完全放置のとりあえずチャット枠【お気軽にどうぞ】2026/06/30【完全放置720分枠】〈3177枠目〉",
+    "providerId": "87133088",
+    "providerName": "シュガー",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-06-30T03:38:28.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1261/12614658.jpg?1256801989",
-    "category": "live"
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8713/87133088.jpg?1654344202",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350859651",
+    "title": "アメリカは今日ベーコンバーントエンドの日(あとはカメラの日とか釣り人の日とか)だって！バーベキュー食べに行こう！",
+    "providerId": "121806477",
+    "providerName": "主任",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12180/121806477.jpg?1637340031",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810386",
+    "title": "BS11【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646846",
+    "communityName": "BS11（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646846.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810385",
+    "title": "NHK BS【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2647992",
+    "communityName": "NHK BS（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2647992.jpg?1724304000",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810384",
+    "title": "TOKYO MX【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646485",
+    "communityName": "TOKYO MX（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646485.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810382",
+    "title": "フジテレビ【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646442",
+    "communityName": "フジテレビ（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646442.jpg?1700103629",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810381",
+    "title": "テレビ東京【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646441",
+    "communityName": "テレビ東京（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646441.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810380",
+    "title": "TBSテレビ【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646440",
+    "communityName": "TBSテレビ（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646440.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810379",
+    "title": "テレビ朝日【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646439",
+    "communityName": "テレビ朝日（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646439.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810378",
+    "title": "日本テレビ【ニコニコ実況】2026年06月30日（26:00～ サッカーW杯 コートジボワールvsノルウェー 決勝トーナメント1回戦･ラウンド32）",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646438",
+    "communityName": "日本テレビ（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646438.jpg?1700103629",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810377",
+    "title": "NHK Eテレ【ニコニコ実況】2026年06月30日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646437",
+    "communityName": "NHK Eテレ（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646437.jpg?1700103631",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350810375",
+    "title": "NHK総合【ニコニコ実況】2026年06月30日（10:00～ サッカーW杯 オランダvsモロッコ 決勝トーナメント1回戦･ラウンド32）",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646436",
+    "communityName": "NHK総合（ニコニコ実況）",
+    "beginAt": "2026-06-30T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646436.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350859916",
+    "title": "壊れかけのラヂヲ〜あひるとガラナと、時々、避難所",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-30T03:57:11.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350859913",
+    "title": "やあ",
+    "providerId": "136220121",
+    "providerName": "りな",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-06-30T03:56:13.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13622/136220121.jpg?1750784142",
+    "category": "common"
   },
   {
     "lvId": "lv350859912",
@@ -151,17 +283,6 @@
     "communityName": null,
     "beginAt": "2026-06-30T03:51:34.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3841/38419472.jpg?1782147815",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350859902",
-    "title": "サッカーやってる裏でおっぱいの玉を晒す配信",
-    "providerId": "44626882",
-    "providerName": "まりす",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-30T03:50:38.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4462/44626882.jpg?1778415277",
     "category": "common"
   },
   {
@@ -261,61 +382,6 @@
     "communityName": null,
     "beginAt": "2026-06-30T03:40:43.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5850/58502472.jpg?1609635861",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350859884",
-    "title": "サッカーワールドカップ！日本🇯🇵対ブラジル🇧🇷 俺の配信で見れば日本は勝ちます！俺以外で見て負けたらその人達は裏切り者です",
-    "providerId": "91392824",
-    "providerName": "久保建英",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-30T03:39:36.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9139/91392824.jpg?1700574366",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350859883",
-    "title": "【ルーキー】kumachan熊の雑談配信",
-    "providerId": "122868698",
-    "providerName": "kumachan熊",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-30T03:39:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12286/122868698.jpg?1782757993",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350859882",
-    "title": "(﹡ˆ﹀ˆ﹡)♡",
-    "providerId": "120838497",
-    "providerName": "ななし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-30T03:39:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12083/120838497.jpg?1768654013",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350859879",
-    "title": "日本対ブラジルの話は辞めとく　俺が話すと負け率高いからw",
-    "providerId": "129071480",
-    "providerName": "狂犬ドラ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-30T03:37:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12907/129071480.jpg?1781315239",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350859878",
-    "title": "やっべ寝過ごした",
-    "providerId": "13178322",
-    "providerName": "anan",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-06-30T03:37:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1317/13178322.jpg?1776388689",
     "category": "common"
   }
 ]
