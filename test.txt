@@ -110,17 +110,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv350913904",
-    "title": "にっこにこまいくら。",
-    "providerId": "80003260",
-    "providerName": "たるるーと",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-08T03:17:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8000/80003260.jpg?1779771564",
-    "category": "live"
-  },
-  {
     "lvId": "lv350913933",
     "title": "らくがき帳",
     "providerId": "15828144",
@@ -141,6 +130,17 @@
     "beginAt": "2026-07-08T03:25:03.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1778099842",
     "category": "try"
+  },
+  {
+    "lvId": "lv350913936",
+    "title": "起きてる人いますか？",
+    "providerId": "144427309",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-08T03:36:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv350913934",
@@ -316,39 +316,6 @@
     "communityName": null,
     "beginAt": "2026-07-08T03:19:40.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14350/143505119.jpg?1783432807",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350913906",
-    "title": "スマホ雑談配信",
-    "providerId": "139499603",
-    "providerName": "ゲスチョ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-08T03:19:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13949/139499603.jpg?1775048015",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350913905",
-    "title": ".",
-    "providerId": "121887199",
-    "providerName": "デンヤスキー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-08T03:18:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350913903",
-    "title": "寝れないのでコメントをくれい",
-    "providerId": "67282298",
-    "providerName": "なんて言うんだろあれ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-08T03:17:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6728/67282298.jpg?1783447757",
     "category": "common"
   }
 ]
