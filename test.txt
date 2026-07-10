@@ -11,6 +11,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv350933981",
+    "title": "艦これ",
+    "providerId": "1841608",
+    "providerName": "スパーク・マツナガ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-11T05:49:42.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/184/1841608.jpg?1593177888",
+    "category": "live"
+  },
+  {
+    "lvId": "lv350933977",
+    "title": "グランディアHD 2周目",
+    "providerId": "61314421",
+    "providerName": "バブル",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-11T05:49:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv350933959",
     "title": "【#25】FINAL FANTASY 2 PSP版【通常プレイ】",
     "providerId": "14838625",
@@ -30,17 +52,6 @@
     "communityName": null,
     "beginAt": "2026-07-11T05:36:55.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350933941",
-    "title": "【エルデンリング ナイトレインSteam版（PC版）】深度5へ【ELDEN RING NIGHTREIGN】",
-    "providerId": "649869",
-    "providerName": "孤独死",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-11T05:30:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/64/649869.jpg?1416629278",
     "category": "live"
   },
   {
@@ -64,6 +75,17 @@
     "beginAt": "2026-07-11T05:31:27.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6658/66588635.jpg?1715598575",
     "category": "try"
+  },
+  {
+    "lvId": "lv350933979",
+    "title": "通常営業",
+    "providerId": "87374964",
+    "providerName": "ONIGUNSOW",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-11T05:48:42.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8737/87374964.jpg?1593351141",
+    "category": "common"
   },
   {
     "lvId": "lv350933978",
@@ -338,28 +360,6 @@
     "communityName": null,
     "beginAt": "2026-07-11T05:31:27.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6658/66588635.jpg?1715598575",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350933939",
-    "title": "free cell  (無言）",
-    "providerId": "79620382",
-    "providerName": "STRIKE 2　　　　　　　.",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-11T05:30:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7962/79620382.jpg?1633033245",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350933938",
-    "title": "成田祇園祭中止会場視察 帰ったら酒飲む",
-    "providerId": "4225879",
-    "providerName": "ハク",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-11T05:30:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/422/4225879.jpg?1723085943",
     "category": "common"
   }
 ]
