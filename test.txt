@@ -1,5 +1,27 @@
 [
   {
+    "lvId": "lv350996907",
+    "title": "2,3戦やってみる",
+    "providerId": "70856584",
+    "providerName": "ルル（やきそば）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:58:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7085/70856584.jpg?1766506401",
+    "category": "live"
+  },
+  {
+    "lvId": "lv350996899",
+    "title": "スペイン対アルゼンチン　もう最後",
+    "providerId": "32635274",
+    "providerName": "干菓子",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:57:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv350996889",
     "title": "俺だけゲームする専用",
     "providerId": "144669986",
@@ -176,26 +198,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv350995677",
-    "title": "ワールドカップ2026_決勝を同時視聴！【スペイン VS アルゼンチン】",
-    "providerId": "16547035",
-    "providerName": "です_骸骨_（●..●）",
+    "lvId": "lv350996900",
+    "title": "イラストレーターを目指す枠。",
+    "providerId": "30172934",
+    "providerName": "chien0mi",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-07-20T03:40:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1654/16547035.jpg?1640311731",
-    "category": "live"
-  },
-  {
-    "lvId": "lv350996825",
-    "title": "NTEやっていくので見てて。【同時配信】",
-    "providerId": "117184059",
-    "providerName": "片瀬",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-20T03:38:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11718/117184059.jpg?1611294165",
-    "category": "live"
+    "beginAt": "2026-07-20T03:58:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3017/30172934.jpg?1704020126",
+    "category": "try"
   },
   {
     "lvId": "lv350996890",
@@ -251,6 +262,281 @@
     "beginAt": "2026-07-20T03:46:17.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14444/144440201.jpg?1780127699",
     "category": "try"
+  },
+  {
+    "lvId": "lv350996881",
+    "title": "【TOEIC】Ginranの英語学習リアルライブ【息抜きゲーム】",
+    "providerId": "432708",
+    "providerName": "Ginran",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/43/432708.jpg?1750088614",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949213",
+    "title": "BS11【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646846",
+    "communityName": "BS11（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646846.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949212",
+    "title": "NHK BS【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2647992",
+    "communityName": "NHK BS（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2647992.jpg?1724304000",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949211",
+    "title": "TOKYO MX【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646485",
+    "communityName": "TOKYO MX（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646485.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949210",
+    "title": "フジテレビ【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646442",
+    "communityName": "フジテレビ（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646442.jpg?1700103629",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949209",
+    "title": "テレビ東京【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646441",
+    "communityName": "テレビ東京（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646441.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949208",
+    "title": "TBSテレビ【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646440",
+    "communityName": "TBSテレビ（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646440.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949207",
+    "title": "テレビ朝日【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646439",
+    "communityName": "テレビ朝日（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646439.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949206",
+    "title": "日本テレビ【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646438",
+    "communityName": "日本テレビ（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646438.jpg?1700103629",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949205",
+    "title": "NHK Eテレ【ニコニコ実況】2026年07月20日",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646437",
+    "communityName": "NHK Eテレ（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646437.jpg?1700103631",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350949204",
+    "title": "NHK総合【ニコニコ実況】2026年07月20日（4:00～ サッカーW杯 決勝 スペインvsアルゼンチン）",
+    "providerId": null,
+    "providerName": "株式会社ドワンゴ",
+    "communityId": "ch2646436",
+    "communityName": "NHK総合（ニコニコ実況）",
+    "beginAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2646436.jpg?1700103630",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996905",
+    "title": "ちんすぺ",
+    "providerId": "105645",
+    "providerName": "ぽぽんぴゅめり",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:59:40.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/10/105645.jpg?1679680611",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996910",
+    "title": "ごきげんよう",
+    "providerId": "135560176",
+    "providerName": "ザ・生配信",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:59:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13556/135560176.jpg?1725634319",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996908",
+    "title": "さぁ！はじまるぞ！決勝戦！",
+    "providerId": "16346481",
+    "providerName": "hato",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:59:01.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1634/16346481.jpg?1784373715",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996900",
+    "title": "イラストレーターを目指す枠。",
+    "providerId": "30172934",
+    "providerName": "chien0mi",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:58:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3017/30172934.jpg?1704020126",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996906",
+    "title": "世界は終末へ",
+    "providerId": "39532023",
+    "providerName": "yosino",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:58:41.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3953/39532023.jpg?1732957674",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996904",
+    "title": "サッカーW杯⚽️決勝戦観てます！一緒に観よ！",
+    "providerId": "1188026",
+    "providerName": "さっこ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:58:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/118/1188026.jpg?1780902965",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996903",
+    "title": "ワールドカップ観るぞ！！",
+    "providerId": "144406095",
+    "providerName": "おおしま（gdgd垢）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:58:10.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996901",
+    "title": "ついにW杯決勝！！！⚽",
+    "providerId": "118674029",
+    "providerName": "あいす",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:58:01.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11867/118674029.jpg?1734986087",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996878",
+    "title": "おっ",
+    "providerId": "39000765",
+    "providerName": "まゆ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:57:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3900/39000765.jpg?1777618640",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996897",
+    "title": "【北中米Ｗ杯ファイナル】スペインVSアルゼンチン　スペインがW杯2度目の優勝なるか？　アルゼンチンが史上３国目の２連覇なるか？",
+    "providerId": "144526487",
+    "providerName": "さそり座【♏】のたきざー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:57:18.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14452/144526487.jpg?1780912920",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996896",
+    "title": "【バナイベ】サッカー決勝戦みるぞ",
+    "providerId": "97929743",
+    "providerName": "か わしま",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:57:01.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9792/97929743.jpg?1621518639",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996894",
+    "title": "ねこねこ生放送　安川くんとウチ猫にゃんず  (part2759)   　暑いけど猫たちは今日も元気です　  良かったら見て行ってね",
+    "providerId": "55682432",
+    "providerName": "安川くん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:56:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5568/55682432.jpg?1636682242",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996892",
+    "title": ".",
+    "providerId": "121887199",
+    "providerName": "デンヤスキー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:56:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv350996891",
+    "title": "僕は42歳アルバイト。サッカーワールドカップ　アルゼンチン🇦🇷vsスペイン🇪🇸",
+    "providerId": "90947736",
+    "providerName": "まつもと",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-20T03:56:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9094/90947736.jpg?1590334108",
+    "category": "common"
   },
   {
     "lvId": "lv350996890",
@@ -627,17 +913,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv350996840",
-    "title": "ろーぐうえーいほー",
-    "providerId": "142968482",
-    "providerName": "ムラサキキャベツ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-20T03:42:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14296/142968482.jpg?1777543583",
-    "category": "common"
-  },
-  {
     "lvId": "lv350996838",
     "title": "「今日も生き延びてしまったあなたへ」    Mondo Music Flavor   meditation",
     "providerId": "2903472",
@@ -689,39 +964,6 @@
     "communityId": null,
     "communityName": null,
     "beginAt": "2026-07-20T03:40:28.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350996828",
-    "title": "また熱上がってきたからサッカー見る",
-    "providerId": "142283058",
-    "providerName": "雑魚",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-20T03:38:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14228/142283058.jpg?1774978853",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350996824",
-    "title": "羊を数える",
-    "providerId": "20090198",
-    "providerName": "ユニもろこし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-20T03:38:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv350996826",
-    "title": "ゲストの雑談配信",
-    "providerId": "144291656",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-20T03:37:29.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
