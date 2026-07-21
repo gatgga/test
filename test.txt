@@ -121,26 +121,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv351005181",
-    "title": "FS25/Farming Simulator 25 Map:",
-    "providerId": "1841608",
-    "providerName": "スパーク・マツナガ",
+    "lvId": "lv351005231",
+    "title": "団地を描く",
+    "providerId": "144903544",
+    "providerName": "小友克洋",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-07-21T10:16:04.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/184/1841608.jpg?1593177888",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351005177",
-    "title": "(亰都ザナドゥ -桜花幻舞-)やっとザナドゥできる！(初見歓迎・ネタバレ注意)",
-    "providerId": "1336648",
-    "providerName": "クルス・シルト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-21T10:14:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/133/1336648.jpg?1361159433",
-    "category": "live"
+    "beginAt": "2026-07-21T10:34:53.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "try"
   },
   {
     "lvId": "lv351005218",
@@ -198,26 +187,37 @@
     "category": "try"
   },
   {
-    "lvId": "lv351005178",
-    "title": "のんびり歌うだけ",
-    "providerId": "724052",
-    "providerName": "ひぐー",
+    "lvId": "lv351005231",
+    "title": "団地を描く",
+    "providerId": "144903544",
+    "providerName": "小友克洋",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-07-21T10:15:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/72/724052.jpg?1385010636",
-    "category": "try"
+    "beginAt": "2026-07-21T10:34:53.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
-    "lvId": "lv351005179",
-    "title": "おはよ",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
+    "lvId": "lv351005224",
+    "title": "メシ",
+    "providerId": "144068756",
+    "providerName": "イマムラフウタ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-07-21T10:15:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9571/95713165.jpg?1618586491",
-    "category": "try"
+    "beginAt": "2026-07-21T10:34:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14406/144068756.jpg?1780709604",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351005227",
+    "title": "減量70日目",
+    "providerId": "91106161",
+    "providerName": "たねじ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-21T10:33:01.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9110/91106161.jpg?1760925022",
+    "category": "common"
   },
   {
     "lvId": "lv351005225",
@@ -503,50 +503,6 @@
     "communityName": null,
     "beginAt": "2026-07-21T10:17:39.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14406/144068707.jpg?1777369643",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351005180",
-    "title": "おばあちゃんがくるまで",
-    "providerId": "144744467",
-    "providerName": "タロ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-21T10:16:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14474/144744467.jpg?1783701323",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351005178",
-    "title": "のんびり歌うだけ",
-    "providerId": "724052",
-    "providerName": "ひぐー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-21T10:15:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/72/724052.jpg?1385010636",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351005179",
-    "title": "おはよ",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-21T10:15:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9571/95713165.jpg?1618586491",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351005173",
-    "title": "18歳",
-    "providerId": "144393271",
-    "providerName": "ナイスガイ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-21T10:14:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
