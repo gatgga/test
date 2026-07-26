@@ -11,15 +11,26 @@
     "category": "req"
   },
   {
-    "lvId": "lv351046333",
-    "title": "🎵雷太とドライブしよ…🎵",
-    "providerId": "34157126",
-    "providerName": "雷太",
+    "lvId": "lv351046367",
+    "title": "FFRKをまったりプレイ",
+    "providerId": "10832976",
+    "providerName": "蒼天",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-07-27T06:18:28.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3415/34157126.jpg?1539447608",
-    "category": "req"
+    "beginAt": "2026-07-27T06:36:03.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1083/10832976.jpg?1543353349",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351046370",
+    "title": "艦これ #999 2026.7.27 生配信プレイ[Kantai Collection live] #艦隊これくしょん",
+    "providerId": "2892268",
+    "providerName": "コルダイト＠ヘイワード提督",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-27T06:35:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/289/2892268.jpg?1781522710",
+    "category": "live"
   },
   {
     "lvId": "lv351046365",
@@ -99,17 +110,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351046329",
-    "title": "SEA OF STARSするあかり",
-    "providerId": "86308364",
-    "providerName": "KOちゃんED",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-27T06:16:39.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8630/86308364.jpg?1731371458",
-    "category": "live"
-  },
-  {
     "lvId": "lv351046349",
     "title": "おはよ",
     "providerId": "95713165",
@@ -130,6 +130,17 @@
     "beginAt": "2026-07-27T06:20:26.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv351046371",
+    "title": "凸待ち お酒　歌枠",
+    "providerId": "33291066",
+    "providerName": "なかい",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-27T06:38:01.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3329/33291066.jpg?1750693303",
+    "category": "common"
   },
   {
     "lvId": "lv351046369",
@@ -338,39 +349,6 @@
     "communityName": null,
     "beginAt": "2026-07-27T06:20:18.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8371/83710424.jpg?1737913350",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351046334",
-    "title": "朝活　今週も頑張って行こう！（月曜は憂鬱）",
-    "providerId": "25334852",
-    "providerName": "sam（さむ）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-27T06:19:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2533/25334852.jpg?1644244106",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351046297",
-    "title": "あしどの雑談配信",
-    "providerId": "137259016",
-    "providerName": "あしど",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-27T06:18:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13725/137259016.jpg?1755528095",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351046324",
-    "title": "【朝活687】不摂生なら朝配信！夏季はパールワールドへGO【Vtuber】",
-    "providerId": "2386392",
-    "providerName": "星菓子あめ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-27T06:16:35.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/238/2386392.jpg?1771220423",
     "category": "common"
   }
 ]
