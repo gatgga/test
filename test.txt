@@ -88,17 +88,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351071577",
-    "title": "艦これ #1003 2026.7.31 生配信プレイ[Kantai Collection live] #艦隊これくしょん",
-    "providerId": "2892268",
-    "providerName": "コルダイト＠ヘイワード提督",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-31T04:04:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/289/2892268.jpg?1781522710",
-    "category": "live"
-  },
-  {
     "lvId": "lv351071594",
     "title": "引越し",
     "providerId": "136270129",
@@ -119,6 +108,17 @@
     "beginAt": "2026-07-31T04:09:43.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8744/87444380.jpg?1547818964",
     "category": "try"
+  },
+  {
+    "lvId": "lv351071608",
+    "title": "朝4時半ですけど、何してるんですか",
+    "providerId": "144136129",
+    "providerName": "せがさたん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-07-31T04:21:45.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14413/144136129.jpg?1777923683",
+    "category": "common"
   },
   {
     "lvId": "lv351071607",
@@ -294,39 +294,6 @@
     "communityName": null,
     "beginAt": "2026-07-31T04:04:50.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351071560",
-    "title": "【酒雑？】今週すごく疲れてて週末気分【よっぱ？】",
-    "providerId": "6015929",
-    "providerName": "かれお",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-31T04:04:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/601/6015929.jpg?1710474631",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351071576",
-    "title": "帰り道(*´ω`*)",
-    "providerId": "142919600",
-    "providerName": "ミュントゥ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-31T04:03:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14291/142919600.jpg?1768407246",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351071574",
-    "title": "カラオケ来た　まだ日本",
-    "providerId": "13702069",
-    "providerName": "りょーらら＠バンコク在住",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-07-31T04:02:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1370/13702069.jpg?1776684107",
     "category": "common"
   }
 ]
