@@ -1,13 +1,24 @@
 [
   {
-    "lvId": "lv351179175",
-    "title": "６時出勤",
-    "providerId": "131275227",
-    "providerName": "ｓｈｉｎ",
+    "lvId": "lv351179179",
+    "title": "1950-2010 洋ROCK&POPS専門リクエスト(ルールは詳細参照)",
+    "providerId": "245027",
+    "providerName": "Scott",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-08-15T05:19:31.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13127/131275227.jpg?1786695647",
+    "beginAt": "2026-08-15T05:19:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/24/245027.jpg?1588776745",
+    "category": "req"
+  },
+  {
+    "lvId": "lv351179181",
+    "title": "徒然ゲーム枠",
+    "providerId": "21641028",
+    "providerName": "ケケス",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-15T05:21:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2164/21641028.jpg?1493999475",
     "category": "live"
   },
   {
@@ -66,26 +77,37 @@
     "category": "live"
   },
   {
-    "lvId": "lv351179142",
-    "title": "あさかつ【ドラクエ10】",
-    "providerId": "76216757",
-    "providerName": "みず（CWP）",
+    "lvId": "lv351179184",
+    "title": "登竜門いべアイテムおねがいします/悪口は自己紹介",
+    "providerId": "4423758",
+    "providerName": "いっちゃん☆",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-08-15T05:01:44.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/7621/76216757.jpg?1780575244",
-    "category": "live"
+    "beginAt": "2026-08-15T05:22:32.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
-    "lvId": "lv351179151",
-    "title": "MAKIのr料理配信",
-    "providerId": "19061599",
-    "providerName": "MAKI",
+    "lvId": "lv351179182",
+    "title": "勝ちです",
+    "providerId": "144262208",
+    "providerName": "酢豚",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-08-15T05:04:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1906/19061599.jpg?1777756963",
-    "category": "try"
+    "beginAt": "2026-08-15T05:21:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14426/144262208.jpg?1778901039",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351179180",
+    "title": "飲みながら雑談(チャット枠",
+    "providerId": "11560472",
+    "providerName": "ひろゆう",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-15T05:20:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351179178",
@@ -209,17 +231,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351179153",
-    "title": "顔出し：♪。（雑談枠）初見コメント大歓迎♪",
-    "providerId": "16536721",
-    "providerName": "R-KISE",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-15T05:06:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1653/16536721.jpg?1335974036",
-    "category": "common"
-  },
-  {
     "lvId": "lv351179154",
     "title": "早く起きたお盆配信",
     "providerId": "25437434",
@@ -228,50 +239,6 @@
     "communityName": null,
     "beginAt": "2026-08-15T05:05:29.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2543/25437434.jpg?1727842300",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351179151",
-    "title": "MAKIのr料理配信",
-    "providerId": "19061599",
-    "providerName": "MAKI",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-15T05:04:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1906/19061599.jpg?1777756963",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351179150",
-    "title": "一年間プレ垢ありがとうー",
-    "providerId": "93631622",
-    "providerName": "じゃら",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-15T05:03:48.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9363/93631622.jpg?1672684978",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351179148",
-    "title": "起床しました",
-    "providerId": "139544342",
-    "providerName": "ぱんな",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-15T05:03:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13954/139544342.jpg?1751773408",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351179147",
-    "title": "おれんじの配信()",
-    "providerId": "11278840",
-    "providerName": "おれんじ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-15T05:02:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1127/11278840.jpg?1778445508",
     "category": "common"
   }
 ]
