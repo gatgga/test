@@ -55,28 +55,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351186901",
-    "title": "( ﾟДﾟ)もなす1回だけ　 ＃グラブル",
-    "providerId": "799784",
-    "providerName": "くまくま",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-16T03:39:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/79/799784.jpg?1597770137",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351186895",
-    "title": "ロマサガ",
-    "providerId": "81815012",
-    "providerName": "ガルガスタンの犬",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-16T03:38:41.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8181/81815012.jpg?1654416587",
-    "category": "live"
-  },
-  {
     "lvId": "lv351186902",
     "title": "作業",
     "providerId": "140784746",
@@ -86,6 +64,28 @@
     "beginAt": "2026-08-16T03:40:43.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv351186942",
+    "title": "まいど！",
+    "providerId": "124555160",
+    "providerName": "たかよし",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-16T03:57:29.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12455/124555160.jpg?1665913814",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351186941",
+    "title": "あのチームに入りたい",
+    "providerId": "140191409",
+    "providerName": "ぷにけろちゃん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-16T03:56:34.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14019/140191409.jpg?1756300711",
+    "category": "common"
   },
   {
     "lvId": "lv351186938",
@@ -349,61 +349,6 @@
     "communityName": null,
     "beginAt": "2026-08-16T03:40:43.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351186900",
-    "title": "ざつだん",
-    "providerId": "138277881",
-    "providerName": "らしゃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-16T03:39:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13827/138277881.jpg?1785131078",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351186899",
-    "title": "まったり(*´ω｀*)",
-    "providerId": "23729129",
-    "providerName": "カブおじさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-16T03:39:10.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351186898",
-    "title": "CDコレクション紹介雑談",
-    "providerId": "141050619",
-    "providerName": "ある2d2",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-16T03:39:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14105/141050619.jpg?1770373310",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351186894",
-    "title": "なぜ乃木坂の楽曲は後輩に引き継ぐことをオタは拒否するのか問題",
-    "providerId": "118138381",
-    "providerName": "一ノ川彩美",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-16T03:38:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1778099842",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351186883",
-    "title": "【盆休】FF5は今日で終わりたい雑談枠【たばたさん】2998",
-    "providerId": "843493",
-    "providerName": "たばたにこ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-16T03:38:23.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/84/843493.jpg?1645998241",
     "category": "common"
   }
 ]
