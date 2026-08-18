@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351207455",
+    "title": "すぷらつん参",
+    "providerId": "11670408",
+    "providerName": "漢子",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-19T03:35:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv351207457",
     "title": "朝までだらだら30分タイム時間",
     "providerId": "13419841",
@@ -66,17 +77,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351207418",
-    "title": "テトリスで1位取って寝る",
-    "providerId": "22792322",
-    "providerName": "たすくれーしんぐ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-19T03:17:11.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2279/22792322.jpg?1770651731",
-    "category": "live"
-  },
-  {
     "lvId": "lv351207420",
     "title": "【初配信】ニコゲー",
     "providerId": "59969806",
@@ -85,17 +85,6 @@
     "communityName": null,
     "beginAt": "2026-08-19T03:16:49.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5996/59969806.jpg?1492965686",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351207317",
-    "title": "【オーロラと登る──】初心者アークナイツ 384日目──2日目【予定カツカツ鋒矢突破③.5】",
-    "providerId": "51202429",
-    "providerName": "ピザ屋さん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-19T03:15:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5120/51202429.jpg?1746889690",
     "category": "live"
   },
   {
@@ -108,6 +97,17 @@
     "beginAt": "2026-08-19T03:32:35.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13076/130760192.jpg?1748941983",
     "category": "try"
+  },
+  {
+    "lvId": "lv351207461",
+    "title": "発熱３９℃なう…",
+    "providerId": "144538704",
+    "providerName": "寝る人",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-19T03:33:55.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351207460",
@@ -349,28 +349,6 @@
     "communityName": null,
     "beginAt": "2026-08-19T03:16:38.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351207417",
-    "title": "深夜マネーGET　バイクドラレコ",
-    "providerId": "145111394",
-    "providerName": "白身フライ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-19T03:13:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14511/145111394.jpg?1786511739",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351207406",
-    "title": "６周目、FE風化雪月ルナティック 楽しいまる",
-    "providerId": "3798130",
-    "providerName": "みゅう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-19T03:13:48.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/379/3798130.jpg?1736531185",
     "category": "common"
   }
 ]
