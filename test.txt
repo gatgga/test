@@ -132,28 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351250011",
-    "title": "【ルーキー】AAAのゲーム配信",
-    "providerId": "145179193",
-    "providerName": "AAA",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-25T11:06:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351250002",
-    "title": "すぷらつん参",
-    "providerId": "11670408",
-    "providerName": "漢子",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-25T11:05:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv351250042",
     "title": "好きにうたいます！一緒にあそぼ↑ｗ(*´▽｀*)ｗ",
     "providerId": "145139902",
@@ -163,6 +141,50 @@
     "beginAt": "2026-08-25T11:17:44.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv351250073",
+    "title": "【ルーキー】いかにゃの雑談配信",
+    "providerId": "145092486",
+    "providerName": "いかにゃ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-25T11:26:04.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14509/145092486.jpg?1786330800",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351250066",
+    "title": "デブリン子PayPayください",
+    "providerId": "145169404",
+    "providerName": "デブリン子",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-25T11:25:30.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351250061",
+    "title": "ゆったり配信",
+    "providerId": "25437434",
+    "providerName": "sue（スー）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-25T11:23:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2543/25437434.jpg?1727842300",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351250060",
+    "title": "おはよー",
+    "providerId": "1188026",
+    "providerName": "さっこ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-25T11:23:25.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/118/1188026.jpg?1780902965",
+    "category": "common"
   },
   {
     "lvId": "lv351250058",
@@ -426,50 +448,6 @@
     "communityName": null,
     "beginAt": "2026-08-25T11:08:17.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351250014",
-    "title": "コメントください^_^",
-    "providerId": "139544342",
-    "providerName": "ぱんな",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-25T11:07:16.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13954/139544342.jpg?1751773408",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351250009",
-    "title": "【ルーキー】道覚えの雑談配信",
-    "providerId": "142029773",
-    "providerName": "道覚え",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-25T11:06:08.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14202/142029773.jpg?1786301387",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351250013",
-    "title": "話を聞いてくれるAI猫",
-    "providerId": "122487880",
-    "providerName": "AIねこ放送局",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-25T11:06:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12248/122487880.jpg?1785747684",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351250012",
-    "title": "AIずんだもんと雑談するのだ【AI VTuber】",
-    "providerId": "134037611",
-    "providerName": "AIずんだもん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-25T11:05:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13403/134037611.jpg?1722884000",
     "category": "common"
   }
 ]
