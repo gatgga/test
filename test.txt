@@ -1,16 +1,5 @@
 [
   {
-    "lvId": "lv351268283",
-    "title": "【ルーキー】ゲストの動画紹介配信",
-    "providerId": "145255434",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-28T04:02:24.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "req"
-  },
-  {
     "lvId": "lv351268274",
     "title": "【東方アレンジ】Fsen 【リクエスト配信】",
     "providerId": "40484045",
@@ -20,6 +9,39 @@
     "beginAt": "2026-08-28T04:00:08.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4048/40484045.jpg?1771925873",
     "category": "req"
+  },
+  {
+    "lvId": "lv351268296",
+    "title": "ホラフキンの放送をミラー8705 妨害企画",
+    "providerId": "95943936",
+    "providerName": "horahora",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-28T04:11:13.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351268293",
+    "title": "gameやる",
+    "providerId": "145030648",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-28T04:09:48.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351268290",
+    "title": "Flicky Fantasyの放送",
+    "providerId": "130217879",
+    "providerName": "Flicky Fantasy",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-28T04:08:43.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13021/130217879.jpg?1692096601",
+    "category": "live"
   },
   {
     "lvId": "lv351268287",
@@ -132,17 +154,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351268256",
-    "title": "まったり マリオのスーパーピクロス したい",
-    "providerId": "1158373",
-    "providerName": "重伝（エデン）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-28T03:49:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/115/1158373.jpg?1559849906",
-    "category": "live"
-  },
-  {
     "lvId": "lv351268288",
     "title": "8/28 早朝？ リクエスト歌枠。＜70年代～90年代多め。アニソン特撮ソングレパートリー2200曲＞",
     "providerId": "327987",
@@ -228,17 +239,6 @@
     "communityName": null,
     "beginAt": "2026-08-28T04:01:09.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14301/143019998.jpg?1769177728",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351268276",
-    "title": "soulの日常配信（北海道）",
-    "providerId": "144862672",
-    "providerName": "soul",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-28T04:00:38.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -448,39 +448,6 @@
     "communityName": null,
     "beginAt": "2026-08-28T03:52:25.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/239/2393973.jpg?1702661333",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351268260",
-    "title": "まったりアイドルどうでしょう",
-    "providerId": "118138381",
-    "providerName": "一ノ川彩美",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-28T03:51:03.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11813/118138381.jpg?1778099842",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351268257",
-    "title": "現役〇子大学生の雑談",
-    "providerId": "143042054",
-    "providerName": "ろあ(roa)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-28T03:50:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14304/143042054.jpg?1782213535",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351268258",
-    "title": "◆ 音声のみ/ラ・リーガ◆ バルセロナ x ビルバオ",
-    "providerId": "1568386",
-    "providerName": "echo",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-28T03:50:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/156/1568386.jpg?1351683899",
     "category": "common"
   }
 ]
