@@ -77,28 +77,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351274989",
-    "title": "げーむ",
-    "providerId": "21914380",
-    "providerName": "よっしー☆彡",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-29T04:03:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2191/21914380.jpg?1337348143",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351274987",
-    "title": "レイダース　じきどうもぐってみる",
-    "providerId": "45058383",
-    "providerName": "かいと猫",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-29T04:02:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4505/45058383.jpg?1497855160",
-    "category": "live"
-  },
-  {
     "lvId": "lv351275018",
     "title": "らくがき帳",
     "providerId": "15828144",
@@ -108,6 +86,28 @@
     "beginAt": "2026-08-29T04:15:34.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1582/15828144.jpg?1350317380",
     "category": "try"
+  },
+  {
+    "lvId": "lv351275027",
+    "title": "BGM枠",
+    "providerId": "12567510",
+    "providerName": "CRAFT",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-29T04:21:57.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1256/12567510.jpg?1670622870",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351275025",
+    "title": "飲みながら雑談(チャット枠",
+    "providerId": "11560472",
+    "providerName": "ひろゆう",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-29T04:20:17.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351275024",
@@ -349,39 +349,6 @@
     "communityName": null,
     "beginAt": "2026-08-29T04:04:43.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13314/133146604.jpg?1775164986",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351274991",
-    "title": "「イベ参加中」もうイベ終わるね",
-    "providerId": "115713314",
-    "providerName": "刑事桃(でかもも)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-29T04:03:59.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11571/115713314.jpg?1673451442",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351274988",
-    "title": "得丸薫の雑談配信",
-    "providerId": "144535463",
-    "providerName": "得丸薫",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-29T04:02:33.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14453/144535463.jpg?1787943614",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351274983",
-    "title": "ただいま",
-    "providerId": "139424267",
-    "providerName": "ももちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-29T04:01:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13942/139424267.jpg?1743462609",
     "category": "common"
   }
 ]
