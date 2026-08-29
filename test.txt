@@ -165,17 +165,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351283142",
-    "title": "DMC3 | 初見 #02 | PS5 DT解禁 M9から - Devil May Cry HD Collection",
-    "providerId": "17146972",
-    "providerName": "コウ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-30T07:20:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1714/17146972.jpg?1765192555",
-    "category": "live"
-  },
-  {
     "lvId": "lv351283215",
     "title": "初心者配信です♪雑談自由に！３０分枠です ฅ^-ω-^ฅ",
     "providerId": "14861723",
@@ -231,15 +220,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv351283157",
-    "title": "-",
-    "providerId": "138068912",
-    "providerName": "Landmine",
+    "lvId": "lv351283221",
+    "title": "雑談",
+    "providerId": "125119070",
+    "providerName": "ゲスト",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-08-30T07:19:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13806/138068912.jpg?1742714836",
-    "category": "try"
+    "beginAt": "2026-08-30T07:39:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12511/125119070.jpg?1714826502",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351283219",
+    "title": "配信5日目　言語化トレーニングのためだけの配信",
+    "providerId": "128077063",
+    "providerName": "ターロック",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-08-30T07:39:19.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12807/128077063.jpg?1787631313",
+    "category": "common"
   },
   {
     "lvId": "lv351283215",
@@ -503,50 +503,6 @@
     "communityName": null,
     "beginAt": "2026-08-30T07:22:59.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8/87876.jpg?1587554544",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351283160",
-    "title": "【ルーキー】国から借金3000万死にたい",
-    "providerId": "142772824",
-    "providerName": "統失にゃんこ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-30T07:22:17.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351283162",
-    "title": "マ〜ちゃん愛してます",
-    "providerId": "144538704",
-    "providerName": "寝る人",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-30T07:21:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351283161",
-    "title": "soulの日常配信（北海道）",
-    "providerId": "144862672",
-    "providerName": "soul",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-30T07:20:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351283157",
-    "title": "-",
-    "providerId": "138068912",
-    "providerName": "Landmine",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-08-30T07:19:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13806/138068912.jpg?1742714836",
     "category": "common"
   }
 ]
