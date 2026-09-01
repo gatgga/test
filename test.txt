@@ -1,14 +1,25 @@
 [
   {
-    "lvId": "lv351302971",
-    "title": "ﾁﾋﾛの動画紹介配信",
-    "providerId": "127561762",
-    "providerName": "ﾁﾋﾛ",
+    "lvId": "lv351302996",
+    "title": "GTA5：デイリーチャレンジ 20260902",
+    "providerId": "43297998",
+    "providerName": "Sanomoto",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-09-02T05:56:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12756/127561762.jpg?1703974011",
-    "category": "req"
+    "beginAt": "2026-09-02T06:14:25.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4329/43297998.jpg?1595564956",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351303007",
+    "title": "仕事疲れるわー",
+    "providerId": "30213698",
+    "providerName": "真神RAY",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-02T06:13:50.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
   },
   {
     "lvId": "lv351302991",
@@ -41,17 +52,6 @@
     "communityName": null,
     "beginAt": "2026-09-02T06:09:27.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351302997",
-    "title": "FE風花雪月　ルナ２周目　ノーリセ　EP７～",
-    "providerId": "1772281",
-    "providerName": "二ヶ月",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-02T06:09:22.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/177/1772281.jpg?1477751455",
     "category": "live"
   },
   {
@@ -349,50 +349,6 @@
     "communityName": null,
     "beginAt": "2026-09-02T05:58:35.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351302972",
-    "title": "おh",
-    "providerId": "16752658",
-    "providerName": "世界のこっさん【AE86N2】",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-02T05:57:09.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1675/16752658.jpg?1760514802",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351302970",
-    "title": "【ルーキーいきてますね】ゲストの料理配信",
-    "providerId": "141070890",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-02T05:56:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351302969",
-    "title": "広沢山遍照寺リモート朝勤行",
-    "providerId": "16407391",
-    "providerName": "namasuke",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-02T05:56:28.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1640/16407391.jpg?1598098344",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351302965",
-    "title": "二度寝前のごあいさつ",
-    "providerId": "144542268",
-    "providerName": "伊豆",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-02T05:56:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14454/144542268.jpg?1787277173",
     "category": "common"
   }
 ]
