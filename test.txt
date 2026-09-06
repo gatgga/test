@@ -11,26 +11,37 @@
     "category": "req"
   },
   {
-    "lvId": "lv351337426",
-    "title": "「朝の部」ニコニコ動画紹介します・音楽・コメント募集してます",
-    "providerId": "130702731",
-    "providerName": "ｐｐ（ぴっぴ）",
+    "lvId": "lv351337590",
+    "title": "げーむ",
+    "providerId": "145300908",
+    "providerName": "ゲスト",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-09-07T06:25:00.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13070/130702731.jpg?1745873368",
-    "category": "req"
+    "beginAt": "2026-09-07T06:43:14.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "live"
   },
   {
-    "lvId": "lv351337543",
-    "title": "🎵雷太とドライブしよ…🎵",
-    "providerId": "34157126",
-    "providerName": "雷太",
+    "lvId": "lv351337588",
+    "title": "まったり",
+    "providerId": "7519455",
+    "providerName": "あんこもち",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-09-07T06:22:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3415/34157126.jpg?1539447608",
-    "category": "req"
+    "beginAt": "2026-09-07T06:42:38.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/751/7519455.jpg?1456725747",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351337586",
+    "title": "[ゼンゼロ⇒原神】月爽やかな朝の週課",
+    "providerId": "37861517",
+    "providerName": "姫野紫陽花",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-07T06:42:12.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3786/37861517.jpg?1711347802",
+    "category": "live"
   },
   {
     "lvId": "lv351337585",
@@ -154,17 +165,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351337548",
-    "title": "[朝枠] モンハンワイルズ 適当に狩り [PS5]",
-    "providerId": "145288862",
-    "providerName": "墓守",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-07T06:25:01.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14528/145288862.jpg?1788165551",
-    "category": "live"
-  },
-  {
     "lvId": "lv351337578",
     "title": "記憶喪失になったからねる",
     "providerId": "66588635",
@@ -209,15 +209,15 @@
     "category": "try"
   },
   {
-    "lvId": "lv351337545",
-    "title": "絵",
-    "providerId": "889968",
-    "providerName": "ふくい",
+    "lvId": "lv351337587",
+    "title": "マンゴー佐藤のFXと雑談配信",
+    "providerId": "92872851",
+    "providerName": "マンゴー佐藤",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-09-07T06:24:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "try"
+    "beginAt": "2026-09-07T06:42:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9287/92872851.jpg?1574924503",
+    "category": "common"
   },
   {
     "lvId": "lv351337584",
@@ -492,39 +492,6 @@
     "communityName": null,
     "beginAt": "2026-09-07T06:25:38.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351337545",
-    "title": "絵",
-    "providerId": "889968",
-    "providerName": "ふくい",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-07T06:24:07.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351337544",
-    "title": "妖怪汚い人間",
-    "providerId": "55439380",
-    "providerName": "北陸のサイコチキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-07T06:23:46.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/5543/55439380.jpg?1753468525",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351337541",
-    "title": "餃子",
-    "providerId": "2518561",
-    "providerName": "餃子",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-07T06:22:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/251/2518561.jpg?1780414775",
     "category": "common"
   }
 ]
