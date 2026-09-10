@@ -44,17 +44,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351363781",
-    "title": "おはよう　上位帯のアセンダント行ったわけですが",
-    "providerId": "90765148",
-    "providerName": "にゃんしぃ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-11T08:04:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9076/90765148.jpg?1628769157",
-    "category": "live"
-  },
-  {
     "lvId": "lv351363865",
     "title": "piano♬ 　～倉本裕樹 練習粋🎵～",
     "providerId": "9139350",
@@ -64,6 +53,17 @@
     "beginAt": "2026-09-11T08:19:10.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/913/9139350.jpg?1365987965",
     "category": "try"
+  },
+  {
+    "lvId": "lv351363871",
+    "title": "私的自治(イーフト)",
+    "providerId": "145119269",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-11T08:24:35.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351363869",
@@ -272,72 +272,6 @@
     "communityName": null,
     "beginAt": "2026-09-11T08:07:47.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1121/11211512.jpg?1672510571",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351363841",
-    "title": "てててーん",
-    "providerId": "10000476",
-    "providerName": "苫月姫乃(とまつきひめの)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-11T08:07:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1000/10000476.jpg?1763732828",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351363838",
-    "title": "眠剤とグリシン決めてねるう",
-    "providerId": "142879728",
-    "providerName": "げそのこめん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-11T08:06:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14287/142879728.jpg?1783047493",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351363834",
-    "title": "コーヒー焙煎【福岡県朝倉市 23℃〜】",
-    "providerId": "3320066",
-    "providerName": "きろえもん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-11T08:05:42.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/332/3320066.jpg?1746676942",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351363837",
-    "title": "自由研究 zzz..(¦3[▓▓]",
-    "providerId": "132039767",
-    "providerName": "あほげ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-11T08:05:04.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13203/132039767.jpg?1778391415",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351363835",
-    "title": "急げ",
-    "providerId": "62300165",
-    "providerName": "さぶれ（放送用）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-11T08:04:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6230/62300165.jpg?1477261313",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351363836",
-    "title": "話を聞いてくれるAI猫",
-    "providerId": "122487880",
-    "providerName": "AIねこ放送局",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-11T08:04:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12248/122487880.jpg?1785747684",
     "category": "common"
   }
 ]
