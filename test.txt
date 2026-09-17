@@ -66,17 +66,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351409919",
-    "title": "緊急地震速報・気象情報 24時間ライブ - 地震DJJD",
-    "providerId": "125403101",
-    "providerName": "IntelliBet",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-18T04:30:13.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12540/125403101.jpg?1659593076",
-    "category": "live"
-  },
-  {
     "lvId": "lv351409937",
     "title": "良かったこの距離で",
     "providerId": "145249808",
@@ -86,6 +75,28 @@
     "beginAt": "2026-09-18T04:42:18.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv351409950",
+    "title": "ゲストの雑談配信",
+    "providerId": "140093710",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-18T04:50:04.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351409949",
+    "title": "soulの日常配信。〜ながら雑談。初見歓迎コメント歓迎",
+    "providerId": "144862672",
+    "providerName": "soul",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-18T04:48:59.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351409945",
@@ -206,39 +217,6 @@
     "communityName": null,
     "beginAt": "2026-09-18T04:35:45.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12907/129071480.jpg?1783675246",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351409913",
-    "title": "早朝作業",
-    "providerId": "91367470",
-    "providerName": "無名",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-18T04:30:29.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9136/91367470.jpg?1580151181",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351409918",
-    "title": "おきた",
-    "providerId": "132139464",
-    "providerName": "マンタ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-18T04:29:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13213/132139464.jpg?1729257801",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351409917",
-    "title": "頭痛治った！",
-    "providerId": "46159163",
-    "providerName": "アラジン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-18T04:29:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4615/46159163.jpg?1429992253",
     "category": "common"
   }
 ]
