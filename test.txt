@@ -33,17 +33,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351446382",
-    "title": "カプコンアーケードスタジアム",
-    "providerId": "24687786",
-    "providerName": "Dmax4832",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-23T03:33:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2468/24687786.jpg?1432041520",
-    "category": "live"
-  },
-  {
     "lvId": "lv351446415",
     "title": "らくがき帳",
     "providerId": "15828144",
@@ -64,6 +53,28 @@
     "beginAt": "2026-09-23T03:36:32.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1904/19046305.jpg?1627066406",
     "category": "try"
+  },
+  {
+    "lvId": "lv351446424",
+    "title": "ぽむのラジオ配信",
+    "providerId": "121979569",
+    "providerName": "ぽむ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-23T03:51:58.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12197/121979569.jpg?1790096488",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351446423",
+    "title": "飲みながら雑談(チャット枠",
+    "providerId": "11560472",
+    "providerName": "ひろゆう",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-23T03:51:26.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351446420",
@@ -250,28 +261,6 @@
     "communityName": null,
     "beginAt": "2026-09-23T03:35:15.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12966/129668940.jpg?1717473243",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351446395",
-    "title": "飲みながら雑談(チャット枠",
-    "providerId": "11560472",
-    "providerName": "ひろゆう",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-23T03:34:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351446393",
-    "title": "お前ら起きろよ",
-    "providerId": "138963959",
-    "providerName": "たくましく眠れ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-23T03:34:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13896/138963959.jpg?1775623887",
     "category": "common"
   }
 ]
