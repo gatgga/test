@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351461678",
+    "title": "エーペックス",
+    "providerId": "16425155",
+    "providerName": "あずあいり",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-25T11:32:22.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1642/16425155.jpg?1789822587",
+    "category": "live"
+  },
+  {
     "lvId": "lv351461671",
     "title": "【Valheim】まったり最初から#3",
     "providerId": "94022240",
@@ -88,17 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351461614",
-    "title": "ゲームするyo！　画録だめ！【ランイベ参加中～!】",
-    "providerId": "137752910",
-    "providerName": "個人vtuber福楽ちょこ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-25T11:14:02.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13775/137752910.jpg?1758695999",
-    "category": "live"
-  },
-  {
     "lvId": "lv351461654",
     "title": "【ベース雑談】指板覚えようCkey4",
     "providerId": "20510970",
@@ -132,15 +132,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv351461616",
-    "title": "k",
-    "providerId": "121136963",
-    "providerName": "ももかわちなつ",
+    "lvId": "lv351461680",
+    "title": "壊れかけのラヂヲ〜サッカー実況リミックス専用放送",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-09-25T11:13:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12113/121136963.jpg?1769060462",
-    "category": "try"
+    "beginAt": "2026-09-25T11:32:52.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351461677",
+    "title": "気合いで帰る",
+    "providerId": "142283058",
+    "providerName": "もやっち",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-09-25T11:32:09.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14228/142283058.jpg?1774978853",
+    "category": "common"
   },
   {
     "lvId": "lv351461674",
@@ -415,61 +426,6 @@
     "communityName": null,
     "beginAt": "2026-09-25T11:17:44.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11904/119042619.jpg?1750634104",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351461622",
-    "title": "じじい猫達いっぬ見守り(｀･ω･´)ゞねこさむらい、風呂入って寝ます(-_-)zzz",
-    "providerId": "35400727",
-    "providerName": "馬場龍之介とゆかいな仲間たち",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-25T11:15:30.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3540/35400727.jpg?1554866620",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351461619",
-    "title": "名無し(本物)の麻雀一番街",
-    "providerId": "98093811",
-    "providerName": "名無し(本物)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-25T11:14:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351461616",
-    "title": "k",
-    "providerId": "121136963",
-    "providerName": "ももかわちなつ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-25T11:13:34.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12113/121136963.jpg?1769060462",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351461617",
-    "title": "合成遊戯(イーフト)",
-    "providerId": "145119269",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-25T11:13:32.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351461615",
-    "title": "お腹すいた",
-    "providerId": "145362017",
-    "providerName": "ベルガモット",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-09-25T11:13:27.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
