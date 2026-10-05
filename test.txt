@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351538351",
+    "title": "USC JAPARIPARK制作",
+    "providerId": "10832976",
+    "providerName": "蒼天",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:31:23.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1083/10832976.jpg?1543353349",
+    "category": "live"
+  },
+  {
     "lvId": "lv351538338",
     "title": "MinecraftのATM10のプレイ日記作成用録画配信",
     "providerId": "1976205",
@@ -41,6 +52,28 @@
     "communityName": null,
     "beginAt": "2026-10-06T08:30:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/94/942000.jpg?1765487442",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351538353",
+    "title": "界隈束帳簿(ソシャゲデイリー消化)",
+    "providerId": "32706180",
+    "providerName": "仇吉",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:29:54.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/3270/32706180.jpg?1707919528",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351538330",
+    "title": "適当",
+    "providerId": "20467318",
+    "providerName": "otone",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:29:51.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2046/20467318.jpg?1347531427",
     "category": "live"
   },
   {
@@ -132,17 +165,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351538310",
-    "title": "【朝活スト6】ゾンビがマスター目指す【シルバー☆5】",
-    "providerId": "1735544",
-    "providerName": "骸もふ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T08:13:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/173/1735544.jpg?1787299477",
-    "category": "live"
-  },
-  {
     "lvId": "lv351538346",
     "title": "退屈してぼーっとしている",
     "providerId": "144952784",
@@ -165,15 +187,70 @@
     "category": "try"
   },
   {
-    "lvId": "lv351538311",
-    "title": "原稿作業(キャラ下書き＆ペン入れ",
-    "providerId": "772538",
-    "providerName": "七十七（なずな）凛",
+    "lvId": "lv351538354",
+    "title": "放置配信",
+    "providerId": "80421645",
+    "providerName": "akimo",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-06T08:12:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/77/772538.jpg?1777692362",
-    "category": "try"
+    "beginAt": "2026-10-06T08:30:03.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/8042/80421645.jpg?1630035478",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351538352",
+    "title": "スペランカー",
+    "providerId": "145250485",
+    "providerName": "ミスターゲスっ子",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:30:01.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351538317",
+    "title": "猫たれ流し（飼い主不在？）",
+    "providerId": "510450",
+    "providerName": "Natsume_Cat",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:30:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/51/510450.jpg?1478699755",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351537438",
+    "title": "【#フクロモモンガ】2026/10/06 朝配信後の様子・午前の部：夜行性フクモモは昼間に起きることあるのか？【ポーチ観察】【#作業用bgm】",
+    "providerId": "324109",
+    "providerName": "ゲレの工房",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:30:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/32/324109.jpg?1654338075",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351500843",
+    "title": "青春ブタ野郎はおでかけシスターの夢を見ない 皆で観る",
+    "providerId": "17283539",
+    "providerName": "神猫",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:30:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1728/17283539.jpg?1325993514",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351538350",
+    "title": ".",
+    "providerId": "63498322",
+    "providerName": "タチミ。",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T08:29:15.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6349/63498322.jpg?1658844798",
+    "category": "common"
   },
   {
     "lvId": "lv351538344",
@@ -352,17 +429,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351538321",
-    "title": "おはよう 一服 手巻きタバコを吸う🚬",
-    "providerId": "145170117",
-    "providerName": "あきくん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T08:16:38.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14517/145170117.jpg?1790951092",
-    "category": "common"
-  },
-  {
     "lvId": "lv351538320",
     "title": "【10月18日 たわけっと参加】グダっとまったりお絵描き",
     "providerId": "1807690",
@@ -426,39 +492,6 @@
     "communityName": null,
     "beginAt": "2026-10-06T08:14:20.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2925/29256993.jpg?1612732477",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351538311",
-    "title": "原稿作業(キャラ下書き＆ペン入れ",
-    "providerId": "772538",
-    "providerName": "七十七（なずな）凛",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T08:12:54.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/77/772538.jpg?1777692362",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351538309",
-    "title": "おはよう配信",
-    "providerId": "25437434",
-    "providerName": "sue（スー）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T08:11:47.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2543/25437434.jpg?1727842300",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351538307",
-    "title": "おはよ",
-    "providerId": "62300165",
-    "providerName": "さぶれ（放送用）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T08:10:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/6230/62300165.jpg?1477261313",
     "category": "common"
   }
 ]
