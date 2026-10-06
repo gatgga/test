@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351539199",
+    "title": "映画観る",
+    "providerId": "21366500",
+    "providerName": "ぶろっさむ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T13:11:27.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/2136/21366500.jpg?1736579127",
+    "category": "req"
+  },
+  {
     "lvId": "lv351539187",
     "title": "DMM・アプリ系を遊ぶ枠【DMM版 GジェネET・ネタバレあり・Wから？・わんコメ9.1.2テスト（ガチャで心折れそう・・・）】3,083枠目",
     "providerId": "7812632",
@@ -132,26 +143,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv351539140",
-    "title": "【パチスロ雑談】　マギアレコード",
-    "providerId": "15292459",
-    "providerName": "ウィード総大将",
+    "lvId": "lv351539201",
+    "title": "風邪引いたことある？",
+    "providerId": "144440201",
+    "providerName": "やっぴー",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-06T12:54:45.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1529/15292459.jpg?1751896553",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351539137",
-    "title": "コンビニ２",
-    "providerId": "145428424",
-    "providerName": "AAB",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T12:52:55.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "live"
+    "beginAt": "2026-10-06T13:13:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14444/144440201.jpg?1787987369",
+    "category": "try"
   },
   {
     "lvId": "lv351539175",
@@ -162,17 +162,6 @@
     "communityName": null,
     "beginAt": "2026-10-06T13:07:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14280/142803899.jpg?1768959008",
-    "category": "try"
-  },
-  {
-    "lvId": "lv351539182",
-    "title": "風邪引いたことある？",
-    "providerId": "144440201",
-    "providerName": "やっぴー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T13:05:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14444/144440201.jpg?1787987369",
     "category": "try"
   },
   {
@@ -209,15 +198,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv351539142",
-    "title": "おえかき～ショートムービーは集中力を下げる～",
-    "providerId": "44093703",
-    "providerName": "ダスター",
+    "lvId": "lv351539201",
+    "title": "風邪引いたことある？",
+    "providerId": "144440201",
+    "providerName": "やっぴー",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-06T12:54:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4409/44093703.jpg?1725512764",
-    "category": "try"
+    "beginAt": "2026-10-06T13:13:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14444/144440201.jpg?1787987369",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351539171",
+    "title": "ジュピタークイーン２　設定５　延長枠　ST機部門　爆裂機王【終わってないのでオートで回してません】",
+    "providerId": "12675780",
+    "providerName": "爆竹",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-06T13:12:47.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1267/12675780.jpg?1588235636",
+    "category": "common"
   },
   {
     "lvId": "lv351539198",
@@ -327,17 +327,6 @@
     "communityName": null,
     "beginAt": "2026-10-06T13:06:00.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4120/41205082.jpg?1791195773",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351539182",
-    "title": "風邪引いたことある？",
-    "providerId": "144440201",
-    "providerName": "やっぴー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T13:05:05.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14444/144440201.jpg?1787987369",
     "category": "common"
   },
   {
@@ -525,50 +514,6 @@
     "communityName": null,
     "beginAt": "2026-10-06T12:55:44.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351539106",
-    "title": "૮ ܸ.  ̫ .ܸ ა",
-    "providerId": "49567172",
-    "providerName": "ねこぴ૮ .  ̫ .｡ა",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T12:54:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4956/49567172.jpg?1776154567",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351539142",
-    "title": "おえかき～ショートムービーは集中力を下げる～",
-    "providerId": "44093703",
-    "providerName": "ダスター",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T12:54:50.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/4409/44093703.jpg?1725512764",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351539139",
-    "title": "【ルーキー】メグさん、キッチンから",
-    "providerId": "145322859",
-    "providerName": "メグさん61",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T12:53:25.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14532/145322859.jpg?1788578895",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351539138",
-    "title": "札幌　イケオジ",
-    "providerId": "13269126",
-    "providerName": "さかなちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-06T12:52:56.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1326/13269126.jpg?1738464291",
     "category": "common"
   }
 ]
