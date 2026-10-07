@@ -121,17 +121,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351550432",
-    "title": "バイオ4を遊ぶ！！！",
-    "providerId": "2390449",
-    "providerName": "グロリ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-08T05:03:57.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/239/2390449.jpg?1722846947",
-    "category": "live"
-  },
-  {
     "lvId": "lv351550453",
     "title": "うた練",
     "providerId": "134125659",
@@ -141,6 +130,17 @@
     "beginAt": "2026-10-08T05:06:52.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv351550482",
+    "title": "おはようございます！",
+    "providerId": "119196690",
+    "providerName": "つるぴかちゃん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-08T05:22:31.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/11919/119196690.jpg?1704358030",
+    "category": "common"
   },
   {
     "lvId": "lv351550480",
@@ -382,39 +382,6 @@
     "communityName": null,
     "beginAt": "2026-10-08T05:04:48.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/326/3269987.jpg?1678132605",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351550444",
-    "title": "壊れかけのラヂヲ〜蹴球実況リミックス専用放送",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-08T05:03:14.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351550443",
-    "title": "出前館イベ  生活音垂れ流し配信(⋈◍＞◡＜◍)",
-    "providerId": "128186057",
-    "providerName": "うんてんちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-08T05:02:51.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12818/128186057.jpg?1788459351",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351550442",
-    "title": "ブルマっていいよね",
-    "providerId": "145127345",
-    "providerName": "はる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-08T05:02:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
