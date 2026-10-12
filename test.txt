@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351585551",
+    "title": "緊急地震速報・気象情報 24時間ライブ - 地震DJJD",
+    "providerId": "125403101",
+    "providerName": "IntelliBet",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-13T03:15:13.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12540/125403101.jpg?1659593076",
+    "category": "live"
+  },
+  {
     "lvId": "lv351585533",
     "title": "S.T.A.L.K.E.R.2ですね",
     "providerId": "49263473",
@@ -88,28 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351585510",
-    "title": "ナルトモバイル",
-    "providerId": "142568401",
-    "providerName": "くるみ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-13T02:57:26.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14256/142568401.jpg?1765741888",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351585503",
-    "title": "タクティカルコマンダーのダビスタ２金策一撃32億取るも横領事務員に👩‍💼😭",
-    "providerId": "90076418",
-    "providerName": "タクティカルコマンダー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-13T02:55:40.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/9007/90076418.jpg?1646546945",
-    "category": "live"
-  },
-  {
     "lvId": "lv351585540",
     "title": "サイモン・フィリップスとニック・メンザのドラムが好き。",
     "providerId": "138409256",
@@ -119,6 +108,17 @@
     "beginAt": "2026-10-13T03:12:25.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/13840/138409256.jpg?1778005445",
     "category": "try"
+  },
+  {
+    "lvId": "lv351585552",
+    "title": "はいたつぎよう",
+    "providerId": "17138874",
+    "providerName": "プーハー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-13T03:17:06.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/1713/17138874.jpg?1775111194",
+    "category": "common"
   },
   {
     "lvId": "lv351585550",
@@ -349,61 +349,6 @@
     "communityName": null,
     "beginAt": "2026-10-13T02:59:19.000Z",
     "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14558/145585752.jpg?1791560647",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351585505",
-    "title": "やっぱり☺生、",
-    "providerId": "145595295",
-    "providerName": "GU",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-13T02:58:18.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14559/145595295.jpg?1791301901",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351585509",
-    "title": "自己肯定感あげたい",
-    "providerId": "139424877",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-13T02:57:12.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351585506",
-    "title": "すっぴん、頭痛くて眠れない",
-    "providerId": "143491399",
-    "providerName": "ねね",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-13T02:57:06.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14349/143491399.jpg?1779979674",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351585507",
-    "title": "おきたる",
-    "providerId": "125274813",
-    "providerName": "グレコ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-13T02:56:43.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/12527/125274813.jpg?1786405095",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351585501",
-    "title": "スナック「ぢ」開店",
-    "providerId": "142531703",
-    "providerName": "タナトス",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-13T02:55:53.000Z",
-    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/14253/142531703.jpg?1783091665",
     "category": "common"
   }
 ]
