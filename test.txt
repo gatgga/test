@@ -11,15 +11,26 @@
     "category": "req"
   },
   {
-    "lvId": "lv351592037",
-    "title": "ニコ動の色々な動画配信してみた【リク歓迎】",
-    "providerId": "144017123",
-    "providerName": "モフモフ毛布",
+    "lvId": "lv351592056",
+    "title": "死んだら即終了！出勤前の一撃アイワナチャレンジ2682日目（go down to編）",
+    "providerId": "10422883",
+    "providerName": "このみ(兄)",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-14T05:42:25.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14401/144017123.jpg?1777464542",
-    "category": "req"
+    "beginAt": "2026-10-14T06:00:10.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1042/10422883.jpg?1372699985",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351592078",
+    "title": "【艦これ：完全無課金】まったり朝枠～デイリー時々東方ろ号、ところによりガバ～【母港100で楽しむ艦これ放送】",
+    "providerId": "5652388",
+    "providerName": "高崎",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-14T05:59:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/565/5652388.jpg?1773868448",
+    "category": "live"
   },
   {
     "lvId": "lv351592077",
@@ -77,28 +88,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351592040",
-    "title": "久しぶりのシャドバが楽しすぎる件について",
-    "providerId": "131884455",
-    "providerName": "ソラシド",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-14T05:43:20.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13188/131884455.jpg?1705420966",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351592039",
-    "title": "FE万紫千紅　ハードクラシックノーリセ　セオドラ編　1章～",
-    "providerId": "1772281",
-    "providerName": "二ヶ月",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-14T05:42:46.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/177/1772281.jpg?1477753437",
-    "category": "live"
-  },
-  {
     "lvId": "lv351592049",
     "title": "無音makiの料理調理風景",
     "providerId": "19061599",
@@ -110,15 +99,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv351592038",
-    "title": "【マイクあり】描いてます【第1053回】",
-    "providerId": "5590740",
-    "providerName": "秋曾＠SiиO",
+    "lvId": "lv351592084",
+    "title": "島暮らし",
+    "providerId": "134913748",
+    "providerName": "こじろう",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-14T05:43:13.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/559/5590740.jpg?1708866297",
-    "category": "try"
+    "beginAt": "2026-10-14T06:01:15.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13491/134913748.jpg?1724108691",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351592082",
+    "title": "にんにんのstudy配信",
+    "providerId": "15412541",
+    "providerName": "にんにん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-14T06:01:09.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351592080",
@@ -415,39 +415,6 @@
     "communityName": null,
     "beginAt": "2026-10-14T05:45:20.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351592038",
-    "title": "【マイクあり】描いてます【第1053回】",
-    "providerId": "5590740",
-    "providerName": "秋曾＠SiиO",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-14T05:43:13.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/559/5590740.jpg?1708866297",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351592036",
-    "title": "おはよー",
-    "providerId": "144763385",
-    "providerName": "わか",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-14T05:40:34.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14476/144763385.jpg?1785603967",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351592035",
-    "title": "いろいろ",
-    "providerId": "61861633",
-    "providerName": "おいも",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-14T05:40:23.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6186/61861633.jpg?1789326681",
     "category": "common"
   }
 ]
