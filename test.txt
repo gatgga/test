@@ -66,17 +66,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351598274",
-    "title": "LiveBroadcast",
-    "providerId": "88769938",
-    "providerName": "兄貴",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-15T04:07:24.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv351598303",
     "title": "無言作業",
     "providerId": "145171732",
@@ -108,6 +97,17 @@
     "beginAt": "2026-10-15T04:13:44.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6968/69680853.jpg?1716617158",
     "category": "try"
+  },
+  {
+    "lvId": "lv351598309",
+    "title": "朝",
+    "providerId": "64127042",
+    "providerName": "GUEST",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-15T04:28:57.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351598305",
@@ -261,28 +261,6 @@
     "communityName": null,
     "beginAt": "2026-10-15T04:13:36.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14021/140215665.jpg?1791709296",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351598279",
-    "title": "ぱきからなうー！",
-    "providerId": "134193895",
-    "providerName": "Guest",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-15T04:09:51.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13419/134193895.jpg?1724745980",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351598278",
-    "title": "15日PayPayって言ってた人おねがいします",
-    "providerId": "144765955",
-    "providerName": "ムメクラネル",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-15T04:09:39.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14476/144765955.jpg?1791730982",
     "category": "common"
   }
 ]
