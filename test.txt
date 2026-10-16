@@ -11,17 +11,6 @@
     "category": "req"
   },
   {
-    "lvId": "lv351611423",
-    "title": "【初配信】ありんこ",
-    "providerId": "145603482",
-    "providerName": "ジャポ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-17T05:47:02.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "req"
-  },
-  {
     "lvId": "lv351611441",
     "title": "磯",
     "providerId": "22515225",
@@ -99,15 +88,59 @@
     "category": "live"
   },
   {
-    "lvId": "lv351611417",
-    "title": "スーパーロボット大戦Z　投稿イラストはさらにすごい",
-    "providerId": "134030931",
-    "providerName": "ドラゴンのスーさん",
+    "lvId": "lv351611446",
+    "title": "さわべの隠居生活　タバコ巻く",
+    "providerId": "90650028",
+    "providerName": "さわべ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-17T05:45:13.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13403/134030931.jpg?1770397607",
-    "category": "live"
+    "beginAt": "2026-10-17T06:04:42.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9065/90650028.jpg?1621073216",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351611445",
+    "title": "意味の",
+    "providerId": "39532023",
+    "providerName": "ましっそ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-17T06:03:16.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3953/39532023.jpg?1791745775",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351611444",
+    "title": "壊れかけのラヂヲ〜蹴球実況リミックス専用放送",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-17T06:03:08.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351611443",
+    "title": "尾崎豊2の雑談配信",
+    "providerId": "140934373",
+    "providerName": "尾崎豊2",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-17T06:03:08.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14093/140934373.jpg?1786462436",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351611442",
+    "title": "ともたろうZ　おはようございます！大勝利",
+    "providerId": "145235371",
+    "providerName": "ともたろうZ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-17T06:03:04.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14523/145235371.jpg?1788591993",
+    "category": "common"
   },
   {
     "lvId": "lv351611440",
@@ -217,61 +250,6 @@
     "communityName": null,
     "beginAt": "2026-10-17T05:50:52.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9816/98161013.jpg?1790003417",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351611420",
-    "title": "はじめまして🐱 ニコ生新参です😊",
-    "providerId": "124972558",
-    "providerName": "marisa",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-17T05:45:15.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351611419",
-    "title": "a",
-    "providerId": "143025858",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-17T05:45:06.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351611416",
-    "title": "今週は土曜日も休みだひゃっほーい( ･ิω･ิ)",
-    "providerId": "140076941",
-    "providerName": "はっさんちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-17T05:44:24.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14007/140076941.jpg?1787471964",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351611415",
-    "title": "のんびり15分",
-    "providerId": "12320348",
-    "providerName": "シン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-17T05:44:20.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351611413",
-    "title": "【テスト配信】大阪舞洲ジムカーナ in 泉大津フェニックス【練習走行枠】",
-    "providerId": "9330136",
-    "providerName": "ちべっと",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-17T05:43:37.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
