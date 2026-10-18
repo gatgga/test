@@ -66,17 +66,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351625989",
-    "title": "FF-5(PS1)を生配信！夜中なので無言で配信！無言！！",
-    "providerId": "80421098",
-    "providerName": "大山☆喜三郎（大魔王軍）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-19T04:12:29.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/8042/80421098.jpg?1605823251",
-    "category": "live"
-  },
-  {
     "lvId": "lv351625990",
     "title": "気まぐれDJ配信",
     "providerId": "13280455",
@@ -86,6 +75,17 @@
     "beginAt": "2026-10-19T04:15:55.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1328/13280455.jpg?1611000998",
     "category": "try"
+  },
+  {
+    "lvId": "lv351626022",
+    "title": "ゲストの雑談配信",
+    "providerId": "141512480",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-19T04:30:08.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351626020",
@@ -305,28 +305,6 @@
     "communityName": null,
     "beginAt": "2026-10-19T04:15:24.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11813/118138381.jpg?1778101510",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351625988",
-    "title": "寝れね〜",
-    "providerId": "145339354",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-19T04:13:05.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351625987",
-    "title": "NEWマシーン🚗🐸   コメント無きゃ終了   (๐_๐)   車載メイン枠   やさぐれ雑談",
-    "providerId": "129387382",
-    "providerName": "テッシン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-19T04:12:27.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12938/129387382.jpg?1685480774",
     "category": "common"
   }
 ]
