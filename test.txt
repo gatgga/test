@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351645791",
+    "title": "一般30分枠",
+    "providerId": "3414787",
+    "providerName": "金のたまごかけごはん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-22T13:39:58.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/341/3414787.jpg?1739073787",
+    "category": "live"
+  },
+  {
     "lvId": "lv351645790",
     "title": "ファイヤーエンブレム　紋章",
     "providerId": "145727945",
@@ -121,50 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351645742",
-    "title": "The Witness Randomizer #220 【#Vtuber】ゲームプレイ",
-    "providerId": "46347361",
-    "providerName": "鹿苑寺タワー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-22T13:22:07.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/4634/46347361.jpg?1633536526",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351645731",
-    "title": "ウマ娘初心者のチャンミ　グレードリーグA ラウンド2",
-    "providerId": "5222751",
-    "providerName": "へるんが",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-22T13:21:12.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351645738",
-    "title": "噂の車の運転教えるゲームｗ",
-    "providerId": "141115783",
-    "providerName": "みらん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-22T13:20:40.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14111/141115783.jpg?1792307010",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351645737",
-    "title": "2026年10月22日23:59までにクリアする【ドラゴンボール 神龍の謎】",
-    "providerId": "134043274",
-    "providerName": "牛頭鬼阿坊",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-22T13:20:25.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13404/134043274.jpg?1727100620",
-    "category": "live"
-  },
-  {
     "lvId": "lv351645782",
     "title": "。",
     "providerId": "7465991",
@@ -240,6 +207,61 @@
     "beginAt": "2026-10-22T13:23:19.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/38/387044.jpg?1770210219",
     "category": "try"
+  },
+  {
+    "lvId": "lv351645795",
+    "title": "【さぼり防止枠】VGGCの原稿やるぞ！",
+    "providerId": "5845460",
+    "providerName": "noncom",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-22T13:41:37.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/584/5845460.jpg?1673692408",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351645797",
+    "title": "ｇジェネｎｅｏ　別ルート",
+    "providerId": "48978569",
+    "providerName": "損切2",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-22T13:41:17.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351645793",
+    "title": "なんとなく",
+    "providerId": "140500609",
+    "providerName": "あとむたん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-22T13:40:56.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351645794",
+    "title": "【今日の議題】@mediaどこにかく？",
+    "providerId": "63548838",
+    "providerName": "おら、うーたん。",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-22T13:39:37.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6354/63548838.jpg?1703570873",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351645792",
+    "title": "令和８年熊本地震【30分(無収益)一般】動画 実況《Vチューバ・CAPTURE・Sound》Halloween　野球　MLB.Wシリーズ　リトルなでしこ　PHP　2026",
+    "providerId": "143643549",
+    "providerName": "えいちうるふウマヒヒヒン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-22T13:38:20.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14364/143643549.jpg?1788246175",
+    "category": "common"
   },
   {
     "lvId": "lv351645788",
@@ -547,39 +569,6 @@
     "communityName": null,
     "beginAt": "2026-10-22T13:23:19.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/38/387044.jpg?1770210219",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351645740",
-    "title": "尾崎豊2の雑談配信",
-    "providerId": "140934373",
-    "providerName": "尾崎豊2",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-22T13:21:23.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14093/140934373.jpg?1786462436",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351645736",
-    "title": "現実逃避",
-    "providerId": "137821782",
-    "providerName": "ぜんか",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-22T13:20:23.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13782/137821782.jpg?1777716588",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351645734",
-    "title": "無題",
-    "providerId": "30880625",
-    "providerName": "てすと",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-22T13:19:29.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3088/30880625.jpg?1765181026",
     "category": "common"
   }
 ]
