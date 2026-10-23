@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351657696",
+    "title": "ゆっくり雑談",
+    "providerId": "131099473",
+    "providerName": "ラ―タ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-24T05:19:27.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13109/131099473.jpg?1792767870",
+    "category": "live"
+  },
+  {
     "lvId": "lv351657692",
     "title": "エルデンリングするあかり  ネタバレあり",
     "providerId": "86308364",
@@ -132,26 +143,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv351657658",
-    "title": "目が覚めた",
-    "providerId": "145727376",
-    "providerName": "ノロップ",
+    "lvId": "lv351657700",
+    "title": "無言作業",
+    "providerId": "145171732",
+    "providerName": "ぴたろう",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-24T05:03:07.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14572/145727376.jpg?1792547595",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351657653",
-    "title": "今日もチュートリアル",
-    "providerId": "15933231",
-    "providerName": "暗黒マスター",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-24T05:01:42.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1593/15933231.jpg?1722841736",
-    "category": "live"
+    "beginAt": "2026-10-24T05:21:56.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "try"
   },
   {
     "lvId": "lv351657679",
@@ -165,15 +165,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv351657654",
-    "title": "【雑談】あっきーのおじゃまされます！(`･ω･´)キリッ  #VTuber",
-    "providerId": "3412109",
-    "providerName": "あっきー",
+    "lvId": "lv351657700",
+    "title": "無言作業",
+    "providerId": "145171732",
+    "providerName": "ぴたろう",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-24T05:01:47.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/341/3412109.jpg?1792278272",
-    "category": "try"
+    "beginAt": "2026-10-24T05:21:56.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351657699",
+    "title": "hiphop",
+    "providerId": "12294930",
+    "providerName": "江戸ラッシュ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-24T05:21:44.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1229/12294930.jpg?1783282253",
+    "category": "common"
   },
   {
     "lvId": "lv351657697",
@@ -415,50 +426,6 @@
     "communityName": null,
     "beginAt": "2026-10-24T05:04:29.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351657660",
-    "title": "ようこそモテないクラブへ   ~弱者男性の集い~",
-    "providerId": "124645999",
-    "providerName": "まる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-24T05:04:18.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12464/124645999.jpg?1768493212",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351657657",
-    "title": "。",
-    "providerId": "143129487",
-    "providerName": "へんみ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-24T05:02:43.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14312/143129487.jpg?1770162929",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351657650",
-    "title": "大公式過疎放送 『早く起きた過疎は・・・』",
-    "providerId": "550993",
-    "providerName": "〇山×男",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-24T05:02:00.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/55/550993.jpg?1769328215",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351657654",
-    "title": "【雑談】あっきーのおじゃまされます！(`･ω･´)キリッ  #VTuber",
-    "providerId": "3412109",
-    "providerName": "あっきー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-24T05:01:47.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/341/3412109.jpg?1792278272",
     "category": "common"
   }
 ]
