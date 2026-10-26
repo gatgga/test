@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351673250",
+    "title": "【6942回目】鉄道動画放送局",
+    "providerId": "2076243",
+    "providerName": "soudayo2525",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-26T10:12:06.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/207/2076243.jpg?1668075910",
+    "category": "req"
+  },
+  {
     "lvId": "lv351673241",
     "title": "TreeofSavior　ダイエット中です・・・辛いどぇです・・・　貯金！貯金！貯金！貯金！貯金ﾝーｯ！！(リアル貯金フェーズ)　目標100万円(`･ω･´)",
     "providerId": "145764695",
@@ -63,17 +74,6 @@
     "communityName": null,
     "beginAt": "2026-10-26T10:03:40.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1091/10912513.jpg?1623044855",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351673221",
-    "title": "シャドウバース　グランプリ決勝",
-    "providerId": "1205618",
-    "providerName": "田中",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-26T10:01:11.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/120/1205618.jpg?1656684114",
     "category": "live"
   },
   {
@@ -176,28 +176,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351673177",
-    "title": "フォールアウトNVをやる！",
-    "providerId": "2390449",
-    "providerName": "グロリ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-26T09:54:38.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/239/2390449.jpg?1722851795",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351673204",
-    "title": "原神とインフレイルとゼンゼロと鳴潮とEFとNTEとFFレゾナンスとか",
-    "providerId": "7634600",
-    "providerName": "ドンチャン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-26T09:54:25.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/763/7634600.jpg?1682028392",
-    "category": "live"
-  },
-  {
     "lvId": "lv351673249",
     "title": "(Ｔｏｆ)ノ禅師",
     "providerId": "141209633",
@@ -251,6 +229,17 @@
     "beginAt": "2026-10-26T09:55:28.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9170/91702296.jpg?1639720697",
     "category": "try"
+  },
+  {
+    "lvId": "lv351673251",
+    "title": "涼風館～ストラガーデンの話でもしようかなと！～",
+    "providerId": "18567792",
+    "providerName": "涼風　奈桜",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-26T10:13:17.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1856/18567792.jpg?1609632798",
+    "category": "common"
   },
   {
     "lvId": "lv351673248",
@@ -514,50 +503,6 @@
     "communityName": null,
     "beginAt": "2026-10-26T09:55:28.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9170/91702296.jpg?1639720697",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351673210",
-    "title": "リラックス 作業 集中 睡眠 まったり 🌿",
-    "providerId": "129668940",
-    "providerName": "neo-RX",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-26T09:55:10.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12966/129668940.jpg?1717473729",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351673206",
-    "title": "尾崎豊2の雑談配信",
-    "providerId": "140934373",
-    "providerName": "尾崎豊2",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-26T09:54:17.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14093/140934373.jpg?1786462436",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351673186",
-    "title": "無言でgogh流して裏で作業してる５",
-    "providerId": "140385451",
-    "providerName": "大森まと",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-26T09:54:12.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14038/140385451.jpg?1756811209",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351673197",
-    "title": "【自転車 】ペダルクエストってアプリ、おもしろそうですよ　静かな道をサイクリング【外配信】",
-    "providerId": "115758564",
-    "providerName": "J    -",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-26T09:52:27.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11575/115758564.jpg?1653135483",
     "category": "common"
   }
 ]
