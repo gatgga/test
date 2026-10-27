@@ -22,6 +22,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351679986",
+    "title": "わくわくぷよぷよダンジョン決定盤",
+    "providerId": "44066280",
+    "providerName": "バニ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-27T12:16:13.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/4406/44066280.jpg?1672477338",
+    "category": "live"
+  },
+  {
     "lvId": "lv351679976",
     "title": "MinecraftのATM10のプレイ日記作成用録画配信",
     "providerId": "1976205",
@@ -242,28 +253,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351679906",
-    "title": "【スト6】命　の　き　ら　め　き【第285回】",
-    "providerId": "459621",
-    "providerName": "ハングリーガイ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-27T11:57:44.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/45/459621.jpg?1770008554",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351679929",
-    "title": "剣と魔法と学園モノ１　第05回",
-    "providerId": "134017720",
-    "providerName": "あけほし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-27T11:55:58.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv351679982",
     "title": "無言作業",
     "providerId": "145171732",
@@ -286,15 +275,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv351679930",
-    "title": "超汚部屋のギター弾きの配信",
-    "providerId": "2072983",
-    "providerName": "グレッチ兄さん",
+    "lvId": "lv351679988",
+    "title": "お昼休憩",
+    "providerId": "61674574",
+    "providerName": "ゆうちゃん",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-10-27T11:56:41.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/207/2072983.jpg?1792486987",
-    "category": "try"
+    "beginAt": "2026-10-27T12:16:32.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6167/61674574.jpg?1792738912",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351679985",
+    "title": "マイクロソフトが6万人の退職",
+    "providerId": "78493134",
+    "providerName": "はるのすけ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-10-27T12:15:35.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/7849/78493134.jpg?1649156648",
+    "category": "common"
   },
   {
     "lvId": "lv351679983",
@@ -723,39 +723,6 @@
     "communityName": null,
     "beginAt": "2026-10-27T11:59:03.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13627/136270129.jpg?1791637465",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351679931",
-    "title": "じゃあコムデギャルソンで。行きます",
-    "providerId": "142264308",
-    "providerName": "ひょっとこ(でかちんぽ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-27T11:57:26.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14226/142264308.jpg?1791507787",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351679930",
-    "title": "超汚部屋のギター弾きの配信",
-    "providerId": "2072983",
-    "providerName": "グレッチ兄さん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-27T11:56:41.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/207/2072983.jpg?1792486987",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351679928",
-    "title": "【ライブ】ハムスター部屋　　イベント中",
-    "providerId": "36944577",
-    "providerName": "ムー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-10-27T11:55:30.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3694/36944577.jpg?1766380129",
     "category": "common"
   }
 ]
