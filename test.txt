@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351745508",
+    "title": "VOCALOID周年曲 11/5",
+    "providerId": "9505752",
+    "providerName": "HiTo",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:05:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/950/9505752.jpg?1276181272",
+    "category": "req"
+  },
+  {
     "lvId": "lv351745506",
     "title": "生放送クルーズ",
     "providerId": "70969122",
@@ -8,17 +19,6 @@
     "communityName": null,
     "beginAt": "2026-11-05T12:00:07.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/7096/70969122.jpg?1548912878",
-    "category": "req"
-  },
-  {
-    "lvId": "lv351742256",
-    "title": "【毎日投稿】ムキ・ムキ・ムキへの道！！！【RFA】#1541",
-    "providerId": "17251850",
-    "providerName": "ミハル（元山田）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-05T11:50:00.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1725/17251850.jpg?1377797384",
     "category": "req"
   },
   {
@@ -33,15 +33,26 @@
     "category": "req"
   },
   {
-    "lvId": "lv351745444",
-    "title": "お昼何食べよ💩",
-    "providerId": "89554966",
-    "providerName": "ちょる",
+    "lvId": "lv351745532",
+    "title": "再動とテスト3",
+    "providerId": "130758457",
+    "providerName": "シブハラの積みゲー崩し",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-05T11:44:18.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/8955/89554966.jpg?1728054685",
-    "category": "req"
+    "beginAt": "2026-11-05T12:05:18.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13075/130758457.jpg?1783749663",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351745516",
+    "title": "2026/11/5 DEMOとか",
+    "providerId": "463402",
+    "providerName": "えすぷれそ。",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:02:02.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/46/463402.jpg?1364635891",
+    "category": "live"
   },
   {
     "lvId": "lv351745511",
@@ -396,28 +407,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351745448",
-    "title": "時オカリメイク 100%クリアするまで2",
-    "providerId": "88286271",
-    "providerName": "かえる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-05T11:46:11.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/8828/88286271.jpg?1786979193",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351745452",
-    "title": "【ルーキー】てるたかの描いてみた配信",
-    "providerId": "145801150",
-    "providerName": "てるたか",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-05T11:55:30.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14580/145801150.jpg?1793379764",
-    "category": "try"
-  },
-  {
     "lvId": "lv351745468",
     "title": "株  船木組  出動",
     "providerId": "17138874",
@@ -440,15 +429,81 @@
     "category": "try"
   },
   {
-    "lvId": "lv351745447",
-    "title": "ペルソナ１やる（エミュ）",
-    "providerId": "136649310",
-    "providerName": "(╹◡╹)",
+    "lvId": "lv351745530",
+    "title": "ラブライブシリーズの楽曲bgm",
+    "providerId": "145812579",
+    "providerName": "おだたかがき",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-05T11:45:39.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13664/136649310.jpg?1777449813",
-    "category": "try"
+    "beginAt": "2026-11-05T12:04:55.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351745525",
+    "title": "よっしーの雑談配信",
+    "providerId": "120748227",
+    "providerName": "よっしー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:04:07.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12074/120748227.jpg?1793596068",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351745523",
+    "title": "びらの雑談配信",
+    "providerId": "1067309",
+    "providerName": "びら",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:03:30.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/106/1067309.jpg?1282840549",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351745522",
+    "title": "【初配信】甘口の配信",
+    "providerId": "145820846",
+    "providerName": "甘口",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:03:28.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14582/145820846.jpg?1793596069",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351745521",
+    "title": "孤独なリーマンの車中ランチ配信@助けてえ",
+    "providerId": "16395637",
+    "providerName": "ｽｯｶｽｶ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:03:15.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1639/16395637.jpg?1484486387",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351745520",
+    "title": "昼食べて帰る、コメあんまり返せない",
+    "providerId": "145053131",
+    "providerName": "ゲスト",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:02:39.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351745518",
+    "title": "【30分ごとに枠作り直し】無職。雑談しながらフィギュアを開封",
+    "providerId": "143715606",
+    "providerName": "のなめ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-05T12:02:26.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14371/143715606.jpg?1779073232",
+    "category": "common"
   },
   {
     "lvId": "lv351745517",
@@ -671,17 +726,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351745452",
-    "title": "【ルーキー】てるたかの描いてみた配信",
-    "providerId": "145801150",
-    "providerName": "てるたか",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-05T11:55:30.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14580/145801150.jpg?1793379764",
-    "category": "common"
-  },
-  {
     "lvId": "lv351745477",
     "title": "いつものうだらじ",
     "providerId": "144542268",
@@ -701,17 +745,6 @@
     "communityName": null,
     "beginAt": "2026-11-05T11:53:02.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14082/140821258.jpg?1755057799",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351745471",
-    "title": "生活音配信",
-    "providerId": "37197665",
-    "providerName": "クラフトマン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-05T11:53:00.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3719/37197665.jpg?1475535823",
     "category": "common"
   },
   {
@@ -800,28 +833,6 @@
     "communityName": null,
     "beginAt": "2026-11-05T11:48:49.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2192/21925847.jpg?1503902761",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351745450",
-    "title": "【ルーキー】Kさんの雑談配信",
-    "providerId": "145613333",
-    "providerName": "Kさん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-05T11:46:21.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14561/145613333.jpg?1793804731",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351745447",
-    "title": "ペルソナ１やる（エミュ）",
-    "providerId": "136649310",
-    "providerName": "(╹◡╹)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-05T11:45:39.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13664/136649310.jpg?1777449813",
     "category": "common"
   }
 ]
