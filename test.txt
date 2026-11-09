@@ -11,6 +11,28 @@
     "category": "req"
   },
   {
+    "lvId": "lv351776466",
+    "title": "ウマ娘プリティーダービーを実況プレイ配信(≧▽≦)",
+    "providerId": "3453961",
+    "providerName": "TAKO(≧▽≦)",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-09T14:52:57.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/345/3453961.jpg?1766833308",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351776472",
+    "title": "その他(日課など)👉PC",
+    "providerId": "2381115",
+    "providerName": "雪ウS@",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-09T14:52:44.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/238/2381115.jpg?1688220509",
+    "category": "live"
+  },
+  {
     "lvId": "lv351776459",
     "title": "【初見】牧場物語で遊ぶ。【オリーブタウン】",
     "providerId": "11158683",
@@ -154,28 +176,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351776360",
-    "title": "【紅の砂漠 Enhanced：未知なる旅路】探索のねこ",
-    "providerId": "27755787",
-    "providerName": "御子神ゆずは",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-09T14:33:51.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2775/27755787.jpg?1626157248",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351776411",
-    "title": "RTA",
-    "providerId": "39162703",
-    "providerName": "海苔",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-09T14:32:45.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3916/39162703.jpg?1737014669",
-    "category": "live"
-  },
-  {
     "lvId": "lv351776454",
     "title": "ぼかろだったりあにめだったりｊぽｐだったり～",
     "providerId": "24774392",
@@ -209,15 +209,26 @@
     "category": "try"
   },
   {
-    "lvId": "lv351776417",
-    "title": "らくがき帳",
-    "providerId": "15828144",
-    "providerName": "RUMU・RUMU",
+    "lvId": "lv351776464",
+    "title": "【パチスロ実機枠】金ドキ 設定②ホールにあったら戦えるのか？ (自由に雑談)[実機枠61枠目]",
+    "providerId": "10808581",
+    "providerName": "～せきとば工房～",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-09T14:32:53.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1582/15828144.jpg?1350317380",
-    "category": "try"
+    "beginAt": "2026-11-09T14:52:42.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1080/10808581.jpg?1449532848",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351776470",
+    "title": "壊れかけのラヂヲ〜蹴球実況リミックス放送〖深読みちゃん〗",
+    "providerId": "10856175",
+    "providerName": "スナフキン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-09T14:52:06.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
   },
   {
     "lvId": "lv351776465",
@@ -514,50 +525,6 @@
     "communityName": null,
     "beginAt": "2026-11-09T14:34:25.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13412/134123386.jpg?1793113608",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351776418",
-    "title": "タレナ・ガーシー",
-    "providerId": "894527",
-    "providerName": "たかなし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-09T14:34:03.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/89/894527.jpg?1288793081",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351776417",
-    "title": "らくがき帳",
-    "providerId": "15828144",
-    "providerName": "RUMU・RUMU",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-09T14:32:53.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1582/15828144.jpg?1350317380",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351776416",
-    "title": "【ルーキー】おやすみの雑談配信　だらだらやる",
-    "providerId": "139768279",
-    "providerName": "おやすみ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-09T14:32:23.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13976/139768279.jpg?1793632215",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351776412",
-    "title": "？知らんけど〜♪♪＠リスナーから見るとむーたんは《アホ過ぎる》らしい",
-    "providerId": "61500716",
-    "providerName": "むーたん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-09T14:32:06.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6150/61500716.jpg?1745820132",
     "category": "common"
   }
 ]
