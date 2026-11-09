@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351781289",
+    "title": "パズドラ珊瑚チャレンジ",
+    "providerId": "24657410",
+    "providerName": "サプリ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-10T04:07:13.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2465/24657410.jpg?1519473883",
+    "category": "live"
+  },
+  {
     "lvId": "lv351781283",
     "title": "朝までだらだら30分タイム時間",
     "providerId": "13419841",
@@ -66,26 +77,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv351781263",
-    "title": "テスト",
-    "providerId": "56987338",
-    "providerName": "もんすーん",
+    "lvId": "lv351781279",
+    "title": "ふう",
+    "providerId": "116458234",
+    "providerName": "雪平モンク",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-10T03:49:22.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/5698/56987338.jpg?1753360874",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351781259",
-    "title": "イカ渡り",
-    "providerId": "5588403",
-    "providerName": "おに",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-10T03:47:43.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/558/5588403.jpg?1442256156",
-    "category": "live"
+    "beginAt": "2026-11-10T04:05:15.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11645/116458234.jpg?1785546080",
+    "category": "try"
   },
   {
     "lvId": "lv351781284",
@@ -108,6 +108,28 @@
     "beginAt": "2026-11-10T04:00:13.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1486/14861723.jpg?1787346085",
     "category": "try"
+  },
+  {
+    "lvId": "lv351781288",
+    "title": "うぇーい",
+    "providerId": "145555016",
+    "providerName": "たまこ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-10T04:06:11.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351781279",
+    "title": "ふう",
+    "providerId": "116458234",
+    "providerName": "雪平モンク",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-10T04:05:15.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11645/116458234.jpg?1785546080",
+    "category": "common"
   },
   {
     "lvId": "lv351781275",
@@ -161,7 +183,7 @@
     "communityId": null,
     "communityName": null,
     "beginAt": "2026-11-10T04:01:44.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14587/145872528.jpg?1794251114",
     "category": "common"
   },
   {
@@ -371,28 +393,6 @@
     "communityName": null,
     "beginAt": "2026-11-10T03:49:44.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6953/69531734.jpg?1565517993",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351781261",
-    "title": "生活音 誹謗中傷はご遠慮ください NGします",
-    "providerId": "72601601",
-    "providerName": "カズヤ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-10T03:48:58.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/7260/72601601.jpg?1724065730",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351781258",
-    "title": "起きたから無言で勉強する(簿記2級勉強4日目)",
-    "providerId": "145665752",
-    "providerName": "瑕疵(かし)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-10T03:48:13.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14566/145665752.jpg?1792955031",
     "category": "common"
   }
 ]
