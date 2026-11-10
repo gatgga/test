@@ -22,6 +22,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351782563",
+    "title": "LiveBroadcast",
+    "providerId": "88769938",
+    "providerName": "兄貴",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-10T12:15:03.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv351782557",
     "title": "【艦これ】クォータリー任務すすめます【島風は休憩】",
     "providerId": "2417177",
@@ -240,6 +251,17 @@
     "beginAt": "2026-11-10T12:04:42.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9571/95713165.jpg?1789686206",
     "category": "try"
+  },
+  {
+    "lvId": "lv351782564",
+    "title": "【車載】昼のドライブ30分",
+    "providerId": "119455591",
+    "providerName": "ナゾ怪人",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-10T12:15:32.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11945/119455591.jpg?1656727286",
+    "category": "common"
   },
   {
     "lvId": "lv351782451",
@@ -561,17 +583,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351782522",
-    "title": "【ルーキー】ゲストの雑談配信",
-    "providerId": "145821382",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-10T12:04:37.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
     "lvId": "lv351782519",
     "title": "カツ生",
     "providerId": "142703869",
@@ -734,39 +745,6 @@
     "communityName": null,
     "beginAt": "2026-11-10T11:59:55.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351782488",
-    "title": "主は居ませんが移動中にどうぞ　　【無料ギフト•広告歓迎】",
-    "providerId": "85241035",
-    "providerName": "ゲスト　ああ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-10T11:57:36.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351782480",
-    "title": "秋の散歩　ゲリラ配信　Kuru’z☆Impactアンケート開催中！　【10th☆Anniversary】",
-    "providerId": "26444969",
-    "providerName": "クル@ジャック",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-10T11:57:14.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2644/26444969.jpg?1538938901",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351782483",
-    "title": "上位ＡＴなう　スマスロやじきた道中記参る！　設定6",
-    "providerId": "11917591",
-    "providerName": "みなみ（家スロッターS）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-10T11:56:25.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1191/11917591.jpg?1757800859",
     "category": "common"
   }
 ]
