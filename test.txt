@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351797586",
+    "title": "「夜の部」ニコニコ動画紹介します・音楽・コメント募集してます",
+    "providerId": "130702731",
+    "providerName": "ｐｐ（ぴっぴ）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:02:39.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13070/130702731.jpg?1745874238",
+    "category": "req"
+  },
+  {
     "lvId": "lv351797533",
     "title": "【ニコマス放送】秋のまったりとおっさんホイホイ放送",
     "providerId": "9538503",
@@ -55,17 +66,6 @@
     "category": "req"
   },
   {
-    "lvId": "lv351788999",
-    "title": "【未羽×めこた。】にゃんにゃんおやつクッキング 踊ってみた【初コラボ！】",
-    "providerId": "94295484",
-    "providerName": "めこた。",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:50:00.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9429/94295484.jpg?1590678209",
-    "category": "req"
-  },
-  {
     "lvId": "lv351783243",
     "title": "アイちゃんのMinecraft＃02【再投稿】",
     "providerId": "131935283",
@@ -77,15 +77,114 @@
     "category": "req"
   },
   {
-    "lvId": "lv351797398",
-    "title": "【岐阜県旅行祭2026視聴会】4日目　20時～23時ごろまで",
-    "providerId": "50659328",
-    "providerName": "雪待月",
+    "lvId": "lv351797515",
+    "title": "Abyss Ring 不思議ダンジョン飯風ゲーム　21時まで",
+    "providerId": "27153074",
+    "providerName": "アカジ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-12T19:44:58.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/5065/50659328.jpg?1474708046",
-    "category": "req"
+    "beginAt": "2026-11-12T20:05:12.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2715/27153074.jpg?1426506596",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797603",
+    "title": "徒然ゲーム枠",
+    "providerId": "21641028",
+    "providerName": "ケケス",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:05:11.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2164/21641028.jpg?1493999735",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797608",
+    "title": "【DarkSouls】若かった頃のゲームは今もクリアできるのか",
+    "providerId": "1675979",
+    "providerName": "猫板れふ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:05:08.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/167/1675979.jpg?1728618302",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797605",
+    "title": "雑多な枠",
+    "providerId": "10422532",
+    "providerName": "おにく",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:05:02.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1042/10422532.jpg?1257930880",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797502",
+    "title": "ストリノヴァとNTE　ハッピーバースデー、己！",
+    "providerId": "4588942",
+    "providerName": "しゃくえん・チャンチェン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:55.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/458/4588942.jpg?1417308743",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797587",
+    "title": "メタファー：リファンタジオ　10回目",
+    "providerId": "14731062",
+    "providerName": "Ken.G",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:08.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797595",
+    "title": "【狐棚のあそび場】ほどほどに楽しむ、趣味娯楽。",
+    "providerId": "79734579",
+    "providerName": "SinKilo(狐棚ゲン)",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:03:25.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/7973/79734579.jpg?1755878497",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797591",
+    "title": "2026年もあっという間",
+    "providerId": "30213698",
+    "providerName": "真神RAY",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:03:10.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797588",
+    "title": "『オウガバトル64』【ネタバレあり】【Wii Uバーチャルコンソール】© 1999 Nintendo / SQUARE ENIX",
+    "providerId": "19022373",
+    "providerName": "にせもっちー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:02:36.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1902/19022373.jpg?1780294012",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797584",
+    "title": "メタファー～(・A・)!?の王様を目指す冒険～",
+    "providerId": "5507687",
+    "providerName": "ひな爺",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:02:23.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/550/5507687.jpg?1379565416",
+    "category": "live"
   },
   {
     "lvId": "lv351797572",
@@ -261,17 +360,6 @@
     "communityName": null,
     "beginAt": "2026-11-12T20:00:37.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1090/10902432.jpg?1636041661",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351797563",
-    "title": "あーーーーーーー",
-    "providerId": "5647185",
-    "providerName": "Haku*",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T20:00:32.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/564/5647185.jpg?1633453409",
     "category": "live"
   },
   {
@@ -858,6 +946,83 @@
     "category": "live"
   },
   {
+    "lvId": "lv351797520",
+    "title": "ニコゲー",
+    "providerId": "141524865",
+    "providerName": "こんにゃく",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:56:49.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14152/141524865.jpg?1776326709",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797518",
+    "title": "とにかくひっどいはーとふる適当枠",
+    "providerId": "3457968",
+    "providerName": "東北ずんぶ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:56:49.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/345/3457968.jpg?1305640681",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797478",
+    "title": "【奈落2】エンリちゃん…？",
+    "providerId": "6610696",
+    "providerName": "風間 吉子",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:56:39.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/661/6610696.jpg?1789470361",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797512",
+    "title": "今年も残り５０日？どうしよう。プロセカとアーツと…",
+    "providerId": "2527395",
+    "providerName": "まーくんさん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:56:38.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/252/2527395.jpg?1484229791",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797495",
+    "title": "ヨッシーアイランド　ワープ有りRTA",
+    "providerId": "53793553",
+    "providerName": "トロル",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:56:03.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/5379/53793553.jpg?1704078163",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797509",
+    "title": "森をさまようだけ",
+    "providerId": "31312488",
+    "providerName": "おおだんご",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:55:53.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3131/31312488.jpg?1790024577",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351797508",
+    "title": "いいえ、子ども向けではありません【ゲゲゲの鬼太郎 妖怪大魔境】",
+    "providerId": "134043274",
+    "providerName": "牛頭鬼阿坊",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:55:37.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13404/134043274.jpg?1727100620",
+    "category": "live"
+  },
+  {
     "lvId": "lv351797476",
     "title": "【鳴潮】リリーを無凸ガチャして3.8ストーリーやろう！",
     "providerId": "374108",
@@ -1155,83 +1320,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351797391",
-    "title": "【ゲーム配信】配信テスト【マイクが無い】",
-    "providerId": "5364917",
-    "providerName": "nekoneko",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:45:13.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/536/5364917.jpg?1733402652",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351797390",
-    "title": "パズルボブル4 RTA(ユルめ)",
-    "providerId": "1118666",
-    "providerName": "ruiji",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:45:01.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/111/1118666.jpg?1792522953",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351797378",
-    "title": "FFレゾナンス | 初見 #14 | フィーナの精神世界の奥へ - ファイナルファンタジー レゾナンス FINAL FANTASY RESONANCE",
-    "providerId": "17146972",
-    "providerName": "コウ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:45:00.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1714/17146972.jpg?1765194742",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351797399",
-    "title": "【FE 万紫千紅】＃セオドラ編 8章～ 30回中20回力を伸ばした陛下【2周目ハード】",
-    "providerId": "18515900",
-    "providerName": "ほうしん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:44:59.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1851/18515900.jpg?1739110557",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351797395",
-    "title": "PS5　CoD:MW4",
-    "providerId": "7702023",
-    "providerName": "みね",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:44:29.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/770/7702023.jpg?1419989022",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351797387",
-    "title": "本当に幸福な人間はこの日本には少ない",
-    "providerId": "127225605",
-    "providerName": "6409(むしょく)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:43:55.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12722/127225605.jpg?1790902933",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351797388",
-    "title": "ルーキー乞食　＋８．３だかから　＋９．５だか　ビバップの劇場版またみてｋちあ",
-    "providerId": "145846173",
-    "providerName": "ゆうくんには夢がないよね",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:43:30.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv351797585",
     "title": "こんばんは≪発散≫",
     "providerId": "1878034",
@@ -1309,15 +1397,125 @@
     "category": "try"
   },
   {
-    "lvId": "lv351797375",
-    "title": "【歌枠】風邪は歌って治せ！！！！！！！！！！",
-    "providerId": "13406035",
-    "providerName": "SIKI ISHIHARA.",
+    "lvId": "lv351797610",
+    "title": "中国人技能実習生です。日本での差別に悩まされてます。",
+    "providerId": "145868456",
+    "providerName": "李梓涵",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-12T19:44:37.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1340/13406035.jpg?1767265554",
-    "category": "try"
+    "beginAt": "2026-11-12T20:05:15.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14586/145868456.jpg?1794207842",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797611",
+    "title": "◆飯雑◆ 特に何もなし/垂れ流し/無言多し",
+    "providerId": "1568386",
+    "providerName": "echo",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:05:02.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/156/1568386.jpg?1351683899",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797604",
+    "title": "亞洲職棒冠軍爭霸賽",
+    "providerId": "30413655",
+    "providerName": "マーゴ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:54.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797606",
+    "title": "目玉焼き作るか",
+    "providerId": "57804032",
+    "providerName": "松ぼっくり",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:36.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/5780/57804032.jpg?1738350023",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797597",
+    "title": "【広告お願い】早くて終わるの0時【初見歓迎】",
+    "providerId": "129520534",
+    "providerName": "☆メープル☆",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:34.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12952/129520534.jpg?1725599182",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797602",
+    "title": "俺から全てを奪った群馬県民全員が早く死にますように(-人-)死ね",
+    "providerId": "125644672",
+    "providerName": "ふきの",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:25.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797600",
+    "title": "休憩",
+    "providerId": "64127042",
+    "providerName": "GUEST",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:24.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797579",
+    "title": "俺も出会い厨女生主に居酒屋おごってもらいたいぞ",
+    "providerId": "118969037",
+    "providerName": "天パのてんちゃん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:21.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11896/118969037.jpg?1741280693",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797601",
+    "title": "【ろ～とるの】コトブキヤ アルカナディア ギィを作るよ!!【おもちゃ箱】",
+    "providerId": "139130",
+    "providerName": "脳震",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:04:20.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13/139130.jpg?1694163956",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797592",
+    "title": "53歳自由人のライブ",
+    "providerId": "85902016",
+    "providerName": "ともさんP",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:03:19.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/8590/85902016.jpg?1722953186",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797589",
+    "title": "つかれたー",
+    "providerId": "128798277",
+    "providerName": "ちょみお",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T20:02:36.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12879/128798277.jpg?1682666152",
+    "category": "common"
   },
   {
     "lvId": "lv351797585",
@@ -2090,6 +2288,39 @@
     "category": "common"
   },
   {
+    "lvId": "lv351797459",
+    "title": "母親に「私はATMじゃない」とブチギレられました",
+    "providerId": "140716467",
+    "providerName": "サチオ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:51:35.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14071/140716467.jpg?1792408443",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797455",
+    "title": "過疎",
+    "providerId": "91369598",
+    "providerName": "(真)とものしん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:51:34.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9136/91369598.jpg?1568273110",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351797456",
+    "title": "ニコゲ―　リクエスト歓迎",
+    "providerId": "12055859",
+    "providerName": "9月　　　　　　　　　　　　　☆",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T19:51:31.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1205/12055859.jpg?1786640929",
+    "category": "common"
+  },
+  {
     "lvId": "lv351797442",
     "title": "セナの雑談配信",
     "providerId": "124158612",
@@ -2142,17 +2373,6 @@
     "communityName": null,
     "beginAt": "2026-11-12T19:49:18.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351797429",
-    "title": "もうすぐ卒業だよ",
-    "providerId": "136707155",
-    "providerName": "にゃんにゃん♾️‼️",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:48:37.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13670/136707155.jpg?1737299579",
     "category": "common"
   },
   {
@@ -2274,50 +2494,6 @@
     "communityName": null,
     "beginAt": "2026-11-12T19:46:24.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1464/14647683.jpg?1741226568",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351797375",
-    "title": "【歌枠】風邪は歌って治せ！！！！！！！！！！",
-    "providerId": "13406035",
-    "providerName": "SIKI ISHIHARA.",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:44:37.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1340/13406035.jpg?1767265554",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351797393",
-    "title": "いくよ！",
-    "providerId": "93631622",
-    "providerName": "じゃら",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:44:33.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9363/93631622.jpg?1672685955",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351797392",
-    "title": "63.9kg生理中　💊13:00☀️",
-    "providerId": "145879286",
-    "providerName": "。。",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:43:50.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351797383",
-    "title": "私の好きな歌　　　　　副作用ではじめ　　　　　８０５０問題　現実問題社会復帰は無理だし。。。終わったなって。。。",
-    "providerId": "142772824",
-    "providerName": "統失にゃんこ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T19:43:50.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
