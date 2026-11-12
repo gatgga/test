@@ -1,5 +1,27 @@
 [
   {
+    "lvId": "lv351796136",
+    "title": "【東方アレンジ】 Fsen 【リクエスト配信】",
+    "providerId": "40484045",
+    "providerName": "ふとさん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T16:00:05.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/4048/40484045.jpg?1771927332",
+    "category": "req"
+  },
+  {
+    "lvId": "lv351796139",
+    "title": "Megastore Simulator",
+    "providerId": "16232099",
+    "providerName": "ケイン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T16:01:15.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1623/16232099.jpg?1359095598",
+    "category": "live"
+  },
+  {
     "lvId": "lv351796120",
     "title": "今さらながら、 真・三國無双7 猛将伝DX",
     "providerId": "762212",
@@ -231,28 +253,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351796074",
-    "title": "シャドウバース　今日は好きなデッキでゆるく遊ぶ",
-    "providerId": "1205618",
-    "providerName": "田中",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:41:32.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/120/1205618.jpg?1656684114",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351796073",
-    "title": "『オウガバトル64』【ネタバレあり】【Wii Uバーチャルコンソール】© 1999 Nintendo / SQUARE ENIX",
-    "providerId": "19022373",
-    "providerName": "にせもっちー",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:41:30.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1902/19022373.jpg?1780294012",
-    "category": "live"
-  },
-  {
     "lvId": "lv351796128",
     "title": "引けおつ",
     "providerId": "39532023",
@@ -275,15 +275,92 @@
     "category": "try"
   },
   {
-    "lvId": "lv351796075",
-    "title": "こんにちは。",
-    "providerId": "120034380",
-    "providerName": "JoRi:",
+    "lvId": "lv351796143",
+    "title": "おはよ",
+    "providerId": "95713165",
+    "providerName": "ぷげらっちょ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-12T15:41:45.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12003/120034380.jpg?1791990254",
-    "category": "try"
+    "beginAt": "2026-11-12T16:02:08.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9571/95713165.jpg?1789686206",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351796141",
+    "title": "っっっっっっl",
+    "providerId": "21925847",
+    "providerName": "ゲロ肉まん（テイカー）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T16:01:18.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2192/21925847.jpg?1503902761",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351796140",
+    "title": "B.L.Kの部屋51歳🐰",
+    "providerId": "21887801",
+    "providerName": "♰✟♰-B-L-K ♰✟♰",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T16:01:18.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2188/21887801.jpg?1793768531",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351796137",
+    "title": "テイルズオブファンタジア",
+    "providerId": "63498322",
+    "providerName": "タチミ。",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T16:01:15.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6349/63498322.jpg?1658847868",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351793277",
+    "title": "クリエイターサポート返礼品の旅(西日本)",
+    "providerId": "3555971",
+    "providerName": "ごるる",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T16:00:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/355/3555971.jpg?1725077430",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351784829",
+    "title": "BSフジ【ニコニコ実況】",
+    "providerId": "127680016",
+    "providerName": "反町狸",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T16:00:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12768/127680016.jpg?1785492281",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351796130",
+    "title": "ニコゲーで遊ぶ枠【広告イベ】",
+    "providerId": "3162097",
+    "providerName": "クロイ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T15:59:59.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/316/3162097.jpg?1785222070",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351796133",
+    "title": "ちわ",
+    "providerId": "3977420",
+    "providerName": "かるぴん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-12T15:58:49.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/397/3977420.jpg?1256824764",
+    "category": "common"
   },
   {
     "lvId": "lv351796049",
@@ -451,17 +528,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351796102",
-    "title": "雑談",
-    "providerId": "127788145",
-    "providerName": "こまちゃん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:50:38.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12778/127788145.jpg?1698512803",
-    "category": "common"
-  },
-  {
     "lvId": "lv351796103",
     "title": "【ルーキー】事故るり今日はやっぱりだめだー【切り抜き❌】",
     "providerId": "145845048",
@@ -583,17 +649,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351796082",
-    "title": "【ルーキー】ゲストの雑談配信",
-    "providerId": "145878667",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:44:56.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
     "lvId": "lv351796080",
     "title": "帰るお疲れ様です",
     "providerId": "130905582",
@@ -602,50 +657,6 @@
     "communityName": null,
     "beginAt": "2026-11-12T15:44:55.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351796078",
-    "title": "帰るよ",
-    "providerId": "22027794",
-    "providerName": "大将ฅ^•ω•^ฅ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:43:17.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2202/22027794.jpg?1621166856",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351796076",
-    "title": "移動",
-    "providerId": "64127042",
-    "providerName": "GUEST",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:42:35.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351796077",
-    "title": "地獄",
-    "providerId": "58910192",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:42:24.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351796075",
-    "title": "こんにちは。",
-    "providerId": "120034380",
-    "providerName": "JoRi:",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-12T15:41:45.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12003/120034380.jpg?1791990254",
     "category": "common"
   }
 ]
