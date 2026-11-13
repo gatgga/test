@@ -1,5 +1,38 @@
 [
   {
+    "lvId": "lv351807587",
+    "title": "kc2nd",
+    "providerId": "60397871",
+    "providerName": "ねくすと",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T07:37:11.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351807585",
+    "title": "流星のロックマン",
+    "providerId": "81722190",
+    "providerName": "どっとこむ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T07:36:26.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351807582",
+    "title": "やみっちがなんかしてる・・・",
+    "providerId": "20394",
+    "providerName": "サリアス",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T07:35:27.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2/20394.jpg?1582391648",
+    "category": "live"
+  },
+  {
     "lvId": "lv351807573",
     "title": "サガフロ２　全シナリオRTA",
     "providerId": "51926357",
@@ -99,17 +132,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351807533",
-    "title": "朝までだらだら30分タイム時間",
-    "providerId": "13419841",
-    "providerName": "OPA.",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T07:17:09.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1341/13419841.jpg?1431954830",
-    "category": "live"
-  },
-  {
     "lvId": "lv351807580",
     "title": "つむぎんちゃん描いてます",
     "providerId": "2568565",
@@ -173,17 +195,6 @@
     "communityName": null,
     "beginAt": "2026-11-14T07:19:40.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14120/141209633.jpg?1766859193",
-    "category": "try"
-  },
-  {
-    "lvId": "lv351807534",
-    "title": "◎貴方のサークル「MOON CRAFT」は、木曜日 東地区 東２ホール ソ18b に配置されました。",
-    "providerId": "16547308",
-    "providerName": "room C109㈭東ソ18b",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T07:18:01.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1654/16547308.jpg?1557136981",
     "category": "try"
   },
   {
@@ -352,17 +363,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351807557",
-    "title": "遅咲きの担々麺の、資源について考える",
-    "providerId": "1385501",
-    "providerName": "遅咲きの担々麺",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T07:28:25.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/138/1385501.jpg?1781395053",
-    "category": "common"
-  },
-  {
     "lvId": "lv351807556",
     "title": "フキダシ→見直しチェック→下書き",
     "providerId": "127284828",
@@ -459,39 +459,6 @@
     "communityName": null,
     "beginAt": "2026-11-14T07:19:40.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14120/141209633.jpg?1766859193",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351807535",
-    "title": "おはよう",
-    "providerId": "129071480",
-    "providerName": "ドラむすび",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T07:19:05.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12907/129071480.jpg?1783677967",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351807536",
-    "title": "【車載】いつもの通勤配信　【初見さん歓迎】",
-    "providerId": "24446271",
-    "providerName": "ＤＢ７０",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T07:18:17.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2444/24446271.jpg?1359589578",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351807534",
-    "title": "◎貴方のサークル「MOON CRAFT」は、木曜日 東地区 東２ホール ソ18b に配置されました。",
-    "providerId": "16547308",
-    "providerName": "room C109㈭東ソ18b",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T07:18:01.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1654/16547308.jpg?1557136981",
     "category": "common"
   }
 ]
