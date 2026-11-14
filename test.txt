@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351814912",
+    "title": "「朝の部」ニコニコ動画紹介します・音楽・コメント募集してます",
+    "providerId": "130702731",
+    "providerName": "ｐｐ（ぴっぴ）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-15T06:30:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13070/130702731.jpg?1745874238",
+    "category": "req"
+  },
+  {
     "lvId": "lv351814924",
     "title": "あさおふね",
     "providerId": "44024525",
@@ -121,37 +132,26 @@
     "category": "live"
   },
   {
-    "lvId": "lv351814872",
-    "title": "【#朝活vtuber 】11/15 銀河颯馬のEarlyMorning",
-    "providerId": "124968499",
-    "providerName": "銀河颯馬/VTuber",
+    "lvId": "lv351814928",
+    "title": "弾幕歓迎　 朝刊　ごずら　カラオケ＆ゲーム",
+    "providerId": "14492505",
+    "providerName": "ごずら１号",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-15T06:13:04.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12496/124968499.jpg?1711489444",
-    "category": "live"
+    "beginAt": "2026-11-15T06:31:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1449/14492505.jpg?1366804786",
+    "category": "try"
   },
   {
-    "lvId": "lv351814887",
-    "title": "【日課】VISION-akiのゲーム生放送",
-    "providerId": "20205581",
-    "providerName": "VISION-aki",
+    "lvId": "lv351814926",
+    "title": "神、主に従って神主イイススハリストスを愛しましょう！安息日前放安息日守れよ！子である主イイススハリストスを信じましょうそして父なる神を礼拝しましょう放送異端のエホバの証人全能神教会とは関係ありません。",
+    "providerId": "144847615",
+    "providerName": "髙橋努",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-15T06:11:56.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2020/20205581.jpg?1297403759",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351814885",
-    "title": "【エルデンリング ナイトレインSteam版（PC版）】1日1義務",
-    "providerId": "649869",
-    "providerName": "孤独死",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-15T06:10:27.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/64/649869.jpg?1416629278",
-    "category": "live"
+    "beginAt": "2026-11-15T06:30:05.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14484/144847615.jpg?1791500443",
+    "category": "try"
   },
   {
     "lvId": "lv351814919",
@@ -165,15 +165,37 @@
     "category": "try"
   },
   {
-    "lvId": "lv351814888",
-    "title": "作業",
-    "providerId": "140784746",
-    "providerName": "赤すば夏太郎",
+    "lvId": "lv351814928",
+    "title": "弾幕歓迎　 朝刊　ごずら　カラオケ＆ゲーム",
+    "providerId": "14492505",
+    "providerName": "ごずら１号",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-15T06:12:21.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "try"
+    "beginAt": "2026-11-15T06:31:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1449/14492505.jpg?1366804786",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351814927",
+    "title": "少しﾀﾞｹ、覗いてく？",
+    "providerId": "134728977",
+    "providerName": "空川 白餅",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-15T06:30:09.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13472/134728977.jpg?1781694142",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351814926",
+    "title": "神、主に従って神主イイススハリストスを愛しましょう！安息日前放安息日守れよ！子である主イイススハリストスを信じましょうそして父なる神を礼拝しましょう放送異端のエホバの証人全能神教会とは関係ありません。",
+    "providerId": "144847615",
+    "providerName": "髙橋努",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-15T06:30:05.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14484/144847615.jpg?1791500443",
+    "category": "common"
   },
   {
     "lvId": "lv351814925",
@@ -217,17 +239,6 @@
     "communityName": null,
     "beginAt": "2026-11-15T06:26:45.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/8996/89964336.jpg?1782889285",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351814920",
-    "title": "おつハゲ",
-    "providerId": "145867561",
-    "providerName": "chic",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-15T06:24:40.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -283,17 +294,6 @@
     "communityName": null,
     "beginAt": "2026-11-15T06:19:20.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14448/144482794.jpg?1789426884",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351814908",
-    "title": "あ",
-    "providerId": "145884466",
-    "providerName": "24",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-15T06:18:59.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -404,50 +404,6 @@
     "communityName": null,
     "beginAt": "2026-11-15T06:13:43.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14541/145416737.jpg?1794171691",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351814888",
-    "title": "作業",
-    "providerId": "140784746",
-    "providerName": "赤すば夏太郎",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-15T06:12:21.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351814889",
-    "title": "朝っぱらからお雑談",
-    "providerId": "137296405",
-    "providerName": "サル a.k.a.ドミトリイ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-15T06:12:18.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13729/137296405.jpg?1763481817",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351814886",
-    "title": "釣り🐟️",
-    "providerId": "142879728",
-    "providerName": "げそのこめん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-15T06:12:14.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14287/142879728.jpg?1783047692",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351814880",
-    "title": "🇯🇵🌸🗻🌅🌱 鹿島灘🌊星陸(ﾂﾂﾞｵｶ)わたる☆★・",
-    "providerId": "57993636",
-    "providerName": "星陸(ﾂﾂﾞｵｶ)わたる☆★・",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-15T06:10:47.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/5799/57993636.jpg?1758744310",
     "category": "common"
   }
 ]
