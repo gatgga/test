@@ -22,17 +22,6 @@
     "category": "req"
   },
   {
-    "lvId": "lv351796992",
-    "title": "【毎日投稿】ムキ・ムキ・ムキへの道！！！【RFA】#1550",
-    "providerId": "17251850",
-    "providerName": "ミハル（元山田）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:50:00.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1725/17251850.jpg?1377797384",
-    "category": "req"
-  },
-  {
     "lvId": "lv351782731",
     "title": "ライブ公開　ポケモンレジェンズZ-A Pokémon LEGENDS Z-A実況プレイ46",
     "providerId": "34099109",
@@ -42,6 +31,28 @@
     "beginAt": "2026-11-14T11:50:00.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3409/34099109.jpg?1426270185",
     "category": "req"
+  },
+  {
+    "lvId": "lv351808656",
+    "title": "P3RE",
+    "providerId": "2232157",
+    "providerName": "クレア",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:07:14.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/223/2232157.jpg?1578027843",
+    "category": "live"
+  },
+  {
+    "lvId": "lv351808650",
+    "title": "ドカ食い気絶部（笑）モンハンのお時間",
+    "providerId": "76215628",
+    "providerName": "わった",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:05:49.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/7621/76215628.jpg?1664798521",
+    "category": "live"
   },
   {
     "lvId": "lv351808645",
@@ -129,17 +140,6 @@
     "communityName": null,
     "beginAt": "2026-11-14T12:00:48.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351808613",
-    "title": "は〇こ〇ね「ノルゲアイツボルに穴開けろ　 21cm単装主砲☆９にしろ」",
-    "providerId": "135003478",
-    "providerName": "みみ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T12:00:04.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13500/135003478.jpg?1782363677",
     "category": "live"
   },
   {
@@ -363,28 +363,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351808566",
-    "title": "空の軌跡1",
-    "providerId": "273376",
-    "providerName": "てけてけくん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:48:53.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/27/273376.jpg?1321875799",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351808561",
-    "title": "同人作家がETS2のコーチでバスドライブする枠",
-    "providerId": "4057595",
-    "providerName": "スタジオセピア公式",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:47:28.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/405/4057595.jpg?1725184958",
-    "category": "live"
-  },
-  {
     "lvId": "lv351808578",
     "title": "(Ｔｏｆ)ノ禅師　質問「オススメのサプリは？」",
     "providerId": "141209633",
@@ -394,6 +372,105 @@
     "beginAt": "2026-11-14T11:50:42.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14120/141209633.jpg?1766859193",
     "category": "try"
+  },
+  {
+    "lvId": "lv351808659",
+    "title": "【ライブ】ハムスター部屋　　イベント中",
+    "providerId": "36944577",
+    "providerName": "ムー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:07:52.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3694/36944577.jpg?1766380129",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808655",
+    "title": "作戦会議",
+    "providerId": "132982877",
+    "providerName": "りどう",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:06:19.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13298/132982877.jpg?1742097704",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808654",
+    "title": "【自転車 】ペダルクエストってアプリ、おもしろそうですよ　静かな道をサイクリング【外配信】",
+    "providerId": "115758564",
+    "providerName": "J    -",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:06:14.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11575/115758564.jpg?1653135483",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808652",
+    "title": "カツ生",
+    "providerId": "142703869",
+    "providerName": "ぬめめめ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:05:49.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14270/142703869.jpg?1772039233",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808651",
+    "title": "さえこ（仲リース）の雑談配信",
+    "providerId": "138255144",
+    "providerName": "さえこ（仲リース）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:05:37.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13825/138255144.jpg?1761966051",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808647",
+    "title": "【黒い肌の地雷】Karaoke, yaoi, and McDonald's???",
+    "providerId": "143281609",
+    "providerName": "Sajata♡【黒い肌の地雷】",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:04:59.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14328/143281609.jpg?1777280545",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808648",
+    "title": "顔面ベトベトン",
+    "providerId": "145291227",
+    "providerName": "The end",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:04:52.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14529/145291227.jpg?1794092175",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808646",
+    "title": "３人で爆弾しばく",
+    "providerId": "4345417",
+    "providerName": "ねあろ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:04:36.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/434/4345417.jpg?1646140706",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808642",
+    "title": "杉並区に来ております。",
+    "providerId": "56592896",
+    "providerName": "エリテマ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T12:04:31.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/5659/56592896.jpg?1667653378",
+    "category": "common"
   },
   {
     "lvId": "lv351808641",
@@ -759,17 +836,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351808599",
-    "title": "ウサさん",
-    "providerId": "145295527",
-    "providerName": "わじま",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:55:04.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14529/145295527.jpg?1793509547",
-    "category": "common"
-  },
-  {
     "lvId": "lv351808586",
     "title": "【ルーキー】通常営業中。ええ局。ええ画。",
     "providerId": "145888779",
@@ -910,61 +976,6 @@
     "communityName": null,
     "beginAt": "2026-11-14T11:49:34.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12679/126797945.jpg?1687428351",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351808564",
-    "title": "台湾着いた",
-    "providerId": "119883758",
-    "providerName": "しゅに",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:47:56.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11988/119883758.jpg?1744891342",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351808563",
-    "title": "こんばんは",
-    "providerId": "16153430",
-    "providerName": "子桃",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:47:50.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1615/16153430.jpg?1354544150",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351808554",
-    "title": "【ルーキー】ななの雑談配信　高校生",
-    "providerId": "145342880",
-    "providerName": "のんたん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:47:49.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14534/145342880.jpg?1793768531",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351808562",
-    "title": "第23回　マスターズ甲子園　第3 試合 岡山選抜対高松商業",
-    "providerId": "27563702",
-    "providerName": "きらりん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:47:34.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2756/27563702.jpg?1467424774",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351808558",
-    "title": "くいすぎい",
-    "providerId": "21583996",
-    "providerName": "ニ代目やまねぇ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T11:46:52.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2158/21583996.jpg?1624446306",
     "category": "common"
   }
 ]
