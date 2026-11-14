@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351810022",
+    "title": "【GAME　微風邪】　マスデュエ",
+    "providerId": "20414320",
+    "providerName": "tkt（タクト）",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T16:57:57.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2041/20414320.jpg?1687348959",
+    "category": "live"
+  },
+  {
     "lvId": "lv351810135",
     "title": "【NTE】ストーリーやるだけ",
     "providerId": "19895811",
@@ -220,39 +231,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351810063",
-    "title": "FF14",
-    "providerId": "46278698",
-    "providerName": "やまぼうず",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:40:16.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/4627/46278698.jpg?1423914818",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351810060",
-    "title": "wowsすこし",
-    "providerId": "31312488",
-    "providerName": "おおだんご",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:39:52.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3131/31312488.jpg?1790024577",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351810041",
-    "title": "周回",
-    "providerId": "5944058",
-    "providerName": "さも",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:38:16.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/594/5944058.jpg?1556442449",
-    "category": "live"
-  },
-  {
     "lvId": "lv351810127",
     "title": "独学ピアノ練習【ボカロ 東方 etc.....】",
     "providerId": "144282158",
@@ -317,6 +295,149 @@
     "beginAt": "2026-11-14T16:45:06.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1524/15249559.jpg?1764648075",
     "category": "try"
+  },
+  {
+    "lvId": "lv351810044",
+    "title": "【今日も今日とて】作業するのでとりあえずチャット枠【お気軽にどうぞ】2026/11/14【第3部210分枠】〈3544枠目〉",
+    "providerId": "87133088",
+    "providerName": "シュガー",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T17:00:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/8713/87133088.jpg?1654344861",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351809879",
+    "title": "サッカー日本代表vsブラジル、伊藤涼太郎バリャドリード、ノルウェーポルトガルなど【サッカー実況枠、映像なし】",
+    "providerId": "563949",
+    "providerName": "あひる",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T17:00:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/56/563949.jpg?1623848942",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351809141",
+    "title": "クレノの！　ここだけの話。",
+    "providerId": "1765545",
+    "providerName": "紅乃 翠 Kureno Sui",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T17:00:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/176/1765545.jpg?1725984646",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351808820",
+    "title": "「皆で諦めないと！夢をひろげよう　　FIｙ Hiいくみ",
+    "providerId": "42749500",
+    "providerName": "自由が丘FMTV",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T17:00:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/4274/42749500.jpg?1680422514",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351762441",
+    "title": "BS日テレ【ニコニコ実況】",
+    "providerId": "1467971",
+    "providerName": "なまた",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T17:00:00.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/146/1467971.jpg?1723161840",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351689844",
+    "title": "【さおり配信！】",
+    "providerId": null,
+    "providerName": "インフィニア株式会社",
+    "communityId": "ch2644731",
+    "communityName": "あっとほぉーむカフェ",
+    "beginAt": "2026-11-14T17:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2644731.jpg?1785540005",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351673403",
+    "title": "日経CNBC",
+    "providerId": null,
+    "providerName": "株式会社日経CNBC",
+    "communityId": "ch1216",
+    "communityName": "日経CNBC",
+    "beginAt": "2026-11-14T17:00:00.000Z",
+    "thumbnailUrl": "https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch1216.jpg?1785535213",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351810147",
+    "title": "ただいま！かぜなおった！",
+    "providerId": "144542268",
+    "providerName": "伊豆",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T16:59:09.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14454/144542268.jpg?1787281242",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351810146",
+    "title": "色々する　主不在　【無料ギフト•広告歓迎】",
+    "providerId": "85241035",
+    "providerName": "ゲスト　ああ",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T16:58:55.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351810145",
+    "title": "練習",
+    "providerId": "414405",
+    "providerName": "ファッション主夫",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T16:58:05.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351810138",
+    "title": "【カラオケ】群馬で無職が無駄話【しりとり縛り】",
+    "providerId": "143538140",
+    "providerName": "黎明山麓",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T16:57:38.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14353/143538140.jpg?1778170471",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351810141",
+    "title": "えげつないブロック全消しするまで※１回でクリアしたらごめんね",
+    "providerId": "9026332",
+    "providerName": "たくぼん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T16:57:26.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/902/9026332.jpg?1632927910",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351810139",
+    "title": "辛い",
+    "providerId": "133011975",
+    "providerName": "お茶漬け",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-14T16:56:49.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13301/133011975.jpg?1732442571",
+    "category": "common"
   },
   {
     "lvId": "lv351810137",
@@ -551,7 +672,7 @@
   },
   {
     "lvId": "lv351810096",
-    "title": "クレしんつけたらオウムのヘッドギア出てきてエグい！",
+    "title": "クレしんとかみてる",
     "providerId": "145529820",
     "providerName": "挫滅かこ",
     "communityId": null,
@@ -767,61 +888,6 @@
     "communityName": null,
     "beginAt": "2026-11-14T16:40:35.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/2533/25334852.jpg?1644246335",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351810061",
-    "title": "こんばんは世界🌏今起きた",
-    "providerId": "142062182",
-    "providerName": "部田さん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:39:52.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14206/142062182.jpg?1794286917",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351810058",
-    "title": "お久しブリーフ",
-    "providerId": "140705983",
-    "providerName": "つばさ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:39:05.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14070/140705983.jpg?1794639897",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351810057",
-    "title": "あきききの雑談配信",
-    "providerId": "143874591",
-    "providerName": "あききき",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:38:35.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351810051",
-    "title": "ｍｅｇｕの雑談配信",
-    "providerId": "145437773",
-    "providerName": "ｍｅｇｕ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:38:08.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14543/145437773.jpg?1793516553",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351810055",
-    "title": "湖",
-    "providerId": "145310193",
-    "providerName": "大日本歌謡神興會",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-14T16:37:37.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14531/145310193.jpg?1788433796",
     "category": "common"
   }
 ]
