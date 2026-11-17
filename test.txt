@@ -121,28 +121,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351835528",
-    "title": "*:3 朝癒し",
-    "providerId": "11890767",
-    "providerName": "歯に挟まった昆布",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-18T08:22:27.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1189/11890767.jpg?1534515056",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351835529",
-    "title": "テイルズオブファンタジア",
-    "providerId": "59766000",
-    "providerName": "おざ（レトロゲームやる）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-18T08:22:26.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "live"
-  },
-  {
     "lvId": "lv351835573",
     "title": "パッチワーク・ミュージック",
     "providerId": "2903472",
@@ -165,15 +143,37 @@
     "category": "try"
   },
   {
-    "lvId": "lv351835531",
-    "title": "寝",
-    "providerId": "39532023",
-    "providerName": "Peace",
+    "lvId": "lv351835580",
+    "title": "【少しだけ】ツルハの雑談【初見歓迎】",
+    "providerId": "10186640",
+    "providerName": "ツルハ",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-18T08:23:26.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3953/39532023.jpg?1793437706",
-    "category": "try"
+    "beginAt": "2026-11-18T08:42:04.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1018/10186640.jpg?1781006631",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351835581",
+    "title": "4ねでいいからコメントください",
+    "providerId": "69531734",
+    "providerName": "しーちゃん(shii)",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-18T08:41:59.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6953/69531734.jpg?1565517993",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351835582",
+    "title": "にゃんの雑談配信",
+    "providerId": "145330426",
+    "providerName": "にゃん",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-18T08:41:37.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14533/145330426.jpg?1791306780",
+    "category": "common"
   },
   {
     "lvId": "lv351835578",
@@ -385,17 +385,6 @@
     "category": "common"
   },
   {
-    "lvId": "lv351835553",
-    "title": "今日のテストで赤点とったら留年だから受けるか安価で決めるわ",
-    "providerId": "125418873",
-    "providerName": "さんた",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-18T08:31:55.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12541/125418873.jpg?1794538827",
-    "category": "common"
-  },
-  {
     "lvId": "lv351835552",
     "title": "尾崎豊2の雑談配信",
     "providerId": "140934373",
@@ -547,50 +536,6 @@
     "communityName": null,
     "beginAt": "2026-11-18T08:25:28.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351835532",
-    "title": "通信環境🛜よくなったよ",
-    "providerId": "120133472",
-    "providerName": "あきら(旭)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-18T08:24:14.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12013/120133472.jpg?1794589409",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351835533",
-    "title": "仕事ですおはようございます",
-    "providerId": "130905582",
-    "providerName": "ゲスト00",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-18T08:24:07.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351835531",
-    "title": "寝",
-    "providerId": "39532023",
-    "providerName": "Peace",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-18T08:23:26.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3953/39532023.jpg?1793437706",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351835530",
-    "title": "、",
-    "providerId": "145839710",
-    "providerName": "草ばやし",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-18T08:23:16.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14583/145839710.jpg?1793927584",
     "category": "common"
   }
 ]
