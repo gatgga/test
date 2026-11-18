@@ -1,5 +1,16 @@
 [
   {
+    "lvId": "lv351841209",
+    "title": "フォートナイト実況（参加は１８歳以上限定）",
+    "providerId": "53837936",
+    "providerName": "福赤",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T02:49:39.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/5383/53837936.jpg?1666598580",
+    "category": "live"
+  },
+  {
     "lvId": "lv351841208",
     "title": "だらだらとナイトレインをする[無言垂れ流し]",
     "providerId": "10845967",
@@ -88,50 +99,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351841172",
-    "title": "【GTA6】今日から始めるグランド生活！",
-    "providerId": "6747670",
-    "providerName": "鳴門ん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:33:27.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/674/6747670.jpg?1778749696",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351841171",
-    "title": "まったり ロードモナーク Pro したい",
-    "providerId": "1158373",
-    "providerName": "重伝（エデン）",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:33:27.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/115/1158373.jpg?1559851261",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351841165",
-    "title": "(APEX)プラチナ敵強い",
-    "providerId": "141118115",
-    "providerName": "さとんぬ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:32:20.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14111/141118115.jpg?1781168804",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351841078",
-    "title": "眠くなるまでお話しよう！！",
-    "providerId": "129073978",
-    "providerName": "望月 うるる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:31:40.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12907/129073978.jpg?1794790911",
-    "category": "live"
-  },
-  {
     "lvId": "lv351841203",
     "title": "オタク",
     "providerId": "39532023",
@@ -152,6 +119,50 @@
     "beginAt": "2026-11-19T02:36:56.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9571/95713165.jpg?1789686206",
     "category": "try"
+  },
+  {
+    "lvId": "lv351841215",
+    "title": "世の中金です",
+    "providerId": "34174001",
+    "providerName": "ひとがた",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T02:53:58.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3417/34174001.jpg?1667221355",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351841214",
+    "title": "仕事おわりアフターかは帰宅",
+    "providerId": "39738933",
+    "providerName": "りな",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T02:52:44.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3973/39738933.jpg?1790622090",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351841213",
+    "title": "あーい硬筆やりますよ",
+    "providerId": "144223853",
+    "providerName": "owa",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T02:52:25.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14422/144223853.jpg?1778698969",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351841211",
+    "title": "鬱病寝　就寝中",
+    "providerId": "144667222",
+    "providerName": "エアファング板垣",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T02:51:43.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14466/144667222.jpg?1782378248",
+    "category": "common"
   },
   {
     "lvId": "lv351841205",
@@ -228,17 +239,6 @@
     "communityName": null,
     "beginAt": "2026-11-19T02:45:10.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/67/675264.jpg?1722867183",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351841198",
-    "title": "酒飲みたいようで飲みたくない",
-    "providerId": "86729927",
-    "providerName": "ゲスト",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:44:46.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -349,72 +349,6 @@
     "communityName": null,
     "beginAt": "2026-11-19T02:36:25.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12414/124149063.jpg?1789333369",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351841164",
-    "title": "サンタで徘徊",
-    "providerId": "141275006",
-    "providerName": "やつぎ (寒中豚鳥ハダカ走り)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:33:48.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351841173",
-    "title": "着替えました💦",
-    "providerId": "145671371",
-    "providerName": "みいな",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:33:31.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14567/145671371.jpg?1794452451",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351841168",
-    "title": "【艦これ】キラ付けしたりなんかしたり【無課金で頑張りたい！！】",
-    "providerId": "129685594",
-    "providerName": "ざらめ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:33:28.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12968/129685594.jpg?1786230165",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351841170",
-    "title": "壊れかけのラヂヲ〜サッカー実況リミックス〖物好き専用〗",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:33:08.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351841166",
-    "title": "睡",
-    "providerId": "15272138",
-    "providerName": "がわ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:33:08.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351841167",
-    "title": "喝を入れてください",
-    "providerId": "97783843",
-    "providerName": "とんまるき",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T02:32:50.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9778/97783843.jpg?1710407535",
     "category": "common"
   }
 ]
