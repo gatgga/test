@@ -11,6 +11,17 @@
     "category": "req"
   },
   {
+    "lvId": "lv351843508",
+    "title": "学校にいるのに詰将棋配信するだけ",
+    "providerId": "143458910",
+    "providerName": "弥生",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T16:07:18.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
+    "category": "live"
+  },
+  {
     "lvId": "lv351843505",
     "title": "ネタばれあり　トレハン狂人がプレイする世界樹の迷宮Ⅰ",
     "providerId": "10467210",
@@ -231,39 +242,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351843434",
-    "title": "シャドバスWB ちなみに今日はしこってません",
-    "providerId": "5290005",
-    "providerName": "ささき",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:51:33.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/529/5290005.jpg?1261505488",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351843296",
-    "title": "ASO II ラストガーディアン　プレイ配信",
-    "providerId": "14970377",
-    "providerName": "LLぴょん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:51:10.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1497/14970377.jpg?1789470364",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351843427",
-    "title": "NTE ⇒ ウマ娘",
-    "providerId": "3435007",
-    "providerName": "icewing@氷翼",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:50:35.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/343/3435007.jpg?1618739400",
-    "category": "live"
-  },
-  {
     "lvId": "lv351843490",
     "title": "風邪が治りかけたので裏作業　同人３作目制作中やっと完成しそう",
     "providerId": "91702296",
@@ -308,26 +286,59 @@
     "category": "try"
   },
   {
-    "lvId": "lv351843428",
-    "title": "おはよう",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
+    "lvId": "lv351843516",
+    "title": "アクルの雑談配信",
+    "providerId": "10268401",
+    "providerName": "アクル",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-19T15:50:46.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9571/95713165.jpg?1789686206",
-    "category": "try"
+    "beginAt": "2026-11-19T16:10:43.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1026/10268401.jpg?1381074437",
+    "category": "common"
   },
   {
-    "lvId": "lv351843395",
-    "title": "お仕事",
-    "providerId": "79455192",
-    "providerName": "rin",
+    "lvId": "lv351843513",
+    "title": "53歳自由人のライブ",
+    "providerId": "85902016",
+    "providerName": "ともさんP",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-19T15:50:23.000Z",
+    "beginAt": "2026-11-19T16:10:01.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/8590/85902016.jpg?1722953186",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351843507",
+    "title": "【メンヘラ】死にたくて仕方がないので勉強 (コメ返のみ)【支離滅裂、情緒不安定】",
+    "providerId": "95951751",
+    "providerName": "ﾁﾘﾁﾘ‼️@療養中の為不定期",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T16:09:45.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9595/95951751.jpg?1794661528",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351843512",
+    "title": "それでも私は現代の通信技術の発達に感謝しております",
+    "providerId": "143672013",
+    "providerName": "テ・イ・ネイサン",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T16:08:25.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "try"
+    "category": "common"
+  },
+  {
+    "lvId": "lv351843510",
+    "title": "ガチちょっとだけ",
+    "providerId": "61735205",
+    "providerName": "くろえ国王(１０万４1歳)",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-19T16:08:06.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6173/61735205.jpg?1495955359",
+    "category": "common"
   },
   {
     "lvId": "lv351843509",
@@ -437,17 +448,6 @@
     "communityName": null,
     "beginAt": "2026-11-19T16:03:28.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9170/91702296.jpg?1639720697",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351843489",
-    "title": "カラオケ‼️!",
-    "providerId": "122907090",
-    "providerName": "ゆーきゆん",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T16:02:54.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "common"
   },
   {
@@ -690,72 +690,6 @@
     "communityName": null,
     "beginAt": "2026-11-19T15:53:19.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3624/36241188.jpg?1646877689",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351843437",
-    "title": "大輝の配信枠　サンダル修理する　PayPay恵んで下さい　PayPayID kanchi1999",
-    "providerId": "129837826",
-    "providerName": "大輝",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:52:17.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12983/129837826.jpg?1790816482",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351843435",
-    "title": "やりたい生ゲてきとーに17時15分まで",
-    "providerId": "116370524",
-    "providerName": "お湯",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:51:50.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11637/116370524.jpg?1604488045",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351843430",
-    "title": "てきとう",
-    "providerId": "61861633",
-    "providerName": "おいも",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:51:04.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6186/61861633.jpg?1789326681",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351843423",
-    "title": ".",
-    "providerId": "63498322",
-    "providerName": "タチミ。",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:50:58.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/6349/63498322.jpg?1658847868",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351843428",
-    "title": "おはよう",
-    "providerId": "95713165",
-    "providerName": "ぷげらっちょ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:50:46.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/9571/95713165.jpg?1789686206",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351843395",
-    "title": "お仕事",
-    "providerId": "79455192",
-    "providerName": "rin",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-19T15:50:23.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "common"
   }
 ]
