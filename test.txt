@@ -88,37 +88,15 @@
     "category": "live"
   },
   {
-    "lvId": "lv351854775",
-    "title": "【#26】ドラゴンボール レイジングブラスト【DBRB】",
-    "providerId": "14838625",
-    "providerName": "ギルガメッシュ",
+    "lvId": "lv351854818",
+    "title": "【Vlog】ぶらりぢゃき散歩168【朝活】11/21土",
+    "providerId": "142214",
+    "providerName": "ぢゃきお",
     "communityId": null,
     "communityName": null,
-    "beginAt": "2026-11-21T06:01:01.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1483/14838625.jpg?1578168206",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351854762",
-    "title": "セレが気ままに遊ぶ　FF14",
-    "providerId": "15189493",
-    "providerName": "seledyss",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-21T05:58:31.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1518/15189493.jpg?1406151142",
-    "category": "live"
-  },
-  {
-    "lvId": "lv351854772",
-    "title": "【VSF】DailyOzisan",
-    "providerId": "5080180",
-    "providerName": "hikari",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-21T05:58:28.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "live"
+    "beginAt": "2026-11-21T06:19:07.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14/142214.jpg?1769058125",
+    "category": "try"
   },
   {
     "lvId": "lv351854791",
@@ -130,6 +108,28 @@
     "beginAt": "2026-11-21T06:04:47.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv351854819",
+    "title": "おはようございます🌞アホは、無視して配信します！",
+    "providerId": "76075497",
+    "providerName": "dis  key",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-21T06:19:44.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/7607/76075497.jpg?1743361285",
+    "category": "common"
+  },
+  {
+    "lvId": "lv351854818",
+    "title": "【Vlog】ぶらりぢゃき散歩168【朝活】11/21土",
+    "providerId": "142214",
+    "providerName": "ぢゃきお",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-21T06:19:07.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14/142214.jpg?1769058125",
+    "category": "common"
   },
   {
     "lvId": "lv351854817",
@@ -184,17 +184,6 @@
     "communityName": null,
     "beginAt": "2026-11-21T06:14:21.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/3597/35973385.jpg?1557990411",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351854810",
-    "title": "おはようございます🌞アホは、無視して配信します！",
-    "providerId": "76075497",
-    "providerName": "dis  key",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-21T06:13:28.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/7607/76075497.jpg?1743361285",
     "category": "common"
   },
   {
@@ -360,50 +349,6 @@
     "communityName": null,
     "beginAt": "2026-11-21T06:02:05.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/10/104153.jpg?1639195416",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351854779",
-    "title": "ともたろう大放送　おはよう",
-    "providerId": "145235371",
-    "providerName": "ともたろうZ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-21T06:01:15.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14523/145235371.jpg?1788591993",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351854774",
-    "title": "遍照寺リモート朝勤行",
-    "providerId": "16407391",
-    "providerName": "namasuke",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-21T06:00:42.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1640/16407391.jpg?1598101726",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351854776",
-    "title": "Mobtaire Ver,Sadness Lily～モブティア バージョン サドネスリリィ～（３０分）",
-    "providerId": "19129547",
-    "providerName": "おむつランド長谷川",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-21T06:00:39.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/1912/19129547.jpg?1726957123",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351854752",
-    "title": "助けてください！初見さんが20分来ないと即終了朝活！",
-    "providerId": "138100443",
-    "providerName": "欖式卯美優(らんしきうみゆ)",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-21T05:58:27.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13810/138100443.jpg?1786620970",
     "category": "common"
   }
 ]
