@@ -55,17 +55,6 @@
     "category": "live"
   },
   {
-    "lvId": "lv351889425",
-    "title": "アークザラッド２",
-    "providerId": "145840487",
-    "providerName": "かふぇオレオ",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-26T07:24:55.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/14584/145840487.jpg?1794661524",
-    "category": "live"
-  },
-  {
     "lvId": "lv351889467",
     "title": "さむすぎ編集ワック",
     "providerId": "96317622",
@@ -97,6 +86,17 @@
     "beginAt": "2026-11-26T07:34:55.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
     "category": "try"
+  },
+  {
+    "lvId": "lv351889470",
+    "title": "おはようさーん",
+    "providerId": "119468356",
+    "providerName": "かおり",
+    "communityId": null,
+    "communityName": null,
+    "beginAt": "2026-11-26T07:41:53.000Z",
+    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/11946/119468356.jpg?1789391981",
+    "category": "common"
   },
   {
     "lvId": "lv351889467",
@@ -360,50 +360,6 @@
     "communityName": null,
     "beginAt": "2026-11-26T07:26:53.000Z",
     "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/12877/128771920.jpg?1794790911",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351889424",
-    "title": "壊れかけのラヂヲ〜サッカー実況リミックス〖素晴らしき深読みちゃんの世界〗",
-    "providerId": "10856175",
-    "providerName": "スナフキン",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-26T07:24:28.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351889422",
-    "title": "あけおめ",
-    "providerId": "116245763",
-    "providerName": "たま",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-26T07:24:06.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/defaults/blank.jpg",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351889419",
-    "title": "雑談",
-    "providerId": "133034978",
-    "providerName": "ふることしる",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-26T07:23:47.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13303/133034978.jpg?1746644546",
-    "category": "common"
-  },
-  {
-    "lvId": "lv351889401",
-    "title": "あいふぉんからちゃんとやる",
-    "providerId": "133010129",
-    "providerName": "ちゃんとやって",
-    "communityId": null,
-    "communityName": null,
-    "beginAt": "2026-11-26T07:22:43.000Z",
-    "thumbnailUrl": "https://img.nicoprofile.nimg.jp/usericon/13301/133010129.jpg?1794805564",
     "category": "common"
   }
 ]
